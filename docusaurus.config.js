@@ -57,6 +57,17 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
+            type: 'doc',
+            docId: 'team',
+            position: 'left',
+            label: 'Team',
+          },
+          {
+            href: '/about',
+            label: 'About',
+            position: 'left',
+          },
+          {
             href: '#',
             label: 'Play now',
             position: 'right',

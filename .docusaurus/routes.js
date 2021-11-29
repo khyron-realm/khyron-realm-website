@@ -39,6 +39,11 @@ export default [
     exact: true
   },
   {
+    path: '/about',
+    component: ComponentCreator('/about','239'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog','520'),
     exact: true
@@ -100,8 +105,14 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','5ba'),
+    component: ComponentCreator('/docs','899'),
     routes: [
+      {
+        path: '/docs/community',
+        component: ComponentCreator('/docs/community','b1a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
       {
         path: '/docs/description',
         component: ComponentCreator('/docs/description','352'),
@@ -127,8 +138,44 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/Privacy policy',
+        component: ComponentCreator('/docs/Privacy policy','19e'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/roadmap',
+        component: ComponentCreator('/docs/roadmap','7ea'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/story',
         component: ComponentCreator('/docs/story','a65'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/team',
+        component: ComponentCreator('/docs/team','e04'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/technology',
+        component: ComponentCreator('/docs/technology','57f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/terms&conditions',
+        component: ComponentCreator('/docs/terms&conditions','f5f'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tokenomics',
+        component: ComponentCreator('/docs/tokenomics','110'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

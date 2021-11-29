@@ -1,0 +1,27 @@
+{
+  "unversionedId": "community",
+  "id": "community",
+  "isDocsHomePage": false,
+  "title": "Community",
+  "description": "Community coming soon ...",
+  "source": "@site/docs/community.md",
+  "sourceDirName": ".",
+  "slug": "/community",
+  "permalink": "/docs/community",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/community.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Story",
+    "permalink": "/docs/story"
+  },
+  "next": {
+    "title": "Technology",
+    "permalink": "/docs/technology"
+  }
+}

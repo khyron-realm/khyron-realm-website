@@ -11,6 +11,11 @@
           "mainDocId": "description",
           "docs": [
             {
+              "id": "community",
+              "path": "/docs/community",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "description",
               "path": "/docs/description",
               "sidebar": "tutorialSidebar"
@@ -31,8 +36,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Privacy policy",
+              "path": "/docs/Privacy policy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "roadmap",
+              "path": "/docs/roadmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "story",
               "path": "/docs/story",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "team",
+              "path": "/docs/team",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technology",
+              "path": "/docs/technology",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "terms&conditions",
+              "path": "/docs/terms&conditions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tokenomics",
+              "path": "/docs/tokenomics",
               "sidebar": "tutorialSidebar"
             }
           ]

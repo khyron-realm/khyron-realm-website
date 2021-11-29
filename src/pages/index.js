@@ -29,8 +29,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Crypto MMO game ${siteConfig.title}`}
+      description="Join RoboChain, a new crypto MMO mobile game <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

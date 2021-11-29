@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Privacy policy",
+  "id": "Privacy policy",
+  "isDocsHomePage": false,
+  "title": "Privacy policy",
+  "description": "Last updated: November 23, 2021",
+  "source": "@site/docs/Privacy policy.md",
+  "sourceDirName": ".",
+  "slug": "/Privacy policy",
+  "permalink": "/docs/Privacy policy",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Privacy policy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Terms & Conditions",
+    "permalink": "/docs/terms&conditions"
+  }
+}

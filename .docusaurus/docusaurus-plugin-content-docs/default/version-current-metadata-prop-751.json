@@ -40,6 +40,41 @@
         "type": "link",
         "label": "Story",
         "href": "/docs/story"
+      },
+      {
+        "type": "link",
+        "label": "Community",
+        "href": "/docs/community"
+      },
+      {
+        "type": "link",
+        "label": "Technology",
+        "href": "/docs/technology"
+      },
+      {
+        "type": "link",
+        "label": "Roadmap",
+        "href": "/docs/roadmap"
+      },
+      {
+        "type": "link",
+        "label": "Team",
+        "href": "/docs/team"
+      },
+      {
+        "type": "link",
+        "label": "Tokenomics",
+        "href": "/docs/tokenomics"
+      },
+      {
+        "type": "link",
+        "label": "Terms & Conditions",
+        "href": "/docs/terms&conditions"
+      },
+      {
+        "type": "link",
+        "label": "Privacy policy",
+        "href": "/docs/Privacy policy"
       }
     ]
   }

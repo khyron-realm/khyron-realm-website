@@ -1,0 +1,27 @@
+{
+  "unversionedId": "roadmap",
+  "id": "roadmap",
+  "isDocsHomePage": false,
+  "title": "Roadmap",
+  "description": "Roadmap coming soon ...",
+  "source": "@site/docs/roadmap.md",
+  "sourceDirName": ".",
+  "slug": "/roadmap",
+  "permalink": "/docs/roadmap",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/roadmap.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Technology",
+    "permalink": "/docs/technology"
+  },
+  "next": {
+    "title": "Team",
+    "permalink": "/docs/team"
+  }
+}

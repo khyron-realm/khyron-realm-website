@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tokenomics",
+  "id": "tokenomics",
+  "isDocsHomePage": false,
+  "title": "Tokenomics",
+  "description": "Tokenomics coming soon ...",
+  "source": "@site/docs/tokenomics.md",
+  "sourceDirName": ".",
+  "slug": "/tokenomics",
+  "permalink": "/docs/tokenomics",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tokenomics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Team",
+    "permalink": "/docs/team"
+  },
+  "next": {
+    "title": "Terms & Conditions",
+    "permalink": "/docs/terms&conditions"
+  }
+}

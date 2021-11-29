@@ -1,0 +1,27 @@
+{
+  "unversionedId": "terms&conditions",
+  "id": "terms&conditions",
+  "isDocsHomePage": false,
+  "title": "Terms & Conditions",
+  "description": "Terms & Conditions coming soon ...",
+  "source": "@site/docs/terms&conditions.md",
+  "sourceDirName": ".",
+  "slug": "/terms&conditions",
+  "permalink": "/docs/terms&conditions",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/terms&conditions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tokenomics",
+    "permalink": "/docs/tokenomics"
+  },
+  "next": {
+    "title": "Privacy policy",
+    "permalink": "/docs/Privacy policy"
+  }
+}

@@ -20,11 +20,38 @@
           "mainDocId": "description",
           "docs": [
             {
+              "unversionedId": "community",
+              "id": "community",
+              "isDocsHomePage": false,
+              "title": "Community",
+              "description": "Community coming soon ...",
+              "source": "@site/docs/community.md",
+              "sourceDirName": ".",
+              "slug": "/community",
+              "permalink": "/docs/community",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/community.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Story",
+                "permalink": "/docs/story"
+              },
+              "next": {
+                "title": "Technology",
+                "permalink": "/docs/technology"
+              }
+            },
+            {
               "unversionedId": "description",
               "id": "description",
               "isDocsHomePage": false,
               "title": "Description",
-              "description": "description",
+              "description": "Description coming soon ...",
               "source": "@site/docs/description.md",
               "sourceDirName": ".",
               "slug": "/description",
@@ -47,7 +74,7 @@
               "id": "gameplay/auctions",
               "isDocsHomePage": false,
               "title": "Auctions",
-              "description": "",
+              "description": "Auctions coming soon ...",
               "source": "@site/docs/gameplay/auctions.md",
               "sourceDirName": "gameplay",
               "slug": "/gameplay/auctions",
@@ -74,7 +101,7 @@
               "id": "gameplay/headquarters",
               "isDocsHomePage": false,
               "title": "Headquarters",
-              "description": "",
+              "description": "Headquarters coming soon ...",
               "source": "@site/docs/gameplay/headquarters.md",
               "sourceDirName": "gameplay",
               "slug": "/gameplay/headquarters",
@@ -101,7 +128,7 @@
               "id": "gameplay/mines",
               "isDocsHomePage": false,
               "title": "Mines",
-              "description": "",
+              "description": "Mines coming soon ...",
               "source": "@site/docs/gameplay/mines.md",
               "sourceDirName": "gameplay",
               "slug": "/gameplay/mines",
@@ -124,11 +151,61 @@
               }
             },
             {
+              "unversionedId": "Privacy policy",
+              "id": "Privacy policy",
+              "isDocsHomePage": false,
+              "title": "Privacy policy",
+              "description": "Last updated: November 23, 2021",
+              "source": "@site/docs/Privacy policy.md",
+              "sourceDirName": ".",
+              "slug": "/Privacy policy",
+              "permalink": "/docs/Privacy policy",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Privacy policy.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Terms & Conditions",
+                "permalink": "/docs/terms&conditions"
+              }
+            },
+            {
+              "unversionedId": "roadmap",
+              "id": "roadmap",
+              "isDocsHomePage": false,
+              "title": "Roadmap",
+              "description": "Roadmap coming soon ...",
+              "source": "@site/docs/roadmap.md",
+              "sourceDirName": ".",
+              "slug": "/roadmap",
+              "permalink": "/docs/roadmap",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/roadmap.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Technology",
+                "permalink": "/docs/technology"
+              },
+              "next": {
+                "title": "Team",
+                "permalink": "/docs/team"
+              }
+            },
+            {
               "unversionedId": "story",
               "id": "story",
               "isDocsHomePage": false,
               "title": "Story",
-              "description": "",
+              "description": "Story coming soon ...",
               "source": "@site/docs/story.md",
               "sourceDirName": ".",
               "slug": "/story",
@@ -144,6 +221,118 @@
               "previous": {
                 "title": "Mines",
                 "permalink": "/docs/gameplay/mines"
+              },
+              "next": {
+                "title": "Community",
+                "permalink": "/docs/community"
+              }
+            },
+            {
+              "unversionedId": "team",
+              "id": "team",
+              "isDocsHomePage": false,
+              "title": "Team",
+              "description": "Team coming soon ...",
+              "source": "@site/docs/team.md",
+              "sourceDirName": ".",
+              "slug": "/team",
+              "permalink": "/docs/team",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/team.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Roadmap",
+                "permalink": "/docs/roadmap"
+              },
+              "next": {
+                "title": "Tokenomics",
+                "permalink": "/docs/tokenomics"
+              }
+            },
+            {
+              "unversionedId": "technology",
+              "id": "technology",
+              "isDocsHomePage": false,
+              "title": "Technology",
+              "description": "Technology coming soon ...",
+              "source": "@site/docs/technology.md",
+              "sourceDirName": ".",
+              "slug": "/technology",
+              "permalink": "/docs/technology",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/technology.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Community",
+                "permalink": "/docs/community"
+              },
+              "next": {
+                "title": "Roadmap",
+                "permalink": "/docs/roadmap"
+              }
+            },
+            {
+              "unversionedId": "terms&conditions",
+              "id": "terms&conditions",
+              "isDocsHomePage": false,
+              "title": "Terms & Conditions",
+              "description": "Terms & Conditions coming soon ...",
+              "source": "@site/docs/terms&conditions.md",
+              "sourceDirName": ".",
+              "slug": "/terms&conditions",
+              "permalink": "/docs/terms&conditions",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/terms&conditions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tokenomics",
+                "permalink": "/docs/tokenomics"
+              },
+              "next": {
+                "title": "Privacy policy",
+                "permalink": "/docs/Privacy policy"
+              }
+            },
+            {
+              "unversionedId": "tokenomics",
+              "id": "tokenomics",
+              "isDocsHomePage": false,
+              "title": "Tokenomics",
+              "description": "Tokenomics coming soon ...",
+              "source": "@site/docs/tokenomics.md",
+              "sourceDirName": ".",
+              "slug": "/tokenomics",
+              "permalink": "/docs/tokenomics",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tokenomics.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Team",
+                "permalink": "/docs/team"
+              },
+              "next": {
+                "title": "Terms & Conditions",
+                "permalink": "/docs/terms&conditions"
               }
             }
           ],
@@ -176,6 +365,34 @@
               {
                 "type": "doc",
                 "id": "story"
+              },
+              {
+                "type": "doc",
+                "id": "community"
+              },
+              {
+                "type": "doc",
+                "id": "technology"
+              },
+              {
+                "type": "doc",
+                "id": "roadmap"
+              },
+              {
+                "type": "doc",
+                "id": "team"
+              },
+              {
+                "type": "doc",
+                "id": "tokenomics"
+              },
+              {
+                "type": "doc",
+                "id": "terms&conditions"
+              },
+              {
+                "type": "doc",
+                "id": "Privacy policy"
               }
             ]
           }
@@ -415,6 +632,11 @@
   },
   "docusaurus-plugin-content-pages": {
     "default": [
+      {
+        "type": "jsx",
+        "permalink": "/about",
+        "source": "@site/src/pages/about.js"
+      },
       {
         "type": "jsx",
         "permalink": "/",

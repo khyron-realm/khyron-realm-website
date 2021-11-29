@@ -1,0 +1,27 @@
+{
+  "unversionedId": "technology",
+  "id": "technology",
+  "isDocsHomePage": false,
+  "title": "Technology",
+  "description": "Technology coming soon ...",
+  "source": "@site/docs/technology.md",
+  "sourceDirName": ".",
+  "slug": "/technology",
+  "permalink": "/docs/technology",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/technology.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Community",
+    "permalink": "/docs/community"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/docs/roadmap"
+  }
+}
