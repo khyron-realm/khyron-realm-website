@@ -8,38 +8,27 @@
   "formattedDate": "November 29, 2021",
   "tags": [
     {
-      "label": "facebook",
-      "permalink": "/blog/tags/facebook"
-    },
-    {
       "label": "hello",
       "permalink": "/blog/tags/hello"
     },
     {
-      "label": "docusaurus",
-      "permalink": "/blog/tags/docusaurus"
+      "label": "robochain",
+      "permalink": "/blog/tags/robochain"
     }
   ],
   "readingTime": 0.01,
   "truncated": false,
   "authors": [
     {
-      "name": "Sébastien Lorber",
-      "title": "Docusaurus maintainer",
-      "url": "https://sebastienlorber.com",
-      "imageURL": "https://github.com/slorber.png",
-      "key": "slorber"
-    },
-    {
-      "name": "Yangshun Tay",
-      "title": "Front End Engineer @ Facebook",
-      "url": "https://github.com/yangshun",
-      "imageURL": "https://github.com/yangshun.png",
-      "key": "yangshun"
+      "name": "Alexandru Grigoras",
+      "title": "Co-founder RoboChain",
+      "url": "https://github.com/alexgrigoras",
+      "imageURL": "https://github.com/alexgrigoras.png",
+      "key": "alex"
     }
   ],
-  "nextItem": {
-    "title": "RoboChain Launch Test Version",
+  "prevItem": {
+    "title": "RoboChain Test Version",
     "permalink": "/blog/robochain-test-version"
   }
 }

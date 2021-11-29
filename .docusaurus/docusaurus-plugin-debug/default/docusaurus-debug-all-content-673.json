@@ -7,8 +7,8 @@
           "versionLabel": "Next",
           "versionPath": "/docs",
           "tagsPath": "/docs/tags",
-          "versionEditUrl": "https://github.com/target-software/game-website.git/docs",
-          "versionEditUrlLocalized": "https://github.com/target-software/game-website.git/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionEditUrl": "https://github.com/target-software/game-website/docs",
+          "versionEditUrlLocalized": "https://github.com/target-software/game-website/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": null,
           "versionBadge": false,
           "versionClassName": "docs-version-current",
@@ -29,7 +29,7 @@
               "sourceDirName": ".",
               "slug": "/community",
               "permalink": "/docs/community",
-              "editUrl": "https://github.com/target-software/game-website.git/docs/community.md",
+              "editUrl": "https://github.com/target-software/game-website/docs/community.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -56,7 +56,7 @@
               "sourceDirName": ".",
               "slug": "/description",
               "permalink": "/docs/description",
-              "editUrl": "https://github.com/target-software/game-website.git/docs/description.md",
+              "editUrl": "https://github.com/target-software/game-website/docs/description.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -79,7 +79,7 @@
               "sourceDirName": "gameplay",
               "slug": "/gameplay/auctions",
               "permalink": "/docs/gameplay/auctions",
-              "editUrl": "https://github.com/target-software/game-website.git/docs/gameplay/auctions.md",
+              "editUrl": "https://github.com/target-software/game-website/docs/gameplay/auctions.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -106,7 +106,7 @@
               "sourceDirName": "gameplay",
               "slug": "/gameplay/headquarters",
               "permalink": "/docs/gameplay/headquarters",
-              "editUrl": "https://github.com/target-software/game-website.git/docs/gameplay/headquarters.md",
+              "editUrl": "https://github.com/target-software/game-website/docs/gameplay/headquarters.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -133,7 +133,7 @@
               "sourceDirName": "gameplay",
               "slug": "/gameplay/mines",
               "permalink": "/docs/gameplay/mines",
-              "editUrl": "https://github.com/target-software/game-website.git/docs/gameplay/mines.md",
+              "editUrl": "https://github.com/target-software/game-website/docs/gameplay/mines.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -160,7 +160,7 @@
               "sourceDirName": ".",
               "slug": "/Privacy policy",
               "permalink": "/docs/Privacy policy",
-              "editUrl": "https://github.com/target-software/game-website.git/docs/Privacy policy.md",
+              "editUrl": "https://github.com/target-software/game-website/docs/Privacy policy.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 10,
@@ -183,7 +183,7 @@
               "sourceDirName": ".",
               "slug": "/roadmap",
               "permalink": "/docs/roadmap",
-              "editUrl": "https://github.com/target-software/game-website.git/docs/roadmap.md",
+              "editUrl": "https://github.com/target-software/game-website/docs/roadmap.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -210,7 +210,7 @@
               "sourceDirName": ".",
               "slug": "/story",
               "permalink": "/docs/story",
-              "editUrl": "https://github.com/target-software/game-website.git/docs/story.md",
+              "editUrl": "https://github.com/target-software/game-website/docs/story.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -237,7 +237,7 @@
               "sourceDirName": ".",
               "slug": "/team",
               "permalink": "/docs/team",
-              "editUrl": "https://github.com/target-software/game-website.git/docs/team.md",
+              "editUrl": "https://github.com/target-software/game-website/docs/team.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
@@ -264,7 +264,7 @@
               "sourceDirName": ".",
               "slug": "/technology",
               "permalink": "/docs/technology",
-              "editUrl": "https://github.com/target-software/game-website.git/docs/technology.md",
+              "editUrl": "https://github.com/target-software/game-website/docs/technology.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -291,7 +291,7 @@
               "sourceDirName": ".",
               "slug": "/terms&conditions",
               "permalink": "/docs/terms&conditions",
-              "editUrl": "https://github.com/target-software/game-website.git/docs/terms&conditions.md",
+              "editUrl": "https://github.com/target-software/game-website/docs/terms&conditions.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 9,
@@ -318,7 +318,7 @@
               "sourceDirName": ".",
               "slug": "/tokenomics",
               "permalink": "/docs/tokenomics",
-              "editUrl": "https://github.com/target-software/game-website.git/docs/tokenomics.md",
+              "editUrl": "https://github.com/target-software/game-website/docs/tokenomics.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
@@ -405,6 +405,48 @@
       "blogSidebarTitle": "Recent posts",
       "blogPosts": [
         {
+          "id": "robochain-test-version",
+          "metadata": {
+            "permalink": "/blog/robochain-test-version",
+            "editUrl": "https://github.com/target-software/game-website/blog/blog/2021-11-29-robochain-test-version.md",
+            "source": "@site/blog/2021-11-29-robochain-test-version.md",
+            "title": "RoboChain Test Version",
+            "description": "Join the early release of RoboChain, a MMO mobile game which combines the strategic thinking by creating robots and mining for resources with quick decisions for competing to win auctions.",
+            "date": "2021-11-29T00:00:00.000Z",
+            "formattedDate": "November 29, 2021",
+            "tags": [
+              {
+                "label": "test",
+                "permalink": "/blog/tags/test"
+              },
+              {
+                "label": "launch",
+                "permalink": "/blog/tags/launch"
+              },
+              {
+                "label": "robochain",
+                "permalink": "/blog/tags/robochain"
+              }
+            ],
+            "readingTime": 0.15,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Alexandru Grigoras",
+                "title": "Co-founder RoboChain",
+                "url": "https://github.com/alexgrigoras",
+                "imageURL": "https://github.com/alexgrigoras.png",
+                "key": "alex"
+              }
+            ],
+            "nextItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            }
+          },
+          "content": "Join the early release of RoboChain, a MMO mobile game which combines the strategic thinking by creating robots and mining for resources with quick decisions for competing to win auctions."
+        },
+        {
           "id": "welcome",
           "metadata": {
             "permalink": "/blog/welcome",
@@ -416,80 +458,31 @@
             "formattedDate": "November 29, 2021",
             "tags": [
               {
-                "label": "facebook",
-                "permalink": "/blog/tags/facebook"
-              },
-              {
                 "label": "hello",
                 "permalink": "/blog/tags/hello"
               },
               {
-                "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "label": "robochain",
+                "permalink": "/blog/tags/robochain"
               }
             ],
             "readingTime": 0.01,
             "truncated": false,
             "authors": [
               {
-                "name": "Sébastien Lorber",
-                "title": "Docusaurus maintainer",
-                "url": "https://sebastienlorber.com",
-                "imageURL": "https://github.com/slorber.png",
-                "key": "slorber"
-              },
-              {
-                "name": "Yangshun Tay",
-                "title": "Front End Engineer @ Facebook",
-                "url": "https://github.com/yangshun",
-                "imageURL": "https://github.com/yangshun.png",
-                "key": "yangshun"
+                "name": "Alexandru Grigoras",
+                "title": "Co-founder RoboChain",
+                "url": "https://github.com/alexgrigoras",
+                "imageURL": "https://github.com/alexgrigoras.png",
+                "key": "alex"
               }
             ],
-            "nextItem": {
-              "title": "RoboChain Launch Test Version",
+            "prevItem": {
+              "title": "RoboChain Test Version",
               "permalink": "/blog/robochain-test-version"
             }
           },
           "content": "![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)"
-        },
-        {
-          "id": "robochain-test-version",
-          "metadata": {
-            "permalink": "/blog/robochain-test-version",
-            "editUrl": "https://github.com/target-software/game-website/blog/blog/2019-05-28-robochain-test-version.md",
-            "source": "@site/blog/2019-05-28-robochain-test-version.md",
-            "title": "RoboChain Launch Test Version",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
-            "date": "2019-05-28T00:00:00.000Z",
-            "formattedDate": "May 28, 2019",
-            "tags": [
-              {
-                "label": "hola",
-                "permalink": "/blog/tags/hola"
-              },
-              {
-                "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
-              }
-            ],
-            "readingTime": 0.12,
-            "truncated": false,
-            "authors": [
-              {
-                "name": "Gao Wei",
-                "title": "Docusaurus Core Team",
-                "url": "https://github.com/wgao19",
-                "image_url": "https://github.com/wgao19.png",
-                "imageURL": "https://github.com/wgao19.png"
-              }
-            ],
-            "prevItem": {
-              "title": "Welcome",
-              "permalink": "/blog/welcome"
-            }
-          },
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
         }
       ],
       "blogListPaginated": [
@@ -506,18 +499,33 @@
             "blogTitle": "Blog"
           },
           "items": [
-            "welcome",
-            "robochain-test-version"
+            "robochain-test-version",
+            "welcome"
           ]
         }
       ],
       "blogTags": {
-        "/blog/tags/facebook": {
-          "name": "facebook",
+        "/blog/tags/test": {
+          "name": "test",
           "items": [
+            "robochain-test-version"
+          ],
+          "permalink": "/blog/tags/test"
+        },
+        "/blog/tags/launch": {
+          "name": "launch",
+          "items": [
+            "robochain-test-version"
+          ],
+          "permalink": "/blog/tags/launch"
+        },
+        "/blog/tags/robochain": {
+          "name": "robochain",
+          "items": [
+            "robochain-test-version",
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook"
+          "permalink": "/blog/tags/robochain"
         },
         "/blog/tags/hello": {
           "name": "hello",
@@ -525,21 +533,6 @@
             "welcome"
           ],
           "permalink": "/blog/tags/hello"
-        },
-        "/blog/tags/docusaurus": {
-          "name": "docusaurus",
-          "items": [
-            "welcome",
-            "robochain-test-version"
-          ],
-          "permalink": "/blog/tags/docusaurus"
-        },
-        "/blog/tags/hola": {
-          "name": "hola",
-          "items": [
-            "robochain-test-version"
-          ],
-          "permalink": "/blog/tags/hola"
         }
       },
       "blogTagsListPath": "/blog/tags"
@@ -554,13 +547,13 @@
       },
       {
         "type": "jsx",
-        "permalink": "/",
-        "source": "@site/src/pages/index.js"
+        "permalink": "/contact",
+        "source": "@site/src/pages/contact.js"
       },
       {
-        "type": "mdx",
-        "permalink": "/markdown-page",
-        "source": "@site/src/pages/markdown-page.md"
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
       }
     ]
   },

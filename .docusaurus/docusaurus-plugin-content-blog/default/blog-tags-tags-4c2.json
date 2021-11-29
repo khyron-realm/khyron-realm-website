@@ -1,10 +1,24 @@
 {
-  "/blog/tags/facebook": {
+  "/blog/tags/test": {
     "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/facebook",
-    "name": "facebook",
+    "slug": "/blog/tags/test",
+    "name": "test",
     "count": 1,
-    "permalink": "/blog/tags/facebook"
+    "permalink": "/blog/tags/test"
+  },
+  "/blog/tags/launch": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/launch",
+    "name": "launch",
+    "count": 1,
+    "permalink": "/blog/tags/launch"
+  },
+  "/blog/tags/robochain": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/robochain",
+    "name": "robochain",
+    "count": 2,
+    "permalink": "/blog/tags/robochain"
   },
   "/blog/tags/hello": {
     "allTagsPath": "/blog/tags",
@@ -12,19 +26,5 @@
     "name": "hello",
     "count": 1,
     "permalink": "/blog/tags/hello"
-  },
-  "/blog/tags/docusaurus": {
-    "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/docusaurus",
-    "name": "docusaurus",
-    "count": 2,
-    "permalink": "/blog/tags/docusaurus"
-  },
-  "/blog/tags/hola": {
-    "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/hola",
-    "name": "hola",
-    "count": 1,
-    "permalink": "/blog/tags/hola"
   }
 }

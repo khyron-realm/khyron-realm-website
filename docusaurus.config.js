@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
-  organizationName: 'alexgrigoras', // Usually your GitHub org/user name.
+  organizationName: 'target-software', // Usually your GitHub org/user name.
   projectName: 'robochain', // Usually your repo name.
 
   presets: [
@@ -24,7 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/target-software/game-website.git',
+          editUrl: 'https://github.com/target-software/game-website/',
         },
         blog: {
           showReadingTime: true,

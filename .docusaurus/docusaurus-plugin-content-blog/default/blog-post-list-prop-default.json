@@ -2,12 +2,12 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "Welcome",
-      "permalink": "/blog/welcome"
+      "title": "RoboChain Test Version",
+      "permalink": "/blog/robochain-test-version"
     },
     {
-      "title": "RoboChain Launch Test Version",
-      "permalink": "/blog/robochain-test-version"
+      "title": "Welcome",
+      "permalink": "/blog/welcome"
     }
   ]
 }

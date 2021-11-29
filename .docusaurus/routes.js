@@ -4,13 +4,48 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug','3d6'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config','914'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content','c28'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes','244'),
+    exact: true
+  },
+  {
     path: '/about',
     component: ComponentCreator('/about','239'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog','e96'),
+    component: ComponentCreator('/blog','88f'),
     exact: true
   },
   {
@@ -20,7 +55,7 @@ export default [
   },
   {
     path: '/blog/robochain-test-version',
-    component: ComponentCreator('/blog/robochain-test-version','ef2'),
+    component: ComponentCreator('/blog/robochain-test-version','225'),
     exact: true
   },
   {
@@ -29,23 +64,23 @@ export default [
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus','fbc'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook','393'),
-    exact: true
-  },
-  {
     path: '/blog/tags/hello',
     component: ComponentCreator('/blog/tags/hello','c54'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola','44c'),
+    path: '/blog/tags/launch',
+    component: ComponentCreator('/blog/tags/launch','c95'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/robochain',
+    component: ComponentCreator('/blog/tags/robochain','976'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/test',
+    component: ComponentCreator('/blog/tags/test','286'),
     exact: true
   },
   {
@@ -54,8 +89,8 @@ export default [
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page','be1'),
+    path: '/contact',
+    component: ComponentCreator('/contact','244'),
     exact: true
   },
   {

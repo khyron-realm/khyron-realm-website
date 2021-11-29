@@ -6,7 +6,7 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/logo.png",
-  "organizationName": "alexgrigoras",
+  "organizationName": "target-software",
   "projectName": "robochain",
   "presets": [
     [
@@ -14,7 +14,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/alex_grigoras/Documents/GitHub/game-website/sidebars.js",
-          "editUrl": "https://github.com/target-software/game-website.git"
+          "editUrl": "https://github.com/target-software/game-website/"
         },
         "blog": {
           "showReadingTime": true,
