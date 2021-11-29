@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
-  organizationName: 'target-software', // Usually your GitHub org/user name.
-  projectName: 'robochain', // Usually your repo name.
+  organizationName: 'target-software',
+  projectName: 'robochain',
 
   presets: [
     [
