@@ -53,9 +53,14 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Wiki',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: '#',
+            label: 'Play now',
+            position: 'right',
+          },
           {
             href: 'https://discord.gg/JpgFgxvqSK',
             label: 'Discord',
