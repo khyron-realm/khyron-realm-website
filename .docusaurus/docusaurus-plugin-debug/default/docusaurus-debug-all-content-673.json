@@ -7,8 +7,8 @@
           "versionLabel": "Next",
           "versionPath": "/docs",
           "tagsPath": "/docs/tags",
-          "versionEditUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs",
-          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionEditUrl": "https://github.com/target-software/game-website.git/docs",
+          "versionEditUrlLocalized": "https://github.com/target-software/game-website.git/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": null,
           "versionBadge": false,
           "versionClassName": "docs-version-current",
@@ -29,7 +29,7 @@
               "sourceDirName": ".",
               "slug": "/community",
               "permalink": "/docs/community",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/community.md",
+              "editUrl": "https://github.com/target-software/game-website.git/docs/community.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -56,7 +56,7 @@
               "sourceDirName": ".",
               "slug": "/description",
               "permalink": "/docs/description",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/description.md",
+              "editUrl": "https://github.com/target-software/game-website.git/docs/description.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -79,7 +79,7 @@
               "sourceDirName": "gameplay",
               "slug": "/gameplay/auctions",
               "permalink": "/docs/gameplay/auctions",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/gameplay/auctions.md",
+              "editUrl": "https://github.com/target-software/game-website.git/docs/gameplay/auctions.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -106,7 +106,7 @@
               "sourceDirName": "gameplay",
               "slug": "/gameplay/headquarters",
               "permalink": "/docs/gameplay/headquarters",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/gameplay/headquarters.md",
+              "editUrl": "https://github.com/target-software/game-website.git/docs/gameplay/headquarters.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -133,7 +133,7 @@
               "sourceDirName": "gameplay",
               "slug": "/gameplay/mines",
               "permalink": "/docs/gameplay/mines",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/gameplay/mines.md",
+              "editUrl": "https://github.com/target-software/game-website.git/docs/gameplay/mines.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -160,7 +160,7 @@
               "sourceDirName": ".",
               "slug": "/Privacy policy",
               "permalink": "/docs/Privacy policy",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Privacy policy.md",
+              "editUrl": "https://github.com/target-software/game-website.git/docs/Privacy policy.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 10,
@@ -183,7 +183,7 @@
               "sourceDirName": ".",
               "slug": "/roadmap",
               "permalink": "/docs/roadmap",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/roadmap.md",
+              "editUrl": "https://github.com/target-software/game-website.git/docs/roadmap.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -210,7 +210,7 @@
               "sourceDirName": ".",
               "slug": "/story",
               "permalink": "/docs/story",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/story.md",
+              "editUrl": "https://github.com/target-software/game-website.git/docs/story.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -237,7 +237,7 @@
               "sourceDirName": ".",
               "slug": "/team",
               "permalink": "/docs/team",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/team.md",
+              "editUrl": "https://github.com/target-software/game-website.git/docs/team.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
@@ -264,7 +264,7 @@
               "sourceDirName": ".",
               "slug": "/technology",
               "permalink": "/docs/technology",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/technology.md",
+              "editUrl": "https://github.com/target-software/game-website.git/docs/technology.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -291,7 +291,7 @@
               "sourceDirName": ".",
               "slug": "/terms&conditions",
               "permalink": "/docs/terms&conditions",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/terms&conditions.md",
+              "editUrl": "https://github.com/target-software/game-website.git/docs/terms&conditions.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 9,
@@ -318,7 +318,7 @@
               "sourceDirName": ".",
               "slug": "/tokenomics",
               "permalink": "/docs/tokenomics",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tokenomics.md",
+              "editUrl": "https://github.com/target-software/game-website.git/docs/tokenomics.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
@@ -408,12 +408,12 @@
           "id": "welcome",
           "metadata": {
             "permalink": "/blog/welcome",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
-            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "editUrl": "https://github.com/target-software/game-website/blog/blog/2021-11-29-welcome/index.md",
+            "source": "@site/blog/2021-11-29-welcome/index.md",
             "title": "Welcome",
-            "description": "Docusaurus blogging features are powered by the blog plugin.",
-            "date": "2021-08-26T00:00:00.000Z",
-            "formattedDate": "August 26, 2021",
+            "description": "Docusaurus Plushie",
+            "date": "2021-11-29T00:00:00.000Z",
+            "formattedDate": "November 29, 2021",
             "tags": [
               {
                 "label": "facebook",
@@ -428,7 +428,7 @@
                 "permalink": "/blog/tags/docusaurus"
               }
             ],
-            "readingTime": 0.405,
+            "readingTime": 0.01,
             "truncated": false,
             "authors": [
               {
@@ -447,99 +447,19 @@
               }
             ],
             "nextItem": {
-              "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "title": "RoboChain Launch Test Version",
+              "permalink": "/blog/robochain-test-version"
             }
           },
-          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+          "content": "![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)"
         },
         {
-          "id": "mdx-blog-post",
+          "id": "robochain-test-version",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
-            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
-            "title": "MDX Blog Post",
-            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
-            "date": "2021-08-01T00:00:00.000Z",
-            "formattedDate": "August 1, 2021",
-            "tags": [
-              {
-                "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
-              }
-            ],
-            "readingTime": 0.175,
-            "truncated": false,
-            "authors": [
-              {
-                "name": "Sébastien Lorber",
-                "title": "Docusaurus maintainer",
-                "url": "https://sebastienlorber.com",
-                "imageURL": "https://github.com/slorber.png",
-                "key": "slorber"
-              }
-            ],
-            "prevItem": {
-              "title": "Welcome",
-              "permalink": "/blog/welcome"
-            },
-            "nextItem": {
-              "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
-            }
-          },
-          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
-        },
-        {
-          "id": "long-blog-post",
-          "metadata": {
-            "permalink": "/blog/long-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.md",
-            "source": "@site/blog/2019-05-29-long-blog-post.md",
-            "title": "Long Blog Post",
-            "description": "This is the summary of a very long blog post,",
-            "date": "2019-05-29T00:00:00.000Z",
-            "formattedDate": "May 29, 2019",
-            "tags": [
-              {
-                "label": "hello",
-                "permalink": "/blog/tags/hello"
-              },
-              {
-                "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
-              }
-            ],
-            "readingTime": 2.05,
-            "truncated": true,
-            "authors": [
-              {
-                "name": "Endilie Yacop Sucipto",
-                "title": "Maintainer of Docusaurus",
-                "url": "https://github.com/endiliey",
-                "imageURL": "https://github.com/endiliey.png",
-                "key": "endi"
-              }
-            ],
-            "prevItem": {
-              "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
-            },
-            "nextItem": {
-              "title": "First Blog Post",
-              "permalink": "/blog/first-blog-post"
-            }
-          },
-          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
-        },
-        {
-          "id": "first-blog-post",
-          "metadata": {
-            "permalink": "/blog/first-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-28-first-blog-post.md",
-            "source": "@site/blog/2019-05-28-first-blog-post.md",
-            "title": "First Blog Post",
+            "permalink": "/blog/robochain-test-version",
+            "editUrl": "https://github.com/target-software/game-website/blog/blog/2019-05-28-robochain-test-version.md",
+            "source": "@site/blog/2019-05-28-robochain-test-version.md",
+            "title": "RoboChain Launch Test Version",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
             "date": "2019-05-28T00:00:00.000Z",
             "formattedDate": "May 28, 2019",
@@ -565,8 +485,8 @@
               }
             ],
             "prevItem": {
-              "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -579,7 +499,7 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 4,
+            "totalCount": 2,
             "previousPage": null,
             "nextPage": null,
             "blogDescription": "Blog",
@@ -587,9 +507,7 @@
           },
           "items": [
             "welcome",
-            "mdx-blog-post",
-            "long-blog-post",
-            "first-blog-post"
+            "robochain-test-version"
           ]
         }
       ],
@@ -604,8 +522,7 @@
         "/blog/tags/hello": {
           "name": "hello",
           "items": [
-            "welcome",
-            "long-blog-post"
+            "welcome"
           ],
           "permalink": "/blog/tags/hello"
         },
@@ -613,16 +530,14 @@
           "name": "docusaurus",
           "items": [
             "welcome",
-            "mdx-blog-post",
-            "long-blog-post",
-            "first-blog-post"
+            "robochain-test-version"
           ],
           "permalink": "/blog/tags/docusaurus"
         },
         "/blog/tags/hola": {
           "name": "hola",
           "items": [
-            "first-blog-post"
+            "robochain-test-version"
           ],
           "permalink": "/blog/tags/hola"
         }

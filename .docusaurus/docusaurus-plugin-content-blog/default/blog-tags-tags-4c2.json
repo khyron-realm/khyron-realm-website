@@ -10,14 +10,14 @@
     "allTagsPath": "/blog/tags",
     "slug": "/blog/tags/hello",
     "name": "hello",
-    "count": 2,
+    "count": 1,
     "permalink": "/blog/tags/hello"
   },
   "/blog/tags/docusaurus": {
     "allTagsPath": "/blog/tags",
     "slug": "/blog/tags/docusaurus",
     "name": "docusaurus",
-    "count": 4,
+    "count": 2,
     "permalink": "/blog/tags/docusaurus"
   },
   "/blog/tags/hola": {

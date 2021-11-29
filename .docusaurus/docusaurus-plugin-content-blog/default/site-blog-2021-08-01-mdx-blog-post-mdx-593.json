@@ -1,6 +1,6 @@
 {
   "permalink": "/blog/mdx-blog-post",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
+  "editUrl": "https://github.com/target-software/game-website/blog/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
   "title": "MDX Blog Post",
   "description": "Blog posts support Docusaurus Markdown features, such as MDX.",

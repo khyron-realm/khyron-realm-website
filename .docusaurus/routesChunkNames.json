@@ -1,188 +1,141 @@
 {
-  "/__docusaurus/debug-3d6": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/__docusaurus/debug/config-914": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/__docusaurus/debug/content-c28": {
-    "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-3cf": {
-    "component": "component---theme-debug-global-dataede-0fa"
-  },
-  "/__docusaurus/debug/metadata-31b": {
-    "component": "component---theme-debug-site-metadata-68-e-3d4"
-  },
-  "/__docusaurus/debug/registry-0da": {
-    "component": "component---theme-debug-registry-679-501"
-  },
-  "/__docusaurus/debug/routes-244": {
-    "component": "component---theme-debug-routes-946-699"
-  },
   "/about-239": {
-    "component": "component---site-src-pages-about-js-779-319",
-    "config": "config---about-5-e-9-bcb"
+    "component": "7792a21f",
+    "config": "5e9f5e1a"
   },
-  "/blog-520": {
-    "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---blog-814-8ac",
+  "/blog-e96": {
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "2c44f060"
       },
       {
-        "content": "content---blogf-4-f-cd7"
-      },
-      {
-        "content": "content---blog-871-381"
-      },
-      {
-        "content": "content---blog-925-e00"
+        "content": "484112ad"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "b2b675dd"
   },
   "/blog/archive-f4c": {
-    "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---blog-archiveb-2-f-393"
+    "component": "9e4087bc",
+    "archive": "b2f554cd"
   },
-  "/blog/first-blog-post-6c7": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-blog-poste-27-4a1"
-  },
-  "/blog/long-blog-post-f06": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
-  },
-  "/blog/mdx-blog-post-bee": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
+  "/blog/robochain-test-version-ef2": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "e37eef67"
   },
   "/blog/tags-e13": {
-    "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "component": "01a85c17",
+    "sidebar": "814f3328",
+    "tags": "a7023ddc"
   },
-  "/blog/tags/docusaurus-ddf": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+  "/blog/tags/docusaurus-fbc": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "2c44f060"
       },
       {
-        "content": "content---blogf-4-f-cd7"
-      },
-      {
-        "content": "content---blog-871-381"
-      },
-      {
-        "content": "content---blog-925-e00"
+        "content": "484112ad"
       }
     ],
-    "metadata": "metadata---blog-tags-docusaurusa-80-728"
+    "metadata": "a80da1cf"
   },
-  "/blog/tags/facebook-ede": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+  "/blog/tags/facebook-393": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "2c44f060"
       }
     ],
-    "metadata": "metadata---blog-tags-facebook-031-c52"
+    "metadata": "031793e1"
   },
-  "/blog/tags/hello-4c2": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+  "/blog/tags/hello-c54": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
-      },
-      {
-        "content": "content---blog-871-381"
+        "content": "2c44f060"
       }
     ],
-    "metadata": "metadata---blog-tags-hello-30-a-bed"
+    "metadata": "30a24c52"
   },
-  "/blog/tags/hola-752": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+  "/blog/tags/hola-44c": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-925-e00"
+        "content": "484112ad"
       }
     ],
-    "metadata": "metadata---blog-tags-holae-16-18a"
+    "metadata": "e16015ca"
   },
-  "/blog/welcome-bfa": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomed-9-f-ffb"
+  "/blog/welcome-3cb": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "420ab454"
   },
   "/markdown-page-be1": {
-    "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---markdown-page-393-028"
+    "component": "1f391b9e",
+    "content": "393be207"
   },
   "/docs-899": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
   },
   "/docs/community-b1a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-community-5-ef-e91"
+    "component": "17896441",
+    "content": "5ef0e9d6"
   },
   "/docs/description-352": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-description-828-19e"
+    "component": "17896441",
+    "content": "82827712"
   },
   "/docs/gameplay/auctions-93a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gameplay-auctions-919-ac3"
+    "component": "17896441",
+    "content": "919cac5a"
   },
   "/docs/gameplay/headquarters-beb": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gameplay-headquartersfb-7-dd1"
+    "component": "17896441",
+    "content": "fb71f24f"
   },
   "/docs/gameplay/mines-4f4": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gameplay-mines-6-d-5-726"
+    "component": "17896441",
+    "content": "6d5f1251"
   },
   "/docs/Privacy policy-19e": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-privacy-policyc-51-b5c"
+    "component": "17896441",
+    "content": "c513a9be"
   },
   "/docs/roadmap-7ea": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-roadmap-0-df-a69"
+    "component": "17896441",
+    "content": "0dffb83e"
   },
   "/docs/story-a65": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-storydb-3-a68"
+    "component": "17896441",
+    "content": "db35803f"
   },
   "/docs/team-e04": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-team-227-738"
+    "component": "17896441",
+    "content": "2275ea3b"
   },
   "/docs/technology-57f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-technology-75-e-b87"
+    "component": "17896441",
+    "content": "75e96fb0"
   },
   "/docs/terms&conditions-f5f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-terms-conditionsf-45-c09"
+    "component": "17896441",
+    "content": "f4596580"
   },
   "/docs/tokenomics-110": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tokenomics-5-ae-0fd"
+    "component": "17896441",
+    "content": "5ae84af0"
   },
   "/-deb": {
-    "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---about-5-e-9-bcb"
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
   }
 }

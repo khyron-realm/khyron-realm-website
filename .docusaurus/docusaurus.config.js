@@ -5,7 +5,7 @@ export default {
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/logo.png",
   "organizationName": "alexgrigoras",
   "projectName": "robochain",
   "presets": [
@@ -14,11 +14,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/alex_grigoras/Documents/GitHub/game-website/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
+          "editUrl": "https://github.com/target-software/game-website.git"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/"
+          "editUrl": "https://github.com/target-software/game-website/blog/"
         },
         "theme": {
           "customCss": "/Users/alex_grigoras/Documents/GitHub/game-website/src/css/custom.css"
@@ -46,12 +46,6 @@ export default {
           "position": "left"
         },
         {
-          "type": "doc",
-          "docId": "team",
-          "position": "left",
-          "label": "Team"
-        },
-        {
           "href": "/about",
           "label": "About",
           "position": "left"
@@ -76,8 +70,8 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Wiki",
+              "to": "/docs/description"
             }
           ]
         },
@@ -85,16 +79,16 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "YouTube",
+              "href": "https://www.youtube.com/channel/UC6f6rpDLnvDvEFDiB3t6-Jw"
             },
             {
               "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "href": "https://discord.gg/JpgFgxvqSK"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/robo_chain"
             }
           ]
         },
@@ -106,13 +100,13 @@ export default {
               "to": "/blog"
             },
             {
-              "label": "GitHub",
+              "label": "Docusaurus",
               "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2021 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2021 RoboChain."
     },
     "prism": {
       "theme": {

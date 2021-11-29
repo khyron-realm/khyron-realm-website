@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
   organizationName: 'alexgrigoras', // Usually your GitHub org/user name.
   projectName: 'robochain', // Usually your repo name.
 
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/target-software/game-website.git',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/target-software/game-website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -57,12 +57,6 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            type: 'doc',
-            docId: 'team',
-            position: 'left',
-            label: 'Team',
-          },
-          {
             href: '/about',
             label: 'About',
             position: 'left',
@@ -86,8 +80,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Wiki',
+                to: '/docs/description',
               },
             ],
           },
@@ -95,16 +89,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'YouTube',
+                href: 'https://www.youtube.com/channel/UC6f6rpDLnvDvEFDiB3t6-Jw',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/JpgFgxvqSK',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/robo_chain',
               },
             ],
           },
@@ -116,13 +110,13 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
+                label: 'Docusaurus',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} RoboChain.`,
       },
       prism: {
         theme: lightCodeTheme,
