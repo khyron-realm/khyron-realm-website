@@ -1,0 +1,23 @@
+{
+  "unversionedId": "story",
+  "id": "story",
+  "isDocsHomePage": false,
+  "title": "Story",
+  "description": "",
+  "source": "@site/docs/story.md",
+  "sourceDirName": ".",
+  "slug": "/story",
+  "permalink": "/docs/story",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/story.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mines",
+    "permalink": "/docs/gameplay/mines"
+  }
+}

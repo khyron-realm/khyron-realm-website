@@ -1,0 +1,43 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "description",
+          "docs": [
+            {
+              "id": "description",
+              "path": "/docs/description",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/auctions",
+              "path": "/docs/gameplay/auctions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/headquarters",
+              "path": "/docs/gameplay/headquarters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/mines",
+              "path": "/docs/gameplay/mines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "story",
+              "path": "/docs/story",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

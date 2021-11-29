@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gameplay",
+  "id": "gameplay",
+  "isDocsHomePage": false,
+  "title": "Gameplay",
+  "description": "Test intro 2222",
+  "source": "@site/docs/gameplay.md",
+  "sourceDirName": ".",
+  "slug": "/gameplay",
+  "permalink": "/docs/gameplay",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/gameplay.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Description",
+    "permalink": "/docs/description"
+  },
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/docs/tutorial-basics/create-a-page"
+  }
+}

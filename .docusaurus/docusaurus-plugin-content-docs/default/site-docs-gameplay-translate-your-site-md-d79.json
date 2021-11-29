@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gameplay/translate-your-site",
+  "id": "gameplay/translate-your-site",
+  "isDocsHomePage": false,
+  "title": "Translate your site",
+  "description": "",
+  "source": "@site/docs/gameplay/translate-your-site.md",
+  "sourceDirName": "gameplay",
+  "slug": "/gameplay/translate-your-site",
+  "permalink": "/docs/gameplay/translate-your-site",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/gameplay/translate-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Headquarters",
+    "permalink": "/docs/gameplay/headquarters"
+  },
+  "next": {
+    "title": "Story",
+    "permalink": "/docs/story"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Description",
+        "href": "/docs/description"
+      },
+      {
+        "type": "category",
+        "label": "Gameplay",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Headquarters",
+            "href": "/docs/gameplay/headquarters"
+          },
+          {
+            "type": "link",
+            "label": "Auctions",
+            "href": "/docs/gameplay/auctions"
+          },
+          {
+            "type": "link",
+            "label": "Mines",
+            "href": "/docs/gameplay/mines"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Story",
+        "href": "/docs/story"
+      }
+    ]
+  }
+}

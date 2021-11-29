@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gameplay/headquarters",
+  "id": "gameplay/headquarters",
+  "isDocsHomePage": false,
+  "title": "Headquarters",
+  "description": "",
+  "source": "@site/docs/gameplay/headquarters.md",
+  "sourceDirName": "gameplay",
+  "slug": "/gameplay/headquarters",
+  "permalink": "/docs/gameplay/headquarters",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/gameplay/headquarters.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Description",
+    "permalink": "/docs/description"
+  },
+  "next": {
+    "title": "Auctions",
+    "permalink": "/docs/gameplay/auctions"
+  }
+}

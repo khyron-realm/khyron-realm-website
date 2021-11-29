@@ -1,0 +1,23 @@
+{
+  "unversionedId": "description",
+  "id": "description",
+  "isDocsHomePage": false,
+  "title": "Description",
+  "description": "description",
+  "source": "@site/docs/description.md",
+  "sourceDirName": ".",
+  "slug": "/description",
+  "permalink": "/docs/description",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/description.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Headquarters",
+    "permalink": "/docs/gameplay/headquarters"
+  }
+}

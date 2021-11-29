@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gameplay/auctions",
+  "id": "gameplay/auctions",
+  "isDocsHomePage": false,
+  "title": "Auctions",
+  "description": "",
+  "source": "@site/docs/gameplay/auctions.md",
+  "sourceDirName": "gameplay",
+  "slug": "/gameplay/auctions",
+  "permalink": "/docs/gameplay/auctions",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/gameplay/auctions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Headquarters",
+    "permalink": "/docs/gameplay/headquarters"
+  },
+  "next": {
+    "title": "Mines",
+    "permalink": "/docs/gameplay/mines"
+  }
+}
