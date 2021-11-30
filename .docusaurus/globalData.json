@@ -36,8 +36,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Privacy policy",
-              "path": "/docs/Privacy policy",
+              "id": "privacy_policy",
+              "path": "/docs/privacy_policy",
               "sidebar": "tutorialSidebar"
             },
             {

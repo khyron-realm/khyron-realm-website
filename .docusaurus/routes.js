@@ -95,7 +95,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','899'),
+    component: ComponentCreator('/docs','f31'),
     routes: [
       {
         path: '/docs/community',
@@ -128,8 +128,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Privacy policy',
-        component: ComponentCreator('/docs/Privacy policy','19e'),
+        path: '/docs/privacy_policy',
+        component: ComponentCreator('/docs/privacy_policy','039'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
