@@ -7,7 +7,7 @@
         "editUrl": "https://github.com/target-software/game-website/blog/blog/2021-11-29-robochain-test-version.md",
         "source": "@site/blog/2021-11-29-robochain-test-version.md",
         "title": "RoboChain Test Version",
-        "description": "Join the early release of RoboChain, a MMO mobile game which combines the strategic thinking by creating robots and mining for resources with quick decisions for competing to win auctions.",
+        "description": "About The Game",
         "date": "2021-11-29T00:00:00.000Z",
         "formattedDate": "November 29, 2021",
         "tags": [
@@ -24,7 +24,7 @@
             "permalink": "/blog/tags/robochain"
           }
         ],
-        "readingTime": 0.15,
+        "readingTime": 0.33,
         "truncated": false,
         "authors": [
           {
@@ -40,7 +40,7 @@
           "permalink": "/blog/welcome"
         }
       },
-      "content": "Join the early release of RoboChain, a MMO mobile game which combines the strategic thinking by creating robots and mining for resources with quick decisions for competing to win auctions."
+      "content": "## About The Game\nJoin the early release of RoboChain, a MMO mobile game which combines the strategic thinking by creating robots and mining for resources with quick decisions for competing to win auctions.\n\nThe game is in early development and data persistence is not guaranteed.\n\n#### P.S. Crypto coming soon ...\n\n## Join Beta Testing\n\n#### iOS: https://testflight.apple.com/join/K4Yyhzjk\n\n#### Android: https://play.google.com/apps/internaltest/4700888865694045512\n(GMail needed for approval)"
     },
     {
       "id": "welcome",
@@ -78,7 +78,7 @@
           "permalink": "/blog/robochain-test-version"
         }
       },
-      "content": "![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)"
+      "content": "![Docusaurus Plushie](/img/background2.png)"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "editUrl": "https://github.com/target-software/game-website/blog/blog/2021-11-29-robochain-test-version.md",
   "source": "@site/blog/2021-11-29-robochain-test-version.md",
   "title": "RoboChain Test Version",
-  "description": "Join the early release of RoboChain, a MMO mobile game which combines the strategic thinking by creating robots and mining for resources with quick decisions for competing to win auctions.",
+  "description": "About The Game",
   "date": "2021-11-29T00:00:00.000Z",
   "formattedDate": "November 29, 2021",
   "tags": [
@@ -20,7 +20,7 @@
       "permalink": "/blog/tags/robochain"
     }
   ],
-  "readingTime": 0.15,
+  "readingTime": 0.33,
   "truncated": false,
   "authors": [
     {

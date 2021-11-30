@@ -5,4 +5,4 @@ authors: [alex]
 tags: [hello, robochain]
 ---
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+![Docusaurus Plushie](/img/background2.png)

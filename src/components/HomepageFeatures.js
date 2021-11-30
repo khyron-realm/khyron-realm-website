@@ -4,7 +4,7 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Create',
+    title: 'Play with friends',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Compete',
+    title: 'Compete in auctions',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Collect',
+    title: 'Earn Crypto',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
