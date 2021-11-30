@@ -62,6 +62,11 @@ const config = {
             position: 'left',
           },
           {
+            href: '/contact',
+            label: 'Contact',
+            position: 'left',
+          },
+          {
             href: '#',
             label: 'Play now',
             position: 'right',
@@ -69,6 +74,11 @@ const config = {
           {
             href: 'https://discord.gg/JpgFgxvqSK',
             label: 'Discord',
+            position: 'right',
+          },
+          {
+            href: '#',
+            label: 'Donate',
             position: 'right',
           },
         ],

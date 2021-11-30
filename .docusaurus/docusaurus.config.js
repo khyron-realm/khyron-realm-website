@@ -51,6 +51,11 @@ export default {
           "position": "left"
         },
         {
+          "href": "/contact",
+          "label": "Contact",
+          "position": "left"
+        },
+        {
           "href": "#",
           "label": "Play now",
           "position": "right"
@@ -58,6 +63,11 @@ export default {
         {
           "href": "https://discord.gg/JpgFgxvqSK",
           "label": "Discord",
+          "position": "right"
+        },
+        {
+          "href": "#",
+          "label": "Donate",
           "position": "right"
         }
       ],

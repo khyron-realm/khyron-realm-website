@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[779],{1016:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var u=t(7294),c=t(4814);function l(){return u.createElement(c.Z,null,u.createElement("h1",null,"Contact Page"),u.createElement("p",null,"Contact page coming soon ..."))}}}]);
