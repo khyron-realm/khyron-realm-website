@@ -5,6 +5,8 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
+import Roadmap from '../components/RoadmapTimeline';
+
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -26,15 +28,17 @@ function HomepageHeader() {
   );
 }
 
+
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Crypto MMO game ${siteConfig.title}`}
-      description="Join RoboChain, a new crypto MMO mobile game <head />">
+      title={`Crypto MMO game`}
+      description="Join RoboChain, a new crypto MMO mobile game<head />">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+          <HomepageFeatures />
+          <Roadmap />
       </main>
     </Layout>
   );

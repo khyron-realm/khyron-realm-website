@@ -3,40 +3,40 @@ import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
-  {
-    title: 'Play with friends',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Create description.
-      </>
-    ),
-  },
-  {
-    title: 'Compete in auctions',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Compete description.
-      </>
-    ),
-  },
-  {
-    title: 'Earn Crypto',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Collect description.
-      </>
-    ),
-  },
+    {
+        title: 'Play with friends',
+        Png: require('../../static/img/play.png').default,
+        description: (
+            <>
+                Socialize with other people.
+            </>
+        ),
+    },
+    {
+        title: 'Compete in auctions',
+        Png: require('../../static/img/compete.png').default,
+        description: (
+            <>
+                Compete in auctions to win new mines.
+            </>
+        ),
+    },
+    {
+        title: 'Earn Crypto',
+        Png: require('../../static/img/earn.png').default,
+        description: (
+            <>
+                Earn crypto by progressing in the game.
+            </>
+        ),
+    },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Png, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
+        <img src={Png} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
