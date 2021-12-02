@@ -24,7 +24,7 @@ function Roadmap() {
                 className="vertical-timeline-element--work"
                 contentStyle={{ background: 'lightblue', color: 'dark' }}
                 contentArrowStyle={{ borderRight: '7px solid lightblue' }}
-                date="NOV 2021"
+                date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
                 icon={<img src="/img/testing.png"  alt="img"/>}
             >

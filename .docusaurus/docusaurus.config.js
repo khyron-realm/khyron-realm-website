@@ -1,6 +1,6 @@
 export default {
   "title": "RoboChain",
-  "tagline": "Crypto MMO Game",
+  "tagline": "Crypto Game",
   "url": "https://robochain.netlify.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",

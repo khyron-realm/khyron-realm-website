@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://robochain.netlify.com/blog</id>
+    <title>RoboChain Blog</title>
+    <updated>2021-11-29T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://robochain.netlify.com/blog"/>
+    <subtitle>RoboChain Blog</subtitle>
+    <icon>https://robochain.netlify.com/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[RoboChain Test Version]]></title>
+        <id>robochain-test-version</id>
+        <link href="https://robochain.netlify.com/blog/robochain-test-version"/>
+        <updated>2021-11-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[About The Game]]></summary>
+        <content type="html"><![CDATA[<h2>About The Game</h2><p>Join the early release of RoboChain, a MMO mobile game which combines the strategic thinking by creating robots and mining for resources with quick decisions for competing to win auctions.</p><p>The game is in early development and data persistence is not guaranteed.</p><h4>P.S. Crypto coming soon ...</h4><h2>Join Beta Testing</h2><h4>iOS: <a href="https://testflight.apple.com/join/K4Yyhzjk">https://testflight.apple.com/join/K4Yyhzjk</a></h4><h4>Android: <a href="https://play.google.com/apps/internaltest/4700888865694045512">https://play.google.com/apps/internaltest/4700888865694045512</a></h4><p>(GMail needed for approval)</p>]]></content>
+        <author>
+            <name>Alexandru Grigoras</name>
+            <uri>https://github.com/alexgrigoras</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://robochain.netlify.com/blog/welcome"/>
+        <updated>2021-11-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Docusaurus Plushie]]></summary>
+        <content type="html"><![CDATA[<p><img src="/img/background2.png" alt="Docusaurus Plushie"/></p>]]></content>
+        <author>
+            <name>Alexandru Grigoras</name>
+            <uri>https://github.com/alexgrigoras</uri>
+        </author>
+    </entry>
+</feed>
