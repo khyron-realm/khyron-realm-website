@@ -178,7 +178,7 @@
               "id": "roadmap",
               "isDocsHomePage": false,
               "title": "Roadmap",
-              "description": "Phase 1 - Q4 2021",
+              "description": "| Period            | Feature                       | Status |",
               "source": "@site/docs/roadmap.md",
               "sourceDirName": ".",
               "slug": "/roadmap",
