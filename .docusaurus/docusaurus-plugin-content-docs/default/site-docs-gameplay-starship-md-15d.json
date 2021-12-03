@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gameplay/starship",
+  "id": "gameplay/starship",
+  "isDocsHomePage": false,
+  "title": "Starship",
+  "description": "Headquarters coming soon ...",
+  "source": "@site/docs/gameplay/starship.md",
+  "sourceDirName": "gameplay",
+  "slug": "/gameplay/starship",
+  "permalink": "/docs/gameplay/starship",
+  "editUrl": "https://github.com/target-software/game-website/docs/gameplay/starship.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Story",
+    "permalink": "/docs/story"
+  },
+  "next": {
+    "title": "Auctions",
+    "permalink": "/docs/gameplay/auctions"
+  }
+}

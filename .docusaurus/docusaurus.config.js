@@ -1,13 +1,13 @@
 export default {
-  "title": "RoboChain",
-  "tagline": "Crypto Game",
-  "url": "https://robochain.netlify.com",
+  "title": "KHYRON REALM",
+  "tagline": "Crypto MMO Game",
+  "url": "https://khyron-realm.netlify.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/logo.png",
   "organizationName": "target-software",
-  "projectName": "robochain",
+  "projectName": "khyron-realm",
   "presets": [
     [
       "@docusaurus/preset-classic",
@@ -28,9 +28,9 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "RoboChain",
+      "title": "Khyron Real",
       "logo": {
-        "alt": "RoboChain logo",
+        "alt": "Khyron Realm logo",
         "src": "img/logo.png"
       },
       "items": [
@@ -116,7 +116,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2021 RoboChain."
+      "copyright": "Copyright © 2021 Khyron Realm."
     },
     "prism": {
       "theme": {

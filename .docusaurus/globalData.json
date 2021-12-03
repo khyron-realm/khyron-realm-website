@@ -26,13 +26,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "gameplay/headquarters",
-              "path": "/docs/gameplay/headquarters",
+              "id": "gameplay/mines",
+              "path": "/docs/gameplay/mines",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "gameplay/mines",
-              "path": "/docs/gameplay/mines",
+              "id": "gameplay/starship",
+              "path": "/docs/gameplay/starship",
               "sidebar": "tutorialSidebar"
             },
             {

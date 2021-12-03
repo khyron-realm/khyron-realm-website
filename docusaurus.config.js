@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'RoboChain',
-  tagline: 'Crypto Game',
-  url: 'https://robochain.netlify.com',
+  title: 'KHYRON REALM',
+  tagline: 'Crypto MMO Game',
+  url: 'https://khyron-realm.netlify.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
   organizationName: 'target-software',
-  projectName: 'robochain',
+  projectName: 'khyron-realm',
 
   presets: [
     [
@@ -43,9 +43,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'RoboChain',
+        title: 'Khyron Real',
         logo: {
-          alt: 'RoboChain logo',
+          alt: 'Khyron Realm logo',
           src: 'img/logo.png',
         },
         items: [
@@ -126,7 +126,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} RoboChain.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Khyron Realm.`,
       },
       prism: {
         theme: lightCodeTheme,

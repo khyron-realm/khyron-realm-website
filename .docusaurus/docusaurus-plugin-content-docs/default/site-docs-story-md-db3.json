@@ -3,7 +3,7 @@
   "id": "story",
   "isDocsHomePage": false,
   "title": "Story",
-  "description": "",
+  "description": "Beginning",
   "source": "@site/docs/story.md",
   "sourceDirName": ".",
   "slug": "/story",
@@ -21,7 +21,7 @@
     "permalink": "/docs/description"
   },
   "next": {
-    "title": "Headquarters",
-    "permalink": "/docs/gameplay/headquarters"
+    "title": "Starship",
+    "permalink": "/docs/gameplay/starship"
   }
 }

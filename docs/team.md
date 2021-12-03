@@ -4,8 +4,27 @@ sidebar_position: 7
 
 # Team
 
-:::tip Info
+Khyron Realm is being developed by a team of engineers and artist.
+The team consists of 7 members and is located in Iasi, Romania.
+___
 
-Team coming soon ...
+### Alexandru GRIGORAS
+___
 
-:::
+### Ana POPESCU
+___
+
+### Andrei PECHEANU
+___
+
+### Codrin BURLACU
+___
+
+### Ioan SUFLET
+___
+
+### Serban CHISCA
+___
+
+### Tudor STOIAN
+___

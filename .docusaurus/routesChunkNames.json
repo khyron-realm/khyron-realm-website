@@ -104,7 +104,7 @@
     "component": "component---site-src-pages-contact-js-83-e-320",
     "config": "config---about-5-e-9-bcb"
   },
-  "/docs-f31": {
+  "/docs-029": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -120,13 +120,13 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-gameplay-auctions-919-ac3"
   },
-  "/docs/gameplay/headquarters-beb": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gameplay-headquartersfb-7-dd1"
-  },
   "/docs/gameplay/mines-4f4": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-gameplay-mines-6-d-5-726"
+  },
+  "/docs/gameplay/starship-ddd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-starship-15-d-9a8"
   },
   "/docs/privacy_policy-039": {
     "component": "component---theme-doc-item-178-a40",

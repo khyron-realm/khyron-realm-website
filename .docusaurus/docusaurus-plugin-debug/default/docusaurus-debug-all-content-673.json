@@ -88,39 +88,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Headquarters",
-                "permalink": "/docs/gameplay/headquarters"
+                "title": "Starship",
+                "permalink": "/docs/gameplay/starship"
               },
               "next": {
                 "title": "Mines",
                 "permalink": "/docs/gameplay/mines"
-              }
-            },
-            {
-              "unversionedId": "gameplay/headquarters",
-              "id": "gameplay/headquarters",
-              "isDocsHomePage": false,
-              "title": "Headquarters",
-              "description": "Headquarters coming soon ...",
-              "source": "@site/docs/gameplay/headquarters.md",
-              "sourceDirName": "gameplay",
-              "slug": "/gameplay/headquarters",
-              "permalink": "/docs/gameplay/headquarters",
-              "editUrl": "https://github.com/target-software/game-website/docs/gameplay/headquarters.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Story",
-                "permalink": "/docs/story"
-              },
-              "next": {
-                "title": "Auctions",
-                "permalink": "/docs/gameplay/auctions"
               }
             },
             {
@@ -148,6 +121,33 @@
               "next": {
                 "title": "Community",
                 "permalink": "/docs/community"
+              }
+            },
+            {
+              "unversionedId": "gameplay/starship",
+              "id": "gameplay/starship",
+              "isDocsHomePage": false,
+              "title": "Starship",
+              "description": "Headquarters coming soon ...",
+              "source": "@site/docs/gameplay/starship.md",
+              "sourceDirName": "gameplay",
+              "slug": "/gameplay/starship",
+              "permalink": "/docs/gameplay/starship",
+              "editUrl": "https://github.com/target-software/game-website/docs/gameplay/starship.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Story",
+                "permalink": "/docs/story"
+              },
+              "next": {
+                "title": "Auctions",
+                "permalink": "/docs/gameplay/auctions"
               }
             },
             {
@@ -205,7 +205,7 @@
               "id": "story",
               "isDocsHomePage": false,
               "title": "Story",
-              "description": "",
+              "description": "Beginning",
               "source": "@site/docs/story.md",
               "sourceDirName": ".",
               "slug": "/story",
@@ -223,8 +223,8 @@
                 "permalink": "/docs/description"
               },
               "next": {
-                "title": "Headquarters",
-                "permalink": "/docs/gameplay/headquarters"
+                "title": "Starship",
+                "permalink": "/docs/gameplay/starship"
               }
             },
             {
@@ -232,7 +232,7 @@
               "id": "team",
               "isDocsHomePage": false,
               "title": "Team",
-              "description": "Team coming soon ...",
+              "description": "Khyron Realm is being developed by a team of engineers and artist.",
               "source": "@site/docs/team.md",
               "sourceDirName": ".",
               "slug": "/team",
@@ -354,7 +354,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "gameplay/headquarters"
+                    "id": "gameplay/starship"
                   },
                   {
                     "type": "doc",

@@ -95,7 +95,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','f31'),
+    component: ComponentCreator('/docs','029'),
     routes: [
       {
         path: '/docs/community',
@@ -116,14 +116,14 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/gameplay/headquarters',
-        component: ComponentCreator('/docs/gameplay/headquarters','beb'),
+        path: '/docs/gameplay/mines',
+        component: ComponentCreator('/docs/gameplay/mines','4f4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/gameplay/mines',
-        component: ComponentCreator('/docs/gameplay/mines','4f4'),
+        path: '/docs/gameplay/starship',
+        component: ComponentCreator('/docs/gameplay/starship','ddd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

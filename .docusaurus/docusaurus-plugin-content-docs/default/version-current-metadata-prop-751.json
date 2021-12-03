@@ -26,8 +26,8 @@
         "items": [
           {
             "type": "link",
-            "label": "Headquarters",
-            "href": "/docs/gameplay/headquarters"
+            "label": "Starship",
+            "href": "/docs/gameplay/starship"
           },
           {
             "type": "link",
