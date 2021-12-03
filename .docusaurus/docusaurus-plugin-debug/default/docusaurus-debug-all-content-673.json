@@ -38,8 +38,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Story",
-                "permalink": "/docs/story"
+                "title": "Mines",
+                "permalink": "/docs/gameplay/mines"
               },
               "next": {
                 "title": "Technology",
@@ -65,8 +65,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Headquarters",
-                "permalink": "/docs/gameplay/headquarters"
+                "title": "Story",
+                "permalink": "/docs/story"
               }
             },
             {
@@ -115,8 +115,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Description",
-                "permalink": "/docs/description"
+                "title": "Story",
+                "permalink": "/docs/story"
               },
               "next": {
                 "title": "Auctions",
@@ -146,8 +146,8 @@
                 "permalink": "/docs/gameplay/auctions"
               },
               "next": {
-                "title": "Story",
-                "permalink": "/docs/story"
+                "title": "Community",
+                "permalink": "/docs/community"
               }
             },
             {
@@ -205,7 +205,7 @@
               "id": "story",
               "isDocsHomePage": false,
               "title": "Story",
-              "description": "Story coming soon ...",
+              "description": "",
               "source": "@site/docs/story.md",
               "sourceDirName": ".",
               "slug": "/story",
@@ -213,18 +213,18 @@
               "editUrl": "https://github.com/target-software/game-website/docs/story.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Mines",
-                "permalink": "/docs/gameplay/mines"
+                "title": "Description",
+                "permalink": "/docs/description"
               },
               "next": {
-                "title": "Community",
-                "permalink": "/docs/community"
+                "title": "Headquarters",
+                "permalink": "/docs/gameplay/headquarters"
               }
             },
             {
@@ -343,6 +343,10 @@
                 "id": "description"
               },
               {
+                "type": "doc",
+                "id": "story"
+              },
+              {
                 "type": "category",
                 "label": "Gameplay",
                 "collapsible": true,
@@ -361,10 +365,6 @@
                     "id": "gameplay/mines"
                   }
                 ]
-              },
-              {
-                "type": "doc",
-                "id": "story"
               },
               {
                 "type": "doc",

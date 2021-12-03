@@ -14,6 +14,11 @@
         "href": "/docs/description"
       },
       {
+        "type": "link",
+        "label": "Story",
+        "href": "/docs/story"
+      },
+      {
         "type": "category",
         "label": "Gameplay",
         "collapsible": true,
@@ -35,11 +40,6 @@
             "href": "/docs/gameplay/mines"
           }
         ]
-      },
-      {
-        "type": "link",
-        "label": "Story",
-        "href": "/docs/story"
       },
       {
         "type": "link",

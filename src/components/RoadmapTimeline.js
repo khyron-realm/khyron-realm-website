@@ -5,44 +5,46 @@ import styles from "./RoadmapTimeline.module.css";
 
 function Roadmap() {
     return (
-        <VerticalTimeline lineColor='lightblue' className={"container"}>
+        <VerticalTimeline lineColor='rgb(48, 56, 70)' className={"container"}>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work roadmap-element"
-                contentStyle={{ background: 'lightblue', color: 'dark' }}
-                contentArrowStyle={{ borderRight: '7px solid lightblue' }}
-                date="SEP 2021"
-                iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
-                icon={<img src="/img/concept.png"  alt="img"/>}
+                contentStyle={{ background: 'rgb(48, 56, 70)', color: 'white' }}
+                contentArrowStyle={{ borderRight: '7px solid rgb(48, 56, 70)' }}
+                date=""
+                iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)', badge: 'rgb(48, 56, 70)' }}
+                icon={<img src="/img/concept_icon.png"  alt="img"/>}
             >
-                <h3 className="vertical-timeline-element-title">Concept</h3>
+                <h3 className="vertical-timeline-element-title">SEPTEMBER 2021</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
                     Creating the initial concept of the game
                 </p>
+                <img src="/img/concept.png"  alt="img"/>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
-                contentStyle={{ background: 'lightblue', color: 'dark' }}
-                contentArrowStyle={{ borderRight: '7px solid lightblue' }}
+                contentStyle={{ background: 'rgb(48, 56, 70)', color: 'white' }}
+                contentArrowStyle={{ borderRight: '7px solid rgb(48, 56, 70)' }}
                 date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
-                icon={<img src="/img/testing.png"  alt="img"/>}
+                icon={<img src="/img/testing_icon.png"  alt="img"/>}
             >
-                <h3 className="vertical-timeline-element-title">Initial version</h3>
+                <h3 className="vertical-timeline-element-title">NOVEMBER 2021</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
                     Launching a first test version to gather feedback
                 </p>
+                <img src="/img/test_version.png"  alt="img"/>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
-                contentStyle={{ background: 'lightblue', color: 'dark' }}
-                contentArrowStyle={{ borderRight: '7px solid lightblue' }}
-                date="MAR 2022"
+                contentStyle={{ background: 'rgb(48, 56, 70)', color: 'white' }}
+                contentArrowStyle={{ borderRight: '7px solid rgb(48, 56, 70)' }}
+                date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
-                icon={<img src="/img/crypto.png"  alt="img"/>}
+                icon={<img src="/img/crypto_icon.png"  alt="img"/>}
             >
-                <h3 className="vertical-timeline-element-title">Game Launch</h3>
+                <h3 className="vertical-timeline-element-title">MARCH 2022</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
                     Launching the complete game on the AppStore and PlayStore
@@ -50,13 +52,13 @@ function Roadmap() {
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
-                contentStyle={{ background: 'lightblue', color: 'dark' }}
-                contentArrowStyle={{ borderRight: '7px solid lightblue' }}
-                date="APR 2022"
+                contentStyle={{ background: 'rgb(48, 56, 70)', color: 'white' }}
+                contentArrowStyle={{ borderRight: '7px solid rgb(48, 56, 70)' }}
+                date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
-                icon={<img src="/img/launch.png"  alt="img"/>}
+                icon={<img src="/img/launch_icon.png"  alt="img"/>}
             >
-                <h3 className="vertical-timeline-element-title">Crypto expansion</h3>
+                <h3 className="vertical-timeline-element-title">APRIL 2022</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
                     Launching the token and crypto expansion for the game

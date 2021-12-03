@@ -5,7 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
-import TimelineFeatures from "../components/TimelineFeatures";
+import RoadmapTimeline from "../components/RoadmapTimeline";
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -14,7 +14,7 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <img className="hero_image" src="/img/crusher.gif" />
+        <img className="hero_image" src="/img/crusher.gif" height="250px" />
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -36,7 +36,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
           <HomepageFeatures />
-          <TimelineFeatures/>
+          <RoadmapTimeline />
       </main>
     </Layout>
   );

@@ -3,7 +3,7 @@
   "id": "story",
   "isDocsHomePage": false,
   "title": "Story",
-  "description": "Story coming soon ...",
+  "description": "",
   "source": "@site/docs/story.md",
   "sourceDirName": ".",
   "slug": "/story",
@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/target-software/game-website/docs/story.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Mines",
-    "permalink": "/docs/gameplay/mines"
+    "title": "Description",
+    "permalink": "/docs/description"
   },
   "next": {
-    "title": "Community",
-    "permalink": "/docs/community"
+    "title": "Headquarters",
+    "permalink": "/docs/gameplay/headquarters"
   }
 }
