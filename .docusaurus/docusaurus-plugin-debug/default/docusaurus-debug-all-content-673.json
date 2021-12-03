@@ -42,8 +42,8 @@
                 "permalink": "/docs/gameplay/mines"
               },
               "next": {
-                "title": "Technology",
-                "permalink": "/docs/technology"
+                "title": "Roadmap",
+                "permalink": "/docs/roadmap"
               }
             },
             {
@@ -178,7 +178,7 @@
               "id": "roadmap",
               "isDocsHomePage": false,
               "title": "Roadmap",
-              "description": "Roadmap coming soon ...",
+              "description": "Phase 1 - Q4 2021",
               "source": "@site/docs/roadmap.md",
               "sourceDirName": ".",
               "slug": "/roadmap",
@@ -186,18 +186,18 @@
               "editUrl": "https://github.com/target-software/game-website/docs/roadmap.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Technology",
-                "permalink": "/docs/technology"
+                "title": "Community",
+                "permalink": "/docs/community"
               },
               "next": {
-                "title": "Team",
-                "permalink": "/docs/team"
+                "title": "Technology",
+                "permalink": "/docs/technology"
               }
             },
             {
@@ -240,18 +240,18 @@
               "editUrl": "https://github.com/target-software/game-website/docs/team.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 7,
+              "sidebarPosition": 8,
               "frontMatter": {
-                "sidebar_position": 7
+                "sidebar_position": 8
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Roadmap",
-                "permalink": "/docs/roadmap"
-              },
-              "next": {
                 "title": "Tokenomics",
                 "permalink": "/docs/tokenomics"
+              },
+              "next": {
+                "title": "Terms & Conditions",
+                "permalink": "/docs/terms&conditions"
               }
             },
             {
@@ -267,18 +267,18 @@
               "editUrl": "https://github.com/target-software/game-website/docs/technology.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Community",
-                "permalink": "/docs/community"
-              },
-              "next": {
                 "title": "Roadmap",
                 "permalink": "/docs/roadmap"
+              },
+              "next": {
+                "title": "Tokenomics",
+                "permalink": "/docs/tokenomics"
               }
             },
             {
@@ -300,8 +300,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tokenomics",
-                "permalink": "/docs/tokenomics"
+                "title": "Team",
+                "permalink": "/docs/team"
               },
               "next": {
                 "title": "Privacy policy",
@@ -321,18 +321,18 @@
               "editUrl": "https://github.com/target-software/game-website/docs/tokenomics.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 8,
+              "sidebarPosition": 7,
               "frontMatter": {
-                "sidebar_position": 8
+                "sidebar_position": 7
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Team",
-                "permalink": "/docs/team"
+                "title": "Technology",
+                "permalink": "/docs/technology"
               },
               "next": {
-                "title": "Terms & Conditions",
-                "permalink": "/docs/terms&conditions"
+                "title": "Team",
+                "permalink": "/docs/team"
               }
             }
           ],
@@ -372,19 +372,19 @@
               },
               {
                 "type": "doc",
-                "id": "technology"
-              },
-              {
-                "type": "doc",
                 "id": "roadmap"
               },
               {
                 "type": "doc",
-                "id": "team"
+                "id": "technology"
               },
               {
                 "type": "doc",
                 "id": "tokenomics"
+              },
+              {
+                "type": "doc",
+                "id": "team"
               },
               {
                 "type": "doc",

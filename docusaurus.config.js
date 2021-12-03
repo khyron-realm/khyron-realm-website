@@ -1,5 +1,4 @@
 // @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
@@ -23,12 +22,10 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl: 'https://github.com/target-software/game-website/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
             'https://github.com/target-software/game-website/blog/',
         },
@@ -43,7 +40,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Khyron Real',
+        title: 'Khyron Realm',
         logo: {
           alt: 'Khyron Realm logo',
           src: 'img/logo.png',
@@ -68,7 +65,7 @@ const config = {
           },
           {
             href: '#',
-            label: 'Play now',
+            label: 'Play Demo',
             position: 'right',
           },
           {

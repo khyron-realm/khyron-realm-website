@@ -3,7 +3,7 @@
   "id": "roadmap",
   "isDocsHomePage": false,
   "title": "Roadmap",
-  "description": "Roadmap coming soon ...",
+  "description": "Phase 1 - Q4 2021",
   "source": "@site/docs/roadmap.md",
   "sourceDirName": ".",
   "slug": "/roadmap",
@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/target-software/game-website/docs/roadmap.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Technology",
-    "permalink": "/docs/technology"
+    "title": "Community",
+    "permalink": "/docs/community"
   },
   "next": {
-    "title": "Team",
-    "permalink": "/docs/team"
+    "title": "Technology",
+    "permalink": "/docs/technology"
   }
 }

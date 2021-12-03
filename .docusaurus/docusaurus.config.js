@@ -28,7 +28,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Khyron Real",
+      "title": "Khyron Realm",
       "logo": {
         "alt": "Khyron Realm logo",
         "src": "img/logo.png"
@@ -57,7 +57,7 @@ export default {
         },
         {
           "href": "#",
-          "label": "Play now",
+          "label": "Play Demo",
           "position": "right"
         },
         {

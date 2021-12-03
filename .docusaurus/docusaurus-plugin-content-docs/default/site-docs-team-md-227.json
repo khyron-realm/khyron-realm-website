@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/target-software/game-website/docs/team.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 7,
+  "sidebarPosition": 8,
   "frontMatter": {
-    "sidebar_position": 7
+    "sidebar_position": 8
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Roadmap",
-    "permalink": "/docs/roadmap"
-  },
-  "next": {
     "title": "Tokenomics",
     "permalink": "/docs/tokenomics"
+  },
+  "next": {
+    "title": "Terms & Conditions",
+    "permalink": "/docs/terms&conditions"
   }
 }

@@ -17,7 +17,7 @@ The year is 2422. There are now 400 years since we tried to get to another plane
 | Distance           | 400 Light Years away from Earth               |
 | Discovered         | 2021                                          |
 | Gravity            | 1.5 g                                         |
-| Radiusv            | 8000 km                                       |
+| Radius             | 8000 km                                       |
 | Orbital period     | 420 days                                      |
 | Coordinates        | Betelgeuse solar system, Orion constellation  |
 | Temperature        | range (-50, +50) degrees, average 24 degrees) |

@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/target-software/game-website/docs/tokenomics.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 8,
+  "sidebarPosition": 7,
   "frontMatter": {
-    "sidebar_position": 8
+    "sidebar_position": 7
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Team",
-    "permalink": "/docs/team"
+    "title": "Technology",
+    "permalink": "/docs/technology"
   },
   "next": {
-    "title": "Terms & Conditions",
-    "permalink": "/docs/terms&conditions"
+    "title": "Team",
+    "permalink": "/docs/team"
   }
 }

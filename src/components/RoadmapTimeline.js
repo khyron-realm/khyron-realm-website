@@ -44,6 +44,34 @@ function Roadmap() {
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
                 icon={<img src="/img/crypto_icon.png"  alt="img"/>}
             >
+                <h3 className="vertical-timeline-element-title">DECEMBER 2021</h3>
+                <h4 className="vertical-timeline-element-subtitle"> </h4>
+                <p>
+                    Creating the community
+                </p>
+            </VerticalTimelineElement>
+            <VerticalTimelineElement
+                className="vertical-timeline-element--work"
+                contentStyle={{ background: 'rgb(48, 56, 70)', color: 'white' }}
+                contentArrowStyle={{ borderRight: '7px solid rgb(48, 56, 70)' }}
+                date=""
+                iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
+                icon={<img src="/img/crypto_icon.png"  alt="img"/>}
+            >
+                <h3 className="vertical-timeline-element-title">JANUARY 2022</h3>
+                <h4 className="vertical-timeline-element-subtitle"> </h4>
+                <p>
+                    Token launch
+                </p>
+            </VerticalTimelineElement>
+            <VerticalTimelineElement
+                className="vertical-timeline-element--work"
+                contentStyle={{ background: 'rgb(48, 56, 70)', color: 'white' }}
+                contentArrowStyle={{ borderRight: '7px solid rgb(48, 56, 70)' }}
+                date=""
+                iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
+                icon={<img src="/img/crypto_icon.png"  alt="img"/>}
+            >
                 <h3 className="vertical-timeline-element-title">MARCH 2022</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>

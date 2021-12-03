@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/target-software/game-website/docs/technology.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
+  "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 5
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Community",
-    "permalink": "/docs/community"
-  },
-  "next": {
     "title": "Roadmap",
     "permalink": "/docs/roadmap"
+  },
+  "next": {
+    "title": "Tokenomics",
+    "permalink": "/docs/tokenomics"
   }
 }
