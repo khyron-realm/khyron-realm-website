@@ -11,9 +11,9 @@
   "editUrl": "https://github.com/target-software/game-website/docs/technology.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {

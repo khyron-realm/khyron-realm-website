@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Spaceship
 
-### Modules
+## Modules
 
 | Module                | Type     | Description                                                               | Number |
 |-----------------------|----------|---------------------------------------------------------------------------|--------|
@@ -18,7 +18,25 @@ sidebar_position: 2
 | **Robot research**    | Optional | Upgrade robot manufacturing process to improve the performance            | 1      |
 | **Scrap-yard**        | Optional | Salvage and repairs some robots using the parts from the destroyed robots | 1      |
 
-### Specifications
+---
+
+## Robots
+
+| Class      | Name        | Description | Image                               |
+|------------|-------------|-------------|-------------------------------------|
+| **Miners** | **Worker**  |             | ![Worker](/img/robots/worker.png)   |
+|            | **Probe**   |             | ![Probe](/img/robots/probe.png)     |
+|            | **Crusher** |             | ![Crusher](/img/robots/crusher.png) |
+|            |             |             |                                     |
+|            |             |             |                                     |
+|            |             |             |                                     |
+|            |             |             |                                     |
+|            |             |             |                                     |
+|            |             |             |                                     |
+
+---
+
+## Specifications
 
 | Stage            | Characteristic           | value               |
 |------------------|--------------------------|---------------------|

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 8
 ---
 
 # Terms & Conditions
@@ -46,4 +46,4 @@ If you have any questions, concerns, or complaints regarding this Agreement, we 
 
 robochain.unlimited@gmail.com
 
-This document was last updated on November 30, 2021
+*This document was last updated on November 30, 2021*

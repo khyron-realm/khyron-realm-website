@@ -10,11 +10,11 @@ import RoadmapTimeline from "../components/RoadmapTimeline";
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={clsx('hero hero--primary wrapper', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <img className="hero_image" src="/img/crusher.gif" height="250px" />
+        <img className="hero_image" src="/img/robots/crusher.gif" height="300px" />
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"

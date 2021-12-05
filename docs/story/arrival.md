@@ -11,7 +11,9 @@ The first stage is the **Interplanetary Booster**, which is capable of lifting f
 
 On the way to their target, our fleets were hit by a solar storm that damaged the electronic components. Luckily, we were attracted by Khyran gravitational field and will safely crash on it in a few weeks. Before this unfortunate event, we selected the trajectories for each ship to land in a given place. With a little hope, they will arrive without critical damage from the tough landing.
 
-[Crash zone environment image]
+![Environment](/img/background/background2.png)
+
+--- 
 
 ## Mission ##
 

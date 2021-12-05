@@ -49,7 +49,7 @@
         "editUrl": "https://github.com/target-software/game-website/blog/blog/2021-11-29-welcome/index.md",
         "source": "@site/blog/2021-11-29-welcome/index.md",
         "title": "Welcome",
-        "description": "Docusaurus Plushie",
+        "description": "Environment",
         "date": "2021-11-29T00:00:00.000Z",
         "formattedDate": "November 29, 2021",
         "tags": [
@@ -62,7 +62,7 @@
             "permalink": "/blog/tags/robochain"
           }
         ],
-        "readingTime": 0.01,
+        "readingTime": 0.005,
         "truncated": false,
         "authors": [
           {
@@ -78,7 +78,7 @@
           "permalink": "/blog/robochain-test-version"
         }
       },
-      "content": "![Docusaurus Plushie](/img/background2.png)"
+      "content": "![Environment](/img/background/background2.png)"
     }
   ]
 }

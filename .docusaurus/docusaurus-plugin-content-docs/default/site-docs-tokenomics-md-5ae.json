@@ -11,9 +11,9 @@
   "editUrl": "https://github.com/target-software/game-website/docs/tokenomics.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 7,
+  "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 7
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {

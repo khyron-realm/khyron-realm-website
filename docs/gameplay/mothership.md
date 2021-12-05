@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Mothership
 
-### Modules
+## Modules
 
 | Module      | Element    | Description | Number |
 |-------------|------------|-------------|--------|
@@ -15,7 +15,7 @@ sidebar_position: 3
 |             |            |             |        |
 |             |            |             |        |
 
-### Specifications
+## Specifications
 
 | Stage            | Characteristic           | value                |
 |------------------|--------------------------|----------------------|

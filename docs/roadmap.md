@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 # Roadmap
@@ -19,4 +19,6 @@ sidebar_position: 5
 | Phase 3 - Q2 2022 |                               |        |
 |                   |                               |        |
 | Phase 4 - Q3 2022 |                               |        |
+|                   |                               |        |
+| Phase 5 - Q4 2022 |                               |        |
 |                   |                               |        |

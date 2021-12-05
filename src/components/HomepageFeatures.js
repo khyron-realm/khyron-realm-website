@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
     {
         title: 'Play with friends',
-        Png: require('../../static/img/play.png').default,
+        Png: require('../../static/img/hero/play.png').default,
         description: (
             <>
                 Socialize with other people.
@@ -14,7 +14,7 @@ const FeatureList = [
     },
     {
         title: 'Compete in auctions',
-        Png: require('../../static/img/compete.png').default,
+        Png: require('../../static/img/hero/compete.png').default,
         description: (
             <>
                 Compete in auctions to win new mines.
@@ -23,7 +23,7 @@ const FeatureList = [
     },
     {
         title: 'Earn Crypto',
-        Png: require('../../static/img/earn.png').default,
+        Png: require('../../static/img/hero/earn.png').default,
         description: (
             <>
                 Earn crypto by progressing in the game.

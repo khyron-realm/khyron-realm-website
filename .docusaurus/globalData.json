@@ -11,11 +11,6 @@
           "mainDocId": "description",
           "docs": [
             {
-              "id": "community",
-              "path": "/docs/community",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "description",
               "path": "/docs/description",
               "sidebar": "tutorialSidebar"

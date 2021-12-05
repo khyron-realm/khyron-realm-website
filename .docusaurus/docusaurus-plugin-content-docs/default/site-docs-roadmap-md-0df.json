@@ -11,14 +11,14 @@
   "editUrl": "https://github.com/target-software/game-website/docs/roadmap.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 5
+    "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Community",
-    "permalink": "/docs/community"
+    "title": "Mines",
+    "permalink": "/docs/gameplay/mines"
   },
   "next": {
     "title": "Technology",

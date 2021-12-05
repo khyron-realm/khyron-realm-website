@@ -76,11 +76,6 @@
       },
       {
         "type": "link",
-        "label": "Community",
-        "href": "/docs/community"
-      },
-      {
-        "type": "link",
         "label": "Roadmap",
         "href": "/docs/roadmap"
       },

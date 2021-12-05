@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 9
 ---
 
 # Privacy policy
@@ -95,4 +95,4 @@ robochain.unlimited@gmail.com
 
 We will attempt to resolve complaints and disputes and make every reasonable effort to honor your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by applicable data protection laws.
 
-This document was last updated on November 30, 2021
+*This document was last updated on November 30, 2021*

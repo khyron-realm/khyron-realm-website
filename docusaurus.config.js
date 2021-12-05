@@ -43,7 +43,7 @@ const config = {
         title: 'Khyron Realm',
         logo: {
           alt: 'Khyron Realm logo',
-          src: 'img/logo.png',
+          src: 'img/logo/logo.png',
         },
         items: [
           {
@@ -64,7 +64,7 @@ const config = {
             position: 'left',
           },
           {
-            href: '#',
+            href: '/play_now',
             label: 'Play Demo',
             position: 'right',
           },

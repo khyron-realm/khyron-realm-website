@@ -20,38 +20,11 @@
           "mainDocId": "description",
           "docs": [
             {
-              "unversionedId": "community",
-              "id": "community",
-              "isDocsHomePage": false,
-              "title": "Community",
-              "description": "Community coming soon ...",
-              "source": "@site/docs/community.md",
-              "sourceDirName": ".",
-              "slug": "/community",
-              "permalink": "/docs/community",
-              "editUrl": "https://github.com/target-software/game-website/docs/community.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Mines",
-                "permalink": "/docs/gameplay/mines"
-              },
-              "next": {
-                "title": "Roadmap",
-                "permalink": "/docs/roadmap"
-              }
-            },
-            {
               "unversionedId": "description",
               "id": "description",
               "isDocsHomePage": false,
               "title": "Description",
-              "description": "Description coming soon ...",
+              "description": "Environment",
               "source": "@site/docs/description.md",
               "sourceDirName": ".",
               "slug": "/description",
@@ -119,8 +92,8 @@
                 "permalink": "/docs/gameplay/environment"
               },
               "next": {
-                "title": "Community",
-                "permalink": "/docs/community"
+                "title": "Roadmap",
+                "permalink": "/docs/roadmap"
               }
             },
             {
@@ -155,7 +128,7 @@
               "id": "gameplay/planet",
               "isDocsHomePage": false,
               "title": "Planet",
-              "description": "| Characteristic     | Description                                   |",
+              "description": "Technical details",
               "source": "@site/docs/gameplay/planet.md",
               "sourceDirName": "gameplay",
               "slug": "/gameplay/planet",
@@ -217,9 +190,9 @@
               "editUrl": "https://github.com/target-software/game-website/docs/privacy_policy.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 10,
+              "sidebarPosition": 9,
               "frontMatter": {
-                "sidebar_position": 10
+                "sidebar_position": 9
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -240,14 +213,14 @@
               "editUrl": "https://github.com/target-software/game-website/docs/roadmap.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Community",
-                "permalink": "/docs/community"
+                "title": "Mines",
+                "permalink": "/docs/gameplay/mines"
               },
               "next": {
                 "title": "Technology",
@@ -375,9 +348,9 @@
               "editUrl": "https://github.com/target-software/game-website/docs/team.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 8,
+              "sidebarPosition": 7,
               "frontMatter": {
-                "sidebar_position": 8
+                "sidebar_position": 7
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -402,9 +375,9 @@
               "editUrl": "https://github.com/target-software/game-website/docs/technology.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -429,9 +402,9 @@
               "editUrl": "https://github.com/target-software/game-website/docs/terms&conditions.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 9,
+              "sidebarPosition": 8,
               "frontMatter": {
-                "sidebar_position": 9
+                "sidebar_position": 8
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -456,9 +429,9 @@
               "editUrl": "https://github.com/target-software/game-website/docs/tokenomics.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 7,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 7
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -528,10 +501,6 @@
                     "id": "gameplay/mines"
                   }
                 ]
-              },
-              {
-                "type": "doc",
-                "id": "community"
               },
               {
                 "type": "doc",
@@ -616,7 +585,7 @@
             "editUrl": "https://github.com/target-software/game-website/blog/blog/2021-11-29-welcome/index.md",
             "source": "@site/blog/2021-11-29-welcome/index.md",
             "title": "Welcome",
-            "description": "Docusaurus Plushie",
+            "description": "Environment",
             "date": "2021-11-29T00:00:00.000Z",
             "formattedDate": "November 29, 2021",
             "tags": [
@@ -629,7 +598,7 @@
                 "permalink": "/blog/tags/robochain"
               }
             ],
-            "readingTime": 0.01,
+            "readingTime": 0.005,
             "truncated": false,
             "authors": [
               {
@@ -645,7 +614,7 @@
               "permalink": "/blog/robochain-test-version"
             }
           },
-          "content": "![Docusaurus Plushie](/img/background2.png)"
+          "content": "![Environment](/img/background/background2.png)"
         }
       ],
       "blogListPaginated": [
@@ -717,6 +686,11 @@
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/play_now",
+        "source": "@site/src/pages/play_now.js"
       }
     ]
   },

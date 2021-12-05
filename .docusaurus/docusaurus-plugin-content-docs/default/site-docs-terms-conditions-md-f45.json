@@ -11,9 +11,9 @@
   "editUrl": "https://github.com/target-software/game-website/docs/terms&conditions.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 9,
+  "sidebarPosition": 8,
   "frontMatter": {
-    "sidebar_position": 9
+    "sidebar_position": 8
   },
   "sidebar": "tutorialSidebar",
   "previous": {

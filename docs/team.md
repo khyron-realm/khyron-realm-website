@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 7
 ---
 
 # Team
@@ -32,7 +32,7 @@ ___
 
 ___
 
-## DESIGN
+## Design
 
 ### Tudor STOIAN
 #### Concept artist

@@ -3,7 +3,7 @@
   "id": "gameplay/planet",
   "isDocsHomePage": false,
   "title": "Planet",
-  "description": "| Characteristic     | Description                                   |",
+  "description": "Technical details",
   "source": "@site/docs/gameplay/planet.md",
   "sourceDirName": "gameplay",
   "slug": "/gameplay/planet",

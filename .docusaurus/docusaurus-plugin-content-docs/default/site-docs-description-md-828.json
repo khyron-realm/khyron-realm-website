@@ -3,7 +3,7 @@
   "id": "description",
   "isDocsHomePage": false,
   "title": "Description",
-  "description": "Description coming soon ...",
+  "description": "Environment",
   "source": "@site/docs/description.md",
   "sourceDirName": ".",
   "slug": "/description",

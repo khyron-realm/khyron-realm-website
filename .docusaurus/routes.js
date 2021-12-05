@@ -94,15 +94,14 @@ export default [
     exact: true
   },
   {
+    path: '/play_now',
+    component: ComponentCreator('/play_now','b29'),
+    exact: true
+  },
+  {
     path: '/docs',
-    component: ComponentCreator('/docs','41b'),
+    component: ComponentCreator('/docs','5b8'),
     routes: [
-      {
-        path: '/docs/community',
-        component: ComponentCreator('/docs/community','b1a'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
       {
         path: '/docs/description',
         component: ComponentCreator('/docs/description','352'),

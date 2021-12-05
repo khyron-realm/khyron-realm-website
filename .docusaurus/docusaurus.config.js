@@ -31,7 +31,7 @@ export default {
       "title": "Khyron Realm",
       "logo": {
         "alt": "Khyron Realm logo",
-        "src": "img/logo.png"
+        "src": "img/logo/logo.png"
       },
       "items": [
         {
@@ -56,7 +56,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "#",
+          "href": "/play_now",
           "label": "Play Demo",
           "position": "right"
         },

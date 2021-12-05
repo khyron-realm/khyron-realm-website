@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Planet
 
+## Technical details
+
 | Characteristic     | Description                                   |
 |--------------------|-----------------------------------------------|
 | Name               | Khyron                                        |
@@ -18,3 +20,13 @@ sidebar_position: 1
 | Environment        | Hazardous, unstable tectonic plates           |
 | Human life support | yes                                           |
 | Description        |  Water, Oxygen, Rich in minerals              |
+
+---
+
+## Resources
+
+| Name     | Description | Image |
+|----------|-------------|-------|
+| Silicon  |             |       |
+| Lithium  |             |       |
+| Titanium |             |       |
