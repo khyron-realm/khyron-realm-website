@@ -1,0 +1,27 @@
+{
+  "unversionedId": "story/beginning",
+  "id": "story/beginning",
+  "isDocsHomePage": false,
+  "title": "Beginning",
+  "description": "The year is 2422. Technology advanced on Earth and our supplies demand is increasing. The world is still in peace and we are more united than ever.",
+  "source": "@site/docs/story/beginning.md",
+  "sourceDirName": "story",
+  "slug": "/story/beginning",
+  "permalink": "/docs/story/beginning",
+  "editUrl": "https://github.com/target-software/game-website/docs/story/beginning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Description",
+    "permalink": "/docs/description"
+  },
+  "next": {
+    "title": "Arrival",
+    "permalink": "/docs/story/arrival"
+  }
+}

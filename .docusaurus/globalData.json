@@ -21,8 +21,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "gameplay/auctions",
-              "path": "/docs/gameplay/auctions",
+              "id": "gameplay/environment",
+              "path": "/docs/gameplay/environment",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -31,8 +31,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "gameplay/starship",
-              "path": "/docs/gameplay/starship",
+              "id": "gameplay/mothership",
+              "path": "/docs/gameplay/mothership",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/planet",
+              "path": "/docs/gameplay/planet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/spaceship",
+              "path": "/docs/gameplay/spaceship",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -46,8 +56,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "story",
-              "path": "/docs/story",
+              "id": "story/arrival",
+              "path": "/docs/story/arrival",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "story/beginning",
+              "path": "/docs/story/beginning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "story/community",
+              "path": "/docs/story/community",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "story/supplyes",
+              "path": "/docs/story/supplyes",
               "sidebar": "tutorialSidebar"
             },
             {

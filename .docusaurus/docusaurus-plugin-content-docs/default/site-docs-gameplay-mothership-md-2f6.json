@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gameplay/mothership",
+  "id": "gameplay/mothership",
+  "isDocsHomePage": false,
+  "title": "Mothership",
+  "description": "Modules",
+  "source": "@site/docs/gameplay/mothership.md",
+  "sourceDirName": "gameplay",
+  "slug": "/gameplay/mothership",
+  "permalink": "/docs/gameplay/mothership",
+  "editUrl": "https://github.com/target-software/game-website/docs/gameplay/mothership.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spaceship",
+    "permalink": "/docs/gameplay/spaceship"
+  },
+  "next": {
+    "title": "Environment",
+    "permalink": "/docs/gameplay/environment"
+  }
+}

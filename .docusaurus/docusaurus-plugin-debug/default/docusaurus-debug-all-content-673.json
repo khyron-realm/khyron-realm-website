@@ -65,31 +65,31 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Story",
-                "permalink": "/docs/story"
+                "title": "Beginning",
+                "permalink": "/docs/story/beginning"
               }
             },
             {
-              "unversionedId": "gameplay/auctions",
-              "id": "gameplay/auctions",
+              "unversionedId": "gameplay/environment",
+              "id": "gameplay/environment",
               "isDocsHomePage": false,
-              "title": "Auctions",
-              "description": "Auctions coming soon ...",
-              "source": "@site/docs/gameplay/auctions.md",
+              "title": "Environment",
+              "description": "",
+              "source": "@site/docs/gameplay/environment.md",
               "sourceDirName": "gameplay",
-              "slug": "/gameplay/auctions",
-              "permalink": "/docs/gameplay/auctions",
-              "editUrl": "https://github.com/target-software/game-website/docs/gameplay/auctions.md",
+              "slug": "/gameplay/environment",
+              "permalink": "/docs/gameplay/environment",
+              "editUrl": "https://github.com/target-software/game-website/docs/gameplay/environment.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Starship",
-                "permalink": "/docs/gameplay/starship"
+                "title": "Mothership",
+                "permalink": "/docs/gameplay/mothership"
               },
               "next": {
                 "title": "Mines",
@@ -101,12 +101,39 @@
               "id": "gameplay/mines",
               "isDocsHomePage": false,
               "title": "Mines",
-              "description": "Mines coming soon ...",
+              "description": "",
               "source": "@site/docs/gameplay/mines.md",
               "sourceDirName": "gameplay",
               "slug": "/gameplay/mines",
               "permalink": "/docs/gameplay/mines",
               "editUrl": "https://github.com/target-software/game-website/docs/gameplay/mines.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Environment",
+                "permalink": "/docs/gameplay/environment"
+              },
+              "next": {
+                "title": "Community",
+                "permalink": "/docs/community"
+              }
+            },
+            {
+              "unversionedId": "gameplay/mothership",
+              "id": "gameplay/mothership",
+              "isDocsHomePage": false,
+              "title": "Mothership",
+              "description": "Modules",
+              "source": "@site/docs/gameplay/mothership.md",
+              "sourceDirName": "gameplay",
+              "slug": "/gameplay/mothership",
+              "permalink": "/docs/gameplay/mothership",
+              "editUrl": "https://github.com/target-software/game-website/docs/gameplay/mothership.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -115,25 +142,25 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Auctions",
-                "permalink": "/docs/gameplay/auctions"
+                "title": "Spaceship",
+                "permalink": "/docs/gameplay/spaceship"
               },
               "next": {
-                "title": "Community",
-                "permalink": "/docs/community"
+                "title": "Environment",
+                "permalink": "/docs/gameplay/environment"
               }
             },
             {
-              "unversionedId": "gameplay/starship",
-              "id": "gameplay/starship",
+              "unversionedId": "gameplay/planet",
+              "id": "gameplay/planet",
               "isDocsHomePage": false,
-              "title": "Starship",
-              "description": "Headquarters coming soon ...",
-              "source": "@site/docs/gameplay/starship.md",
+              "title": "Planet",
+              "description": "| Characteristic     | Description                                   |",
+              "source": "@site/docs/gameplay/planet.md",
               "sourceDirName": "gameplay",
-              "slug": "/gameplay/starship",
-              "permalink": "/docs/gameplay/starship",
-              "editUrl": "https://github.com/target-software/game-website/docs/gameplay/starship.md",
+              "slug": "/gameplay/planet",
+              "permalink": "/docs/gameplay/planet",
+              "editUrl": "https://github.com/target-software/game-website/docs/gameplay/planet.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -142,12 +169,39 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Story",
-                "permalink": "/docs/story"
+                "title": "Supplies",
+                "permalink": "/docs/story/supplyes"
               },
               "next": {
-                "title": "Auctions",
-                "permalink": "/docs/gameplay/auctions"
+                "title": "Spaceship",
+                "permalink": "/docs/gameplay/spaceship"
+              }
+            },
+            {
+              "unversionedId": "gameplay/spaceship",
+              "id": "gameplay/spaceship",
+              "isDocsHomePage": false,
+              "title": "Spaceship",
+              "description": "Modules",
+              "source": "@site/docs/gameplay/spaceship.md",
+              "sourceDirName": "gameplay",
+              "slug": "/gameplay/spaceship",
+              "permalink": "/docs/gameplay/spaceship",
+              "editUrl": "https://github.com/target-software/game-website/docs/gameplay/spaceship.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Planet",
+                "permalink": "/docs/gameplay/planet"
+              },
+              "next": {
+                "title": "Mothership",
+                "permalink": "/docs/gameplay/mothership"
               }
             },
             {
@@ -201,16 +255,16 @@
               }
             },
             {
-              "unversionedId": "story",
-              "id": "story",
+              "unversionedId": "story/arrival",
+              "id": "story/arrival",
               "isDocsHomePage": false,
-              "title": "Story",
-              "description": "Beginning",
-              "source": "@site/docs/story.md",
-              "sourceDirName": ".",
-              "slug": "/story",
-              "permalink": "/docs/story",
-              "editUrl": "https://github.com/target-software/game-website/docs/story.md",
+              "title": "Arrival",
+              "description": "We sent two types of ships there. The first is the Mothership, which will hold as the meeting place for all the fleets, and multiple Starships, which are organised in fleets to communicate better with each other.",
+              "source": "@site/docs/story/arrival.md",
+              "sourceDirName": "story",
+              "slug": "/story/arrival",
+              "permalink": "/docs/story/arrival",
+              "editUrl": "https://github.com/target-software/game-website/docs/story/arrival.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -219,12 +273,93 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
+                "title": "Beginning",
+                "permalink": "/docs/story/beginning"
+              },
+              "next": {
+                "title": "Community",
+                "permalink": "/docs/story/community"
+              }
+            },
+            {
+              "unversionedId": "story/beginning",
+              "id": "story/beginning",
+              "isDocsHomePage": false,
+              "title": "Beginning",
+              "description": "The year is 2422. Technology advanced on Earth and our supplies demand is increasing. The world is still in peace and we are more united than ever.",
+              "source": "@site/docs/story/beginning.md",
+              "sourceDirName": "story",
+              "slug": "/story/beginning",
+              "permalink": "/docs/story/beginning",
+              "editUrl": "https://github.com/target-software/game-website/docs/story/beginning.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
                 "title": "Description",
                 "permalink": "/docs/description"
               },
               "next": {
-                "title": "Starship",
-                "permalink": "/docs/gameplay/starship"
+                "title": "Arrival",
+                "permalink": "/docs/story/arrival"
+              }
+            },
+            {
+              "unversionedId": "story/community",
+              "id": "story/community",
+              "isDocsHomePage": false,
+              "title": "Community",
+              "description": "On our lunch plan, we negotiated the rules for living here, to prevent the wars that we had on earth. We will need to collaborate to establish a colony there.",
+              "source": "@site/docs/story/community.md",
+              "sourceDirName": "story",
+              "slug": "/story/community",
+              "permalink": "/docs/story/community",
+              "editUrl": "https://github.com/target-software/game-website/docs/story/community.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Arrival",
+                "permalink": "/docs/story/arrival"
+              },
+              "next": {
+                "title": "Supplies",
+                "permalink": "/docs/story/supplyes"
+              }
+            },
+            {
+              "unversionedId": "story/supplyes",
+              "id": "story/supplyes",
+              "isDocsHomePage": false,
+              "title": "Supplies",
+              "description": "",
+              "source": "@site/docs/story/supplyes.md",
+              "sourceDirName": "story",
+              "slug": "/story/supplyes",
+              "permalink": "/docs/story/supplyes",
+              "editUrl": "https://github.com/target-software/game-website/docs/story/supplyes.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Community",
+                "permalink": "/docs/story/community"
+              },
+              "next": {
+                "title": "Planet",
+                "permalink": "/docs/gameplay/planet"
               }
             },
             {
@@ -343,8 +478,28 @@
                 "id": "description"
               },
               {
-                "type": "doc",
-                "id": "story"
+                "type": "category",
+                "label": "Story",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "story/beginning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "story/arrival"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "story/community"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "story/supplyes"
+                  }
+                ]
               },
               {
                 "type": "category",
@@ -354,11 +509,19 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "gameplay/starship"
+                    "id": "gameplay/planet"
                   },
                   {
                     "type": "doc",
-                    "id": "gameplay/auctions"
+                    "id": "gameplay/spaceship"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "gameplay/mothership"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "gameplay/environment"
                   },
                   {
                     "type": "doc",

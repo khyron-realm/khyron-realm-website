@@ -6,15 +6,15 @@ sidebar_position: 5
 
 | Period            | Feature                       | Status |
 |-------------------|-------------------------------|--------|
-| Phase 1 - Q4 2021 | Idea                          | Done   |
-|                   | Initial concept               | Done   |
-|                   | Test App Development          | Done   |
-|                   | Alpha Test Version Mobile App | Done   |
-|                   | Creating the community        | Done   |
-|                   | Finishing the game concept    | Done   |
+| Phase 1 - Q4 2021 | Idea                          | ✔️     |
+|                   | Initial concept               | ✔️     |
+|                   | Test App Development          | ✔️     |
+|                   | Alpha Test Version Mobile App | ✔️     |
+|                   | Creating the community        | ✔️     |
+|                   | Finishing the game concept    | ✔️     |
 |                   |                               |        |
-| Phase 2 - Q1 2022 | Mobile Game development       | To Do  |
-|                   | Token launch                  | To Do  |
+| Phase 2 - Q1 2022 | Mobile Game development       |        |
+|                   | Token launch                  |        |
 |                   |                               |        |
 | Phase 3 - Q2 2022 |                               |        |
 |                   |                               |        |

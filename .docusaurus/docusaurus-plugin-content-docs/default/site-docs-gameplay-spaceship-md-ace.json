@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gameplay/spaceship",
+  "id": "gameplay/spaceship",
+  "isDocsHomePage": false,
+  "title": "Spaceship",
+  "description": "Modules",
+  "source": "@site/docs/gameplay/spaceship.md",
+  "sourceDirName": "gameplay",
+  "slug": "/gameplay/spaceship",
+  "permalink": "/docs/gameplay/spaceship",
+  "editUrl": "https://github.com/target-software/game-website/docs/gameplay/spaceship.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Planet",
+    "permalink": "/docs/gameplay/planet"
+  },
+  "next": {
+    "title": "Mothership",
+    "permalink": "/docs/gameplay/mothership"
+  }
+}

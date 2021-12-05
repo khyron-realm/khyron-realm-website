@@ -3,7 +3,7 @@
   "id": "gameplay/mines",
   "isDocsHomePage": false,
   "title": "Mines",
-  "description": "Mines coming soon ...",
+  "description": "",
   "source": "@site/docs/gameplay/mines.md",
   "sourceDirName": "gameplay",
   "slug": "/gameplay/mines",
@@ -11,14 +11,14 @@
   "editUrl": "https://github.com/target-software/game-website/docs/gameplay/mines.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Auctions",
-    "permalink": "/docs/gameplay/auctions"
+    "title": "Environment",
+    "permalink": "/docs/gameplay/environment"
   },
   "next": {
     "title": "Community",

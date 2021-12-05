@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Story",
-    "permalink": "/docs/story"
+    "title": "Supplies",
+    "permalink": "/docs/story/supplyes"
   },
   "next": {
     "title": "Auctions",
-    "permalink": "/docs/gameplay/auctions"
+    "permalink": "/docs/gameplay/mothership"
   }
 }

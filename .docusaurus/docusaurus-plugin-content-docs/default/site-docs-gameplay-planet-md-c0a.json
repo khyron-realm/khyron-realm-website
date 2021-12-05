@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gameplay/planet",
+  "id": "gameplay/planet",
+  "isDocsHomePage": false,
+  "title": "Planet",
+  "description": "| Characteristic     | Description                                   |",
+  "source": "@site/docs/gameplay/planet.md",
+  "sourceDirName": "gameplay",
+  "slug": "/gameplay/planet",
+  "permalink": "/docs/gameplay/planet",
+  "editUrl": "https://github.com/target-software/game-website/docs/gameplay/planet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Supplies",
+    "permalink": "/docs/story/supplyes"
+  },
+  "next": {
+    "title": "Spaceship",
+    "permalink": "/docs/gameplay/spaceship"
+  }
+}

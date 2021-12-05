@@ -1,0 +1,27 @@
+{
+  "unversionedId": "story/community",
+  "id": "story/community",
+  "isDocsHomePage": false,
+  "title": "Community",
+  "description": "On our lunch plan, we negotiated the rules for living here, to prevent the wars that we had on earth. We will need to collaborate to establish a colony there.",
+  "source": "@site/docs/story/community.md",
+  "sourceDirName": "story",
+  "slug": "/story/community",
+  "permalink": "/docs/story/community",
+  "editUrl": "https://github.com/target-software/game-website/docs/story/community.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Arrival",
+    "permalink": "/docs/story/arrival"
+  },
+  "next": {
+    "title": "Supplies",
+    "permalink": "/docs/story/supplyes"
+  }
+}

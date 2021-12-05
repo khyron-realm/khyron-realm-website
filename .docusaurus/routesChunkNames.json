@@ -104,7 +104,7 @@
     "component": "component---site-src-pages-contact-js-83-e-320",
     "config": "config---about-5-e-9-bcb"
   },
-  "/docs-029": {
+  "/docs-41b": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -116,17 +116,25 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-description-828-19e"
   },
-  "/docs/gameplay/auctions-93a": {
+  "/docs/gameplay/environment-c89": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gameplay-auctions-919-ac3"
+    "content": "content---docs-gameplay-environmentf-4-b-92c"
   },
   "/docs/gameplay/mines-4f4": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-gameplay-mines-6-d-5-726"
   },
-  "/docs/gameplay/starship-ddd": {
+  "/docs/gameplay/mothership-2ad": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gameplay-starship-15-d-9a8"
+    "content": "content---docs-gameplay-mothership-2-f-6-9ce"
+  },
+  "/docs/gameplay/planet-58a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-planetc-0-a-921"
+  },
+  "/docs/gameplay/spaceship-b25": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-spaceshipace-aca"
   },
   "/docs/privacy_policy-039": {
     "component": "component---theme-doc-item-178-a40",
@@ -136,9 +144,21 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-roadmap-0-df-a69"
   },
-  "/docs/story-a65": {
+  "/docs/story/arrival-12c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-storydb-3-a68"
+    "content": "content---docs-story-arrival-0-f-6-4b2"
+  },
+  "/docs/story/beginning-e67": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-story-beginning-1-a-9-19e"
+  },
+  "/docs/story/community-24a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-story-communitybde-45d"
+  },
+  "/docs/story/supplyes-07c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-story-supplyes-241-1c3"
   },
   "/docs/team-e04": {
     "component": "component---theme-doc-item-178-a40",

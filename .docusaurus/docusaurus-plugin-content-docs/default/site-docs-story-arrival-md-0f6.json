@@ -1,0 +1,27 @@
+{
+  "unversionedId": "story/arrival",
+  "id": "story/arrival",
+  "isDocsHomePage": false,
+  "title": "Arrival",
+  "description": "We sent two types of ships there. The first is the Mothership, which will hold as the meeting place for all the fleets, and multiple Starships, which are organised in fleets to communicate better with each other.",
+  "source": "@site/docs/story/arrival.md",
+  "sourceDirName": "story",
+  "slug": "/story/arrival",
+  "permalink": "/docs/story/arrival",
+  "editUrl": "https://github.com/target-software/game-website/docs/story/arrival.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Beginning",
+    "permalink": "/docs/story/beginning"
+  },
+  "next": {
+    "title": "Community",
+    "permalink": "/docs/story/community"
+  }
+}

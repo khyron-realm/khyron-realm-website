@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gameplay/environment",
+  "id": "gameplay/environment",
+  "isDocsHomePage": false,
+  "title": "Environment",
+  "description": "",
+  "source": "@site/docs/gameplay/environment.md",
+  "sourceDirName": "gameplay",
+  "slug": "/gameplay/environment",
+  "permalink": "/docs/gameplay/environment",
+  "editUrl": "https://github.com/target-software/game-website/docs/gameplay/environment.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mothership",
+    "permalink": "/docs/gameplay/mothership"
+  },
+  "next": {
+    "title": "Mines",
+    "permalink": "/docs/gameplay/mines"
+  }
+}

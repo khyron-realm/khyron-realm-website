@@ -95,7 +95,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','029'),
+    component: ComponentCreator('/docs','41b'),
     routes: [
       {
         path: '/docs/community',
@@ -110,8 +110,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/gameplay/auctions',
-        component: ComponentCreator('/docs/gameplay/auctions','93a'),
+        path: '/docs/gameplay/environment',
+        component: ComponentCreator('/docs/gameplay/environment','c89'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -122,8 +122,20 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/gameplay/starship',
-        component: ComponentCreator('/docs/gameplay/starship','ddd'),
+        path: '/docs/gameplay/mothership',
+        component: ComponentCreator('/docs/gameplay/mothership','2ad'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gameplay/planet',
+        component: ComponentCreator('/docs/gameplay/planet','58a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gameplay/spaceship',
+        component: ComponentCreator('/docs/gameplay/spaceship','b25'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -140,8 +152,26 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/story',
-        component: ComponentCreator('/docs/story','a65'),
+        path: '/docs/story/arrival',
+        component: ComponentCreator('/docs/story/arrival','12c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/story/beginning',
+        component: ComponentCreator('/docs/story/beginning','e67'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/story/community',
+        component: ComponentCreator('/docs/story/community','24a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/story/supplyes',
+        component: ComponentCreator('/docs/story/supplyes','07c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
