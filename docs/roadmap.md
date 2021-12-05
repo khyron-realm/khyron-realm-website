@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Roadmap
 
+*Updated 5 DEC 2021*
+
 | Period            | Feature                       | Status |
 |-------------------|-------------------------------|--------|
 | Phase 1 - Q4 2021 | Idea                          | ✔️     |

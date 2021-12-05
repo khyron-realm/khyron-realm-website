@@ -1,0 +1,27 @@
+{
+  "unversionedId": "team",
+  "id": "team",
+  "isDocsHomePage": false,
+  "title": "Team",
+  "description": "Khyron Realm is being developed by a team of engineers and artist.",
+  "source": "@site/docs/team.mdx",
+  "sourceDirName": ".",
+  "slug": "/team",
+  "permalink": "/docs/team",
+  "editUrl": "https://github.com/target-software/game-website/docs/team.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tokenomics",
+    "permalink": "/docs/tokenomics"
+  },
+  "next": {
+    "title": "Terms & Conditions",
+    "permalink": "/docs/terms&conditions"
+  }
+}

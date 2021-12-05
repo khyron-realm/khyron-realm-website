@@ -11,8 +11,8 @@ sidebar_position: 3
 | Marketplace | Mines      |             |        |
 |             | Robots     |             |        |
 |             | Spaceships |             |        |
-| Jobs        |            |             |        |
 |             |            |             |        |
+| Jobs        |            |             |        |
 |             |            |             |        |
 
 ## Specifications

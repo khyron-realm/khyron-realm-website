@@ -10,7 +10,7 @@ sidebar_position: 2
 |-----------------------|----------|---------------------------------------------------------------------------|--------|
 | **Main Core**         | Core     | The main core of the starship contains the intelligence and in enforced   | 1      |
 | **Robot factory**     | Core     | Build new robots with the resources from the planet                       | 4      |
-| **Robot storage**     | Core     | Store robots in CryoPods to protect them from the environment             | 4      |
+| **Robot storage**     | Core     | Store robots in cryo-pods to protect them from the environment            | 4      |
 | **Pressing machine**  | Core     | Converts resources to energy                                              | 5      |
 | **Resource deposit**  | Core     | Store resources in a specially designed deposit to prevent damage         | 3      |
 | **Power plant**       | Core     | Generate energy periodically from the sun and the earth movement          | 4      |
@@ -22,17 +22,19 @@ sidebar_position: 2
 
 ## Robots
 
-| Class      | Name        | Description | Image                               |
-|------------|-------------|-------------|-------------------------------------|
-| **Miners** | **Worker**  |             | ![Worker](/img/robots/worker.png)   |
-|            | **Probe**   |             | ![Probe](/img/robots/probe.png)     |
-|            | **Crusher** |             | ![Crusher](/img/robots/crusher.png) |
-|            |             |             |                                     |
-|            |             |             |                                     |
-|            |             |             |                                     |
-|            |             |             |                                     |
-|            |             |             |                                     |
-|            |             |             |                                     |
+| Class           | Name                   | Description                                                                                         | Image                               |
+|-----------------|------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------|
+| **Miners**      | **Worker**             | Mines randomly in a given area and needs vision to extract minerals.                                | ![Worker](/img/robots/worker.png)   |
+|                 | **Crusher**            | Moves slowly, simultaneously breaks all blocks in a given radius and collects the resources.        | ![Crusher](/img/robots/crusher.png) |
+|                 | **Reaper**             | Detonates itself after 5 seconds, destroys everything on its radius. 50% of resources are gathered. |                                     |
+|                 | **Breaker**            | Has a large lifespan and slow speed and mines 3 blocks at a time.                                   |                                     |
+|                 |                        |                                                                                                     |                                     |
+| **Specialists** | **Silicon finder**     | Mine only silicon and can find multiple resources on a block. It blows when destroyed.              |                                     |
+|                 | **Lithium discoverer** | Mine only lithium and can find multiple resources on a block. It blows when destroyed.              |                                     |
+|                 | **Titanium expert**    | Mine only titanium and can find multiple resources on a block. It blows when destroyed.             |                                     |
+|                 |                        |                                                                                                     |                                     |
+| **Support**     | **Probe**              | Does not move and increases the number of resources found by other robots.                          | ![Probe](/img/robots/probe.png)     |
+|                 | **Engineer**           | Repairs all the robots on its radius.                                                               |                                     |
 
 ---
 

@@ -11,23 +11,30 @@ ___
 ## Development
 
 ### Alexandru GRIGORAS
-#### Game producer
+*Game producer*
+
 ...
 
+[Website](https://alexgrigoras.github.io/portfolio/) | [Linkedin](https://www.linkedin.com/in/alexandrugrigoras/) | [Twitter](https://twitter.com/alexandru_grigo) | [GitHub](https://github.com/alexgrigoras)
+
 ### Serban CHISCA
-#### Game designer
+*Game designer*
+
 ...
 
 ### Codrin BURLACU
-#### Game developer
+*Game developer*
+
 ...
 
 ### Andrei PECHEANU
-#### Sound engineer
+*Sound engineer*
+
 ...
 
 ### Ioan SUFLET
-#### Web developer
+*Web developer*
+
 ...
 
 ___
@@ -35,9 +42,11 @@ ___
 ## Design
 
 ### Tudor STOIAN
-#### Concept artist
+*Concept artist*
+
 ...
 
 ### Ana POPESCU
-#### Concept artist
+*Concept artist*
+
 ...
