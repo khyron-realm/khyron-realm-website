@@ -43,6 +43,33 @@
               }
             },
             {
+              "unversionedId": "disclaimer",
+              "id": "disclaimer",
+              "isDocsHomePage": false,
+              "title": "Disclaimer",
+              "description": "Investing involves significant level of risk. It's critical to conduct your own research.",
+              "source": "@site/docs/disclaimer.md",
+              "sourceDirName": ".",
+              "slug": "/disclaimer",
+              "permalink": "/docs/disclaimer",
+              "editUrl": "https://github.com/target-software/game-website/docs/disclaimer.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Team",
+                "permalink": "/docs/team"
+              },
+              "next": {
+                "title": "Terms & Conditions",
+                "permalink": "/docs/terms&conditions"
+              }
+            },
+            {
               "unversionedId": "gameplay/environment",
               "id": "gameplay/environment",
               "isDocsHomePage": false,
@@ -55,9 +82,9 @@
               "editUrl": "https://github.com/target-software/game-website/docs/gameplay/environment.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -67,6 +94,60 @@
               "next": {
                 "title": "Mines",
                 "permalink": "/docs/gameplay/mines"
+              }
+            },
+            {
+              "unversionedId": "gameplay/game",
+              "id": "gameplay/game",
+              "isDocsHomePage": false,
+              "title": "Game",
+              "description": "Description",
+              "source": "@site/docs/gameplay/game.mdx",
+              "sourceDirName": "gameplay",
+              "slug": "/gameplay/game",
+              "permalink": "/docs/gameplay/game",
+              "editUrl": "https://github.com/target-software/game-website/docs/gameplay/game.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Supplies",
+                "permalink": "/docs/story/supplyes"
+              },
+              "next": {
+                "title": "Planet",
+                "permalink": "/docs/gameplay/planet"
+              }
+            },
+            {
+              "unversionedId": "gameplay/leveling",
+              "id": "gameplay/leveling",
+              "isDocsHomePage": false,
+              "title": "Leveling",
+              "description": "",
+              "source": "@site/docs/gameplay/leveling.md",
+              "sourceDirName": "gameplay",
+              "slug": "/gameplay/leveling",
+              "permalink": "/docs/gameplay/leveling",
+              "editUrl": "https://github.com/target-software/game-website/docs/gameplay/leveling.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Mines",
+                "permalink": "/docs/gameplay/mines"
+              },
+              "next": {
+                "title": "Roadmap",
+                "permalink": "/docs/roadmap"
               }
             },
             {
@@ -82,9 +163,9 @@
               "editUrl": "https://github.com/target-software/game-website/docs/gameplay/mines.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -92,8 +173,8 @@
                 "permalink": "/docs/gameplay/environment"
               },
               "next": {
-                "title": "Roadmap",
-                "permalink": "/docs/roadmap"
+                "title": "Leveling",
+                "permalink": "/docs/gameplay/leveling"
               }
             },
             {
@@ -109,9 +190,9 @@
               "editUrl": "https://github.com/target-software/game-website/docs/gameplay/mothership.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -136,14 +217,14 @@
               "editUrl": "https://github.com/target-software/game-website/docs/gameplay/planet.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Supplies",
-                "permalink": "/docs/story/supplyes"
+                "title": "Game",
+                "permalink": "/docs/gameplay/game"
               },
               "next": {
                 "title": "Spaceship",
@@ -163,9 +244,9 @@
               "editUrl": "https://github.com/target-software/game-website/docs/gameplay/spaceship.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -190,9 +271,9 @@
               "editUrl": "https://github.com/target-software/game-website/docs/privacy_policy.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 9,
+              "sidebarPosition": 10,
               "frontMatter": {
-                "sidebar_position": 9
+                "sidebar_position": 10
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -219,8 +300,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Mines",
-                "permalink": "/docs/gameplay/mines"
+                "title": "Leveling",
+                "permalink": "/docs/gameplay/leveling"
               },
               "next": {
                 "title": "Technology",
@@ -232,7 +313,7 @@
               "id": "story/arrival",
               "isDocsHomePage": false,
               "title": "Arrival",
-              "description": "We sent two types of ships there. The first is the Mothership, which will hold as the meeting place for all the fleets, and multiple Starships, which are organised in fleets to communicate better with each other.",
+              "description": "Looking at all the ships travelling to their destinations, you’ll se how well the fleets are organised. The main ship, located in the middle, is the Mothership. It is the commander of the fleets and supervises all the operations. On the outside, organised in concentric circles, are the Starships, which are protecting the commander from space debris.",
               "source": "@site/docs/story/arrival.md",
               "sourceDirName": "story",
               "slug": "/story/arrival",
@@ -259,7 +340,7 @@
               "id": "story/beginning",
               "isDocsHomePage": false,
               "title": "Beginning",
-              "description": "The year is 2422. Technology advanced on Earth and our supplies demand is increasing. The world is still in peace and we are more united than ever.",
+              "description": "Current year",
               "source": "@site/docs/story/beginning.md",
               "sourceDirName": "story",
               "slug": "/story/beginning",
@@ -286,7 +367,7 @@
               "id": "story/community",
               "isDocsHomePage": false,
               "title": "Community",
-              "description": "On our lunch plan, we negotiated the rules for living here, to prevent the wars that we had on earth. We will need to collaborate to establish a colony there.",
+              "description": "Collaboration increases the chances of building the equipments on the planet in the designated timeframe.",
               "source": "@site/docs/story/community.md",
               "sourceDirName": "story",
               "slug": "/story/community",
@@ -313,7 +394,7 @@
               "id": "story/supplyes",
               "isDocsHomePage": false,
               "title": "Supplies",
-              "description": "",
+              "description": "Great, you purchased your find right to mine a designated zone. There are a few more things to do before you extract resources. You’ll need a few robots that have the necessary tools to perform the operations. Build them first and you are ready to go.",
               "source": "@site/docs/story/supplyes.md",
               "sourceDirName": "story",
               "slug": "/story/supplyes",
@@ -331,8 +412,8 @@
                 "permalink": "/docs/story/community"
               },
               "next": {
-                "title": "Planet",
-                "permalink": "/docs/gameplay/planet"
+                "title": "Game",
+                "permalink": "/docs/gameplay/game"
               }
             },
             {
@@ -358,8 +439,8 @@
                 "permalink": "/docs/tokenomics"
               },
               "next": {
-                "title": "Terms & Conditions",
-                "permalink": "/docs/terms&conditions"
+                "title": "Disclaimer",
+                "permalink": "/docs/disclaimer"
               }
             },
             {
@@ -402,14 +483,14 @@
               "editUrl": "https://github.com/target-software/game-website/docs/terms&conditions.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 8,
+              "sidebarPosition": 9,
               "frontMatter": {
-                "sidebar_position": 8
+                "sidebar_position": 9
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Team",
-                "permalink": "/docs/team"
+                "title": "Disclaimer",
+                "permalink": "/docs/disclaimer"
               },
               "next": {
                 "title": "Privacy policy",
@@ -482,6 +563,10 @@
                 "items": [
                   {
                     "type": "doc",
+                    "id": "gameplay/game"
+                  },
+                  {
+                    "type": "doc",
                     "id": "gameplay/planet"
                   },
                   {
@@ -499,6 +584,10 @@
                   {
                     "type": "doc",
                     "id": "gameplay/mines"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "gameplay/leveling"
                   }
                 ]
               },
@@ -517,6 +606,10 @@
               {
                 "type": "doc",
                 "id": "team"
+              },
+              {
+                "type": "doc",
+                "id": "disclaimer"
               },
               {
                 "type": "doc",

@@ -11,14 +11,14 @@
   "editUrl": "https://github.com/target-software/game-website/docs/gameplay/planet.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Supplies",
-    "permalink": "/docs/story/supplyes"
+    "title": "Game",
+    "permalink": "/docs/gameplay/game"
   },
   "next": {
     "title": "Spaceship",

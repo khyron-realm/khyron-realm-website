@@ -100,7 +100,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','5b8'),
+    component: ComponentCreator('/docs','b07'),
     routes: [
       {
         path: '/docs/description',
@@ -109,8 +109,26 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/disclaimer',
+        component: ComponentCreator('/docs/disclaimer','7ad'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/gameplay/environment',
         component: ComponentCreator('/docs/gameplay/environment','c89'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gameplay/game',
+        component: ComponentCreator('/docs/gameplay/game','c46'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gameplay/leveling',
+        component: ComponentCreator('/docs/gameplay/leveling','18a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

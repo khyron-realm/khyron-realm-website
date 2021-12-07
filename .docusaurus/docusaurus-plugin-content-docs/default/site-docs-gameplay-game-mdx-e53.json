@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gameplay/game",
+  "id": "gameplay/game",
+  "isDocsHomePage": false,
+  "title": "Game",
+  "description": "Description",
+  "source": "@site/docs/gameplay/game.mdx",
+  "sourceDirName": "gameplay",
+  "slug": "/gameplay/game",
+  "permalink": "/docs/gameplay/game",
+  "editUrl": "https://github.com/target-software/game-website/docs/gameplay/game.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Supplies",
+    "permalink": "/docs/story/supplyes"
+  },
+  "next": {
+    "title": "Planet",
+    "permalink": "/docs/gameplay/planet"
+  }
+}

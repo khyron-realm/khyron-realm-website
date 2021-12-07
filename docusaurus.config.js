@@ -84,11 +84,15 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Getting started',
             items: [
               {
                 label: 'Wiki',
                 to: '/docs/description',
+              },
+              {
+                label: 'Play demo',
+                to: '/play_now',
               },
             ],
           },
@@ -96,16 +100,20 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'YouTube',
-                href: 'https://www.youtube.com/channel/UC6f6rpDLnvDvEFDiB3t6-Jw',
-              },
-              {
                 label: 'Discord',
                 href: 'https://discord.gg/JpgFgxvqSK',
               },
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/robo_chain',
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://linkedin.com/',
+              },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/channel/UC6f6rpDLnvDvEFDiB3t6-Jw',
               },
             ],
           },

@@ -49,6 +49,11 @@
         "items": [
           {
             "type": "link",
+            "label": "Game",
+            "href": "/docs/gameplay/game"
+          },
+          {
+            "type": "link",
             "label": "Planet",
             "href": "/docs/gameplay/planet"
           },
@@ -71,6 +76,11 @@
             "type": "link",
             "label": "Mines",
             "href": "/docs/gameplay/mines"
+          },
+          {
+            "type": "link",
+            "label": "Leveling",
+            "href": "/docs/gameplay/leveling"
           }
         ]
       },
@@ -93,6 +103,11 @@
         "type": "link",
         "label": "Team",
         "href": "/docs/team"
+      },
+      {
+        "type": "link",
+        "label": "Disclaimer",
+        "href": "/docs/disclaimer"
       },
       {
         "type": "link",

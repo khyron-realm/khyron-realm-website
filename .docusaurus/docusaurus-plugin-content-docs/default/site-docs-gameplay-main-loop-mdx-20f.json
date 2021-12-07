@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gameplay/main-loop",
+  "id": "gameplay/main-loop",
+  "isDocsHomePage": false,
+  "title": "Main loop",
+  "description": "",
+  "source": "@site/docs/gameplay/main-loop.mdx",
+  "sourceDirName": "gameplay",
+  "slug": "/gameplay/main-loop",
+  "permalink": "/docs/gameplay/main-loop",
+  "editUrl": "https://github.com/target-software/game-website/docs/gameplay/main-loop.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Supplies",
+    "permalink": "/docs/story/supplyes"
+  },
+  "next": {
+    "title": "Planet",
+    "permalink": "/docs/gameplay/planet"
+  }
+}

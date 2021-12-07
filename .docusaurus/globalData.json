@@ -16,8 +16,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "disclaimer",
+              "path": "/docs/disclaimer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "gameplay/environment",
               "path": "/docs/gameplay/environment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/game",
+              "path": "/docs/gameplay/game",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/leveling",
+              "path": "/docs/gameplay/leveling",
               "sidebar": "tutorialSidebar"
             },
             {

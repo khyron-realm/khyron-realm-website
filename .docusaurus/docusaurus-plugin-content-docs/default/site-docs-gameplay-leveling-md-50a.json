@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gameplay/leveling",
+  "id": "gameplay/leveling",
+  "isDocsHomePage": false,
+  "title": "Leveling",
+  "description": "",
+  "source": "@site/docs/gameplay/leveling.md",
+  "sourceDirName": "gameplay",
+  "slug": "/gameplay/leveling",
+  "permalink": "/docs/gameplay/leveling",
+  "editUrl": "https://github.com/target-software/game-website/docs/gameplay/leveling.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mines",
+    "permalink": "/docs/gameplay/mines"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/docs/roadmap"
+  }
+}

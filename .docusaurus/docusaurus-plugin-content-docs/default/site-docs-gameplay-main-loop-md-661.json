@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gameplay/main_loop",
+  "id": "gameplay/main_loop",
+  "isDocsHomePage": false,
+  "title": "Main loop",
+  "description": "",
+  "source": "@site/docs/gameplay/main_loop.md",
+  "sourceDirName": "gameplay",
+  "slug": "/gameplay/main_loop",
+  "permalink": "/docs/gameplay/main_loop",
+  "editUrl": "https://github.com/target-software/game-website/docs/gameplay/main_loop.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Environment",
+    "permalink": "/docs/gameplay/environment"
+  },
+  "next": {
+    "title": "Mines",
+    "permalink": "/docs/gameplay/mines"
+  }
+}

@@ -11,9 +11,9 @@
   "editUrl": "https://github.com/target-software/game-website/docs/gameplay/environment.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {

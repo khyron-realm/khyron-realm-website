@@ -12,14 +12,14 @@ function Roadmap() {
                 contentArrowStyle={{ borderRight: '7px solid rgb(48, 56, 70)' }}
                 date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)', badge: 'rgb(48, 56, 70)' }}
-                icon={<img src="/img/concept_icon.png"  alt="img"/>}
+                icon={<img src="/img/icons/concept_icon.png"  alt="img"/>}
             >
                 <h3 className="vertical-timeline-element-title">SEPTEMBER 2021</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
                     Creating the initial concept of the game
                 </p>
-                <img src="/img/concept.png"  alt="img"/>
+                <img src="/img/wiki/concept.png"  alt="img"/>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -27,14 +27,14 @@ function Roadmap() {
                 contentArrowStyle={{ borderRight: '7px solid rgb(48, 56, 70)' }}
                 date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
-                icon={<img src="/img/testing_icon.png"  alt="img"/>}
+                icon={<img src="/img/icons/testing_icon.png"  alt="img"/>}
             >
                 <h3 className="vertical-timeline-element-title">NOVEMBER 2021</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
                     Launching a first test version to gather feedback
                 </p>
-                <img src="/img/test_version.png"  alt="img"/>
+                <img src="/img/wiki/test_version.png"  alt="img"/>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -42,7 +42,7 @@ function Roadmap() {
                 contentArrowStyle={{ borderRight: '7px solid rgb(48, 56, 70)' }}
                 date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
-                icon={<img src="/img/crypto_icon.png"  alt="img"/>}
+                icon={<img src="/img/icons/crypto_icon.png"  alt="img"/>}
             >
                 <h3 className="vertical-timeline-element-title">DECEMBER 2021</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
@@ -56,7 +56,7 @@ function Roadmap() {
                 contentArrowStyle={{ borderRight: '7px solid rgb(48, 56, 70)' }}
                 date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
-                icon={<img src="/img/crypto_icon.png"  alt="img"/>}
+                icon={<img src="/img/icons/crypto_icon.png"  alt="img"/>}
             >
                 <h3 className="vertical-timeline-element-title">JANUARY 2022</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
@@ -70,7 +70,7 @@ function Roadmap() {
                 contentArrowStyle={{ borderRight: '7px solid rgb(48, 56, 70)' }}
                 date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
-                icon={<img src="/img/crypto_icon.png"  alt="img"/>}
+                icon={<img src="/img/icons/crypto_icon.png"  alt="img"/>}
             >
                 <h3 className="vertical-timeline-element-title">MARCH 2022</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
@@ -84,7 +84,7 @@ function Roadmap() {
                 contentArrowStyle={{ borderRight: '7px solid rgb(48, 56, 70)' }}
                 date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
-                icon={<img src="/img/launch_icon.png"  alt="img"/>}
+                icon={<img src="/img/icons/launch_icon.png"  alt="img"/>}
             >
                 <h3 className="vertical-timeline-element-title">APRIL 2022</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>

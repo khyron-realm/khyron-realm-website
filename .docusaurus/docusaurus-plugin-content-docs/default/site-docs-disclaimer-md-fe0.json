@@ -1,0 +1,27 @@
+{
+  "unversionedId": "disclaimer",
+  "id": "disclaimer",
+  "isDocsHomePage": false,
+  "title": "Disclaimer",
+  "description": "Investing involves significant level of risk. It's critical to conduct your own research.",
+  "source": "@site/docs/disclaimer.md",
+  "sourceDirName": ".",
+  "slug": "/disclaimer",
+  "permalink": "/docs/disclaimer",
+  "editUrl": "https://github.com/target-software/game-website/docs/disclaimer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Team",
+    "permalink": "/docs/team"
+  },
+  "next": {
+    "title": "Terms & Conditions",
+    "permalink": "/docs/terms&conditions"
+  }
+}

@@ -108,7 +108,7 @@
     "component": "component---site-src-pages-play-now-js-19-e-fc8",
     "config": "config---about-5-e-9-bcb"
   },
-  "/docs-5b8": {
+  "/docs-b07": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -116,9 +116,21 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-description-828-19e"
   },
+  "/docs/disclaimer-7ad": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-disclaimerfe-0-b76"
+  },
   "/docs/gameplay/environment-c89": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-gameplay-environmentf-4-b-92c"
+  },
+  "/docs/gameplay/game-c46": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-gamee-53-1b9"
+  },
+  "/docs/gameplay/leveling-18a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-leveling-50-a-694"
   },
   "/docs/gameplay/mines-4f4": {
     "component": "component---theme-doc-item-178-a40",

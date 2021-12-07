@@ -3,7 +3,7 @@
   "id": "story/beginning",
   "isDocsHomePage": false,
   "title": "Beginning",
-  "description": "The year is 2422. Technology advanced on Earth and our supplies demand is increasing. The world is still in peace and we are more united than ever.",
+  "description": "Current year",
   "source": "@site/docs/story/beginning.md",
   "sourceDirName": "story",
   "slug": "/story/beginning",

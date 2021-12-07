@@ -3,7 +3,7 @@
   "id": "story/arrival",
   "isDocsHomePage": false,
   "title": "Arrival",
-  "description": "We sent two types of ships there. The first is the Mothership, which will hold as the meeting place for all the fleets, and multiple Starships, which are organised in fleets to communicate better with each other.",
+  "description": "Looking at all the ships travelling to their destinations, you’ll se how well the fleets are organised. The main ship, located in the middle, is the Mothership. It is the commander of the fleets and supervises all the operations. On the outside, organised in concentric circles, are the Starships, which are protecting the commander from space debris.",
   "source": "@site/docs/story/arrival.md",
   "sourceDirName": "story",
   "slug": "/story/arrival",

@@ -4,20 +4,19 @@ sidebar_position: 1
 
 # Beginning
 
-The year is 2422. Technology advanced on Earth and our supplies demand is increasing. The world is still in peace and we are more united than ever.
+### Current year
 
-There are now 400 years since we sent our ships to other planets. Our researchers discovered the closest class M planet, Khyron. It has Earth-like conditions that can sustain life. Arriving at this planet proves that we can finally become a multi planetary species.
+The year is 2422. There are now 400 years since we sent advanced ships to discover another habitable planet. Researchers discovered the closest class M planet, Khyron. The satellite images reveal a great potential for sustaining the human life. The planet is defined by marvellous colours of its nature.
 
-The planet has some challenges when compared to Earth. Our improved technology allows us to make it habitable for humans. We sent a lot of AI-powered ships to make sure that the planet is ready for our arrival. We need the robots to build all the necessary buildings for humans to survive. And also to check if there are things that can be a threat for us.
+[Khyron image]
 
-The journey is long, very long. Too long for a human. It will take us 4 human generations to get the first person to touch the surface. This was what we knew back then when we sent the fleets. With the current technology, we built the most powerful engine and the biggest starship that can host humans up to 5 years. But this is not all. If you remember the first picture of a black hole, that was a breakthrough discovery. It lead us to use them as travelling shortcuts. The result? The journey now is as low as 4 years. Impressive … this is totally achievable. Let’s hope that our robots will do their mission and send us a good news message.
-
-The planet looks beautiful, like a twin sister of our planet.
-
-[Khyron Realm planet image]
-
-Khyron is situated in Betelgeuse solar system, Orion constellation. The gravity will make us a little heavy, so we need to have a better physical condition. The year will be a little longer. The temperature is almost like ours and we don’t need special gear to survive. We have almost all the necessary elements to survive which improves the chances. The weather. Well … we don’t know, hopefully will be good.
-
-The main problem will be the earthquakes. Our ships are specially designed to resist up to 10 degrees on the Richter scale. But the good part is that we think that the natural resources regeneration is extremely fast. Which is good news.
+Where is the planet located? It is not in our galaxy. Khyron is situated in Betelgeuse solar system in the Orion constellation. Compared to earth, the gravity is a little stronger, which will make us a little heavy.   The temperature is similar, averaging 24 degrees and has the same four seasons. We don’t have too much information about the weather. We are estimating that there are extreme cases of weather, but will be rare and do not pose a critical threat. Earthquakes are a big concern on earth and we will encounter them on Khyron too. The planet has hazardous and unstable tectonic plates. Even if it may sound bad, we prepared for this with spaceships designed to sustain the waves. A great news comes from the planet’s ability to regenerate its resources. It is fast, extremely fast. This will help us to speed up the process of building and reduce the necessity of searching new resource locations.
 
 [Galaxy image]
+
+The journey is long, very long. Too long for a human. It will take us 4 human generations to get the first person to touch its surface. Overcoming this means designing ships that will sustain life on a period this long. The latest prototype release two years ago almost checks all the necessary modules for this. The life support module provides oxygen for up to 100 people for 4 generations and some backup in case of failures. The ship is designed to rotate and create an artificial gravity. A top priority holds the medical. Food supplies are achieved using techniques to grow food and animals inside the ship. And … let’s not forget about the entertainment. We don’t want people to be bored to death.
+
+### Sending ships
+
+Throwback to 2022. Proving the planet can sustain life is the necessary factor to get approvals to send humans. There is a large queue list for people that want to try this. The spirit of adventure is beyond our world.
+The first step was to send a lot of artificial intelligence powered ships. New designed robots were designed to build the necessary buildings on Khyron. With jet propulsion, mining drills and scanners, they can overcome almost any obstacle. The software is created to mimic our behaviour and do the necessary tasks. It was developed by multiple teams and incorporated in multiple types of robots.

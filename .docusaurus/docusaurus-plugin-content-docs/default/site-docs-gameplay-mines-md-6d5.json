@@ -11,9 +11,9 @@
   "editUrl": "https://github.com/target-software/game-website/docs/gameplay/mines.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
+  "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 5
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -21,7 +21,7 @@
     "permalink": "/docs/gameplay/environment"
   },
   "next": {
-    "title": "Roadmap",
-    "permalink": "/docs/roadmap"
+    "title": "Leveling",
+    "permalink": "/docs/gameplay/leveling"
   }
 }
