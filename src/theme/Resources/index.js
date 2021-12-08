@@ -1,13 +1,10 @@
 import React from "react";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
-import { FaQuestion } from "react-icons/fa";
-import { FiBook, FiEdit3, FiGithub } from "react-icons/fi";
 
 import Headline from "@theme/Headline";
 import styles from "./styles.module.scss";
 
-const size = 48;
 const data = [
   {
     link: "/docs/team#serban-chisca",
