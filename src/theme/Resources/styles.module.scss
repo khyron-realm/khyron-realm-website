@@ -1,0 +1,33 @@
+.resources {
+}
+
+.resource {
+  display: flex !important;
+  flex-direction: column;
+
+  a {
+    color: unset;
+    text-decoration: none;
+  }
+}
+
+.hidden_resource {
+  display: flex !important;
+  flex-direction: column;
+  visibility: hidden;
+
+  a {
+    color: unset;
+    text-decoration: none;
+  }
+}
+
+.card {
+  flex-grow: 1;
+  justify-content: center;
+  background: var(--ifm-background-surface-color);
+
+  &:hover {
+    border-color: var(--ifm-color-primary-light) !important;
+  }
+}

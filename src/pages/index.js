@@ -1,43 +1,31 @@
-import React from 'react';
-import clsx from 'clsx';
-import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import styles from './index.module.css';
-import HomepageFeatures from '../components/HomepageFeatures';
-import RoadmapTimeline from "../components/RoadmapTimeline";
+import React from "react";
+import Layout from "@theme/Layout";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
-function HomepageHeader() {
-    const {siteConfig} = useDocusaurusContext();
-    return (
-        <header className={clsx('hero hero--primary wrapper', styles.heroBanner)}>
-            <div className="container">
-                <h1 className="hero__title">{siteConfig.title}</h1>
-                <p className="hero__subtitle">{siteConfig.tagline}</p>
-                <img className="hero_image" src="/img/robots/crusher.png" height="300px"/>
-                <div className={styles.buttons}>
-                    <Link
-                        className="button button--secondary button--lg"
-                        to="/docs/description">
-                        Whitepaper
-                    </Link>
-                </div>
-            </div>
-        </header>
-    );
+import FAQ from "@theme/FAQ";
+import Features from "@theme/Features";
+import Hero from "@theme/Hero";
+import Resources from "@theme/Resources";
+import Roadmap from "@theme/Timeline";
+import styles from "./styles.module.scss";
+
+function Home() {
+  const context = useDocusaurusContext();
+  const { siteConfig = {} } = context;
+  const { tagline } = siteConfig;
+
+  return (
+    <Layout description={tagline}>
+      <Hero />
+
+      <main className={styles.main}>
+        <Features />
+        <Roadmap/>
+        <FAQ />
+        <Resources />
+      </main>
+    </Layout>
+  );
 }
 
-
-export default function Home() {
-    return (
-        <Layout
-            title={`Crypto MMO game`}
-            description="Join Khyron Realm, a new crypto MMO mobile game<head />">
-            <HomepageHeader/>
-            <main>
-                <HomepageFeatures/>
-                <RoadmapTimeline/>
-            </main>
-        </Layout>
-    );
-}
+export default Home;

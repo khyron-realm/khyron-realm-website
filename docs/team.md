@@ -20,7 +20,7 @@ ___
 ### Serban CHISCA
 *Game designer*
 
-...
+[Reddit](https://www.reddit.com/user/serban1313) | [GitHub](https://github.com/sergane13)
 
 ### Codrin BURLACU
 *Game developer*
