@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>RoboChain Blog</title>
-        <link>https://robochain.netlify.com/blog</link>
-        <description>RoboChain Blog</description>
+        <title>KHYRON REALM Blog</title>
+        <link>https://khyron-realm.netlify.app/blog</link>
+        <description>KHYRON REALM Blog</description>
         <lastBuildDate>Mon, 29 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[RoboChain Test Version]]></title>
-            <link>https://robochain.netlify.com/blog/robochain-test-version</link>
+            <link>https://khyron-realm.netlify.app/blog/robochain-test-version</link>
             <guid>robochain-test-version</guid>
             <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[About The Game]]></description>
@@ -17,11 +17,11 @@
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://robochain.netlify.com/blog/welcome</link>
+            <link>https://khyron-realm.netlify.app/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus Plushie]]></description>
-            <content:encoded><![CDATA[<p><img src="/img/background2.png" alt="Docusaurus Plushie"/></p>]]></content:encoded>
+            <description><![CDATA[Environment]]></description>
+            <content:encoded><![CDATA[<p><img src="/img/background/background2.png" alt="Environment"/></p>]]></content:encoded>
         </item>
     </channel>
 </rss>
