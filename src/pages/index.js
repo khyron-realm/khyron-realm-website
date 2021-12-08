@@ -32,7 +32,7 @@ export default function Home() {
     return (
         <Layout
             title={`Crypto MMO game`}
-            description="Join RoboChain, a new crypto MMO mobile game<head />">
+            description="Join Khyron Realm, a new crypto MMO mobile game<head />">
             <HomepageHeader/>
             <main>
                 <HomepageFeatures/>
