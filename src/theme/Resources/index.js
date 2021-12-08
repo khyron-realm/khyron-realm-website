@@ -22,13 +22,13 @@ const data = [
     link: "/docs/team#tudor-stoian",
     image: "/img/robots/crusher.png",
     name: <>Tudor STOIAN</>,
-    role: <>Artist</>,
+    role: <>Game<br />Artist</>,
   },
   {
     link: "/docs/team#codrin-burlacu",
     image: "/img/robots/worker.png",
     name: <>Codrin BURLACU</>,
-    role: <>Game designer</>,
+    role: <>Game developer</>,
   },
   {
     link: "/docs/team#andrei-pecheanu",
@@ -40,7 +40,7 @@ const data = [
     link: "/docs/team#ana-popescu",
     image: "/img/robots/worker.png",
     name: <>Ana POPESCU</>,
-    role: <>Concept artist</>,
+    role: <>Concept<br />artist</>,
   },
   {
     link: "/docs/team#ioan-suflet",

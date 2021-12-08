@@ -13,8 +13,6 @@ ___
 ### Alexandru GRIGORAS
 *Game producer*
 
-...
-
 [Website](https://alexgrigoras.github.io/portfolio/) | [Linkedin](https://www.linkedin.com/in/alexandrugrigoras/) | [Twitter](https://twitter.com/alexandru_grigo) | [GitHub](https://github.com/alexgrigoras)
 
 ### Serban CHISCA
@@ -25,17 +23,13 @@ ___
 ### Codrin BURLACU
 *Game developer*
 
-...
-
 ### Andrei PECHEANU
-*Sound engineer*
+*Blockchain developer*
 
-...
 
 ### Ioan SUFLET
 *Web developer*
 
-...
 
 ___
 
@@ -44,9 +38,5 @@ ___
 ### Tudor STOIAN
 *Concept artist*
 
-...
-
 ### Ana POPESCU
 *Concept artist*
-
-...
