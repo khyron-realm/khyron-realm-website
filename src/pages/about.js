@@ -21,7 +21,7 @@ export default function MyReactPage() {
     return (
         <Layout
             title={`Crypto MMO game ${siteConfig.title}`}
-            description="Join RoboChain, a new crypto MMO mobile game <head />">
+            description="Join Khyron Realm, a new crypto MMO mobile game <head />">
             <AboutHeader />
             <main>
 
