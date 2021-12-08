@@ -19,13 +19,11 @@ function TimelineData() {
             >
                 <h3 className="vertical-timeline-element-title">Phase 1</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
-                <p>
-                    <ul>
-                        <li>Creating the initial concept of the game</li>
-                        <li>Launching a first test version to gather feedback</li>
-                        <li>Creating the community</li>
-                    </ul>
-                </p>
+                <ul>
+                    <li>Creating the initial concept of the game</li>
+                    <li>Launching a first test version to gather feedback</li>
+                    <li>Creating the community</li>
+                </ul>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
