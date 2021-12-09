@@ -56,7 +56,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: '/play_now',
+          href: '/play',
           label: 'Play Demo',
           position: 'right',
         },

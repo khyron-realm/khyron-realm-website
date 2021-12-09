@@ -782,8 +782,8 @@
       },
       {
         "type": "jsx",
-        "permalink": "/play_now",
-        "source": "@site/src/pages/play_now.js"
+        "permalink": "/play",
+        "source": "@site/src/pages/play.js"
       }
     ]
   },
