@@ -1,8 +1,8 @@
 {
-  "permalink": "/blog/robochain-test-version",
+  "permalink": "/blog/khyron-test-version",
   "editUrl": "https://github.com/target-software/game-website/blog/blog/2021-11-29-robochain-test-version.md",
   "source": "@site/blog/2021-11-29-robochain-test-version.md",
-  "title": "RoboChain Test Version",
+  "title": "Khyron Realm Test Version",
   "description": "About The Game",
   "date": "2021-11-29T00:00:00.000Z",
   "formattedDate": "November 29, 2021",
@@ -16,16 +16,16 @@
       "permalink": "/blog/tags/launch"
     },
     {
-      "label": "robochain",
-      "permalink": "/blog/tags/robochain"
+      "label": "khyron",
+      "permalink": "/blog/tags/khyron"
     }
   ],
-  "readingTime": 0.33,
+  "readingTime": 0.345,
   "truncated": false,
   "authors": [
     {
       "name": "Alexandru Grigoras",
-      "title": "Co-founder RoboChain",
+      "title": "Game producer",
       "url": "https://github.com/alexgrigoras",
       "imageURL": "https://github.com/alexgrigoras.png",
       "key": "alex"

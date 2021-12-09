@@ -12,8 +12,8 @@
       "permalink": "/blog/tags/hello"
     },
     {
-      "label": "robochain",
-      "permalink": "/blog/tags/robochain"
+      "label": "khyron",
+      "permalink": "/blog/tags/khyron"
     }
   ],
   "readingTime": 0.005,
@@ -21,14 +21,14 @@
   "authors": [
     {
       "name": "Alexandru Grigoras",
-      "title": "Co-founder RoboChain",
+      "title": "Game producer",
       "url": "https://github.com/alexgrigoras",
       "imageURL": "https://github.com/alexgrigoras.png",
       "key": "alex"
     }
   ],
   "prevItem": {
-    "title": "RoboChain Test Version",
-    "permalink": "/blog/robochain-test-version"
+    "title": "Khyron Realm Test Version",
+    "permalink": "/blog/khyron-test-version"
   }
 }

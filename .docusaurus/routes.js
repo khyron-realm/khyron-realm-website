@@ -54,8 +54,8 @@ export default [
     exact: true
   },
   {
-    path: '/blog/robochain-test-version',
-    component: ComponentCreator('/blog/robochain-test-version','225'),
+    path: '/blog/khyron-test-version',
+    component: ComponentCreator('/blog/khyron-test-version','6b2'),
     exact: true
   },
   {
@@ -69,13 +69,13 @@ export default [
     exact: true
   },
   {
-    path: '/blog/tags/launch',
-    component: ComponentCreator('/blog/tags/launch','c95'),
+    path: '/blog/tags/khyron',
+    component: ComponentCreator('/blog/tags/khyron','757'),
     exact: true
   },
   {
-    path: '/blog/tags/robochain',
-    component: ComponentCreator('/blog/tags/robochain','976'),
+    path: '/blog/tags/launch',
+    component: ComponentCreator('/blog/tags/launch','c95'),
     exact: true
   },
   {

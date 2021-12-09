@@ -42,7 +42,7 @@
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
     "archive": "archive---blog-archiveb-2-f-393"
   },
-  "/blog/robochain-test-version-225": {
+  "/blog/khyron-test-version-6b2": {
     "component": "component---theme-blog-post-pageccc-cab",
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-robochain-test-version-06-f-78c"
@@ -62,17 +62,7 @@
     ],
     "metadata": "metadata---blog-tags-hello-30-a-bed"
   },
-  "/blog/tags/launch-c95": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-882-53a"
-      }
-    ],
-    "metadata": "metadata---blog-tags-launch-022-c4a"
-  },
-  "/blog/tags/robochain-976": {
+  "/blog/tags/khyron-757": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -83,7 +73,17 @@
         "content": "content---blog-2-c-4-80a"
       }
     ],
-    "metadata": "metadata---blog-tags-robochain-22-f-6ff"
+    "metadata": "metadata---blog-tags-khyronb-15-d0b"
+  },
+  "/blog/tags/launch-c95": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-882-53a"
+      }
+    ],
+    "metadata": "metadata---blog-tags-launch-022-c4a"
   },
   "/blog/tags/test-286": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",

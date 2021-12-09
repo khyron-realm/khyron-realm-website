@@ -13,12 +13,12 @@
     "count": 1,
     "permalink": "/blog/tags/launch"
   },
-  "/blog/tags/robochain": {
+  "/blog/tags/khyron": {
     "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/robochain",
-    "name": "robochain",
+    "slug": "/blog/tags/khyron",
+    "name": "khyron",
     "count": 2,
-    "permalink": "/blog/tags/robochain"
+    "permalink": "/blog/tags/khyron"
   },
   "/blog/tags/hello": {
     "allTagsPath": "/blog/tags",

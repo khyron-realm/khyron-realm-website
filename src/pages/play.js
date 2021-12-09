@@ -9,6 +9,7 @@ function AboutHeader() {
     return (
         <header className={clsx('play', styles.play)}>
             <div className="container">
+                <br/> <br/>
                 <h1 >Getting started</h1>
                 <h2>Play a demo version on mobile</h2>
                 <br/> <br/>
