@@ -88,7 +88,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Resources',
+          title: 'Team',
           items: [
             {
               label: 'Blog',

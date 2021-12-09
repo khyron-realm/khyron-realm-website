@@ -83,7 +83,7 @@ function TimelineData() {
     )
 }
 
-function Roadmap() {
+function Timeline() {
     return (
         <section id="timeline" className={styles.roadmap}>
             <div className="container">
@@ -97,4 +97,4 @@ function Roadmap() {
     );
 }
 
-export default Roadmap;
+export default Timeline;

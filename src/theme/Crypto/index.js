@@ -4,7 +4,7 @@ import Headline from "@theme/Headline";
 
 import styles from "./styles.module.scss";
 
-function FAQ() {
+function Crypto() {
   return (
     <section id="faq" className={styles.faq}>
       <div className="container">
@@ -20,4 +20,4 @@ function FAQ() {
   );
 }
 
-export default FAQ;
+export default Crypto;

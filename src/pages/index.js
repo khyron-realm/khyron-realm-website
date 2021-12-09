@@ -2,11 +2,11 @@ import React from "react";
 import Layout from "@theme/Layout";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
-import FAQ from "@theme/FAQ";
+import Crypto from "@theme/Crypto";
 import Features from "@theme/Features";
 import Hero from "@theme/Hero";
-import Resources from "@theme/Resources";
-import Roadmap from "@theme/Timeline";
+import Team from "@theme/Team";
+import Timeline from "@theme/Timeline";
 import styles from "./styles.module.scss";
 
 function Home() {
@@ -20,9 +20,9 @@ function Home() {
 
       <main className={styles.main}>
         <Features />
-        <Roadmap/>
-        <FAQ />
-        <Resources />
+        <Timeline/>
+        <Crypto />
+        <Team />
       </main>
     </Layout>
   );

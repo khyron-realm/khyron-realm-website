@@ -269,7 +269,7 @@ export default {
           ]
         },
         {
-          "title": "Resources",
+          "title": "Team",
           "items": [
             {
               "label": "Blog",

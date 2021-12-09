@@ -50,8 +50,6 @@ const data = [
   },
 ];
 
-export default Resources;
-
 function Resource({ link, image, name, role }) {
   return (
     <Link className={clsx("card", styles.card)} to={link}>
@@ -68,7 +66,7 @@ function Resource({ link, image, name, role }) {
   );
 }
 
-function Resources() {
+function Team() {
   return (
     <>
       {data && data.length > 0 && (
@@ -129,3 +127,5 @@ function Resources() {
     </>
   );
 }
+
+export default Team;

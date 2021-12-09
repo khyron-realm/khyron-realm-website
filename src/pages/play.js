@@ -1,13 +1,15 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import useThemeContext from '@theme/hooks/useThemeContext';
 import clsx from "clsx";
 import styles from "./styles.module.scss";
 
 function AboutHeader() {
     const {siteConfig} = useDocusaurusContext();
+    const { isDarkTheme } = useThemeContext();
     return (
-        <header className={clsx('play', styles.play)}>
+        <header className={isDarkTheme ? clsx("hero", styles.play_dark) : clsx("hero", styles.play)}>
             <div className="container">
                 <br/> <br/>
                 <h1 >Getting started</h1>
