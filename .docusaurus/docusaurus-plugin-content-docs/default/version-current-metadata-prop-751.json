@@ -71,11 +71,6 @@
             "type": "link",
             "label": "Mines",
             "href": "/docs/gameplay/mines"
-          },
-          {
-            "type": "link",
-            "label": "Evolution",
-            "href": "/docs/gameplay/evolution"
           }
         ]
       },

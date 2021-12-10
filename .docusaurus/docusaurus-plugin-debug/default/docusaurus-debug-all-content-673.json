@@ -70,33 +70,6 @@
               }
             },
             {
-              "unversionedId": "gameplay/evolution",
-              "id": "gameplay/evolution",
-              "isDocsHomePage": false,
-              "title": "Evolution",
-              "description": "",
-              "source": "@site/docs/gameplay/evolution.md",
-              "sourceDirName": "gameplay",
-              "slug": "/gameplay/evolution",
-              "permalink": "/docs/gameplay/evolution",
-              "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/evolution.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Mines",
-                "permalink": "/docs/gameplay/mines"
-              },
-              "next": {
-                "title": "Roadmap",
-                "permalink": "/docs/roadmap"
-              }
-            },
-            {
               "unversionedId": "gameplay/game",
               "id": "gameplay/game",
               "isDocsHomePage": false,
@@ -128,7 +101,7 @@
               "id": "gameplay/mines",
               "isDocsHomePage": false,
               "title": "Mines",
-              "description": "",
+              "description": "Mines are randomly generated with different sizes and resources distributions.",
               "source": "@site/docs/gameplay/mines.md",
               "sourceDirName": "gameplay",
               "slug": "/gameplay/mines",
@@ -146,8 +119,8 @@
                 "permalink": "/docs/gameplay/mothership"
               },
               "next": {
-                "title": "Evolution",
-                "permalink": "/docs/gameplay/evolution"
+                "title": "Roadmap",
+                "permalink": "/docs/roadmap"
               }
             },
             {
@@ -155,7 +128,7 @@
               "id": "gameplay/mothership",
               "isDocsHomePage": false,
               "title": "Mothership",
-              "description": "Modules",
+              "description": "[Mothership image]",
               "source": "@site/docs/gameplay/mothership.md",
               "sourceDirName": "gameplay",
               "slug": "/gameplay/mothership",
@@ -273,8 +246,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Evolution",
-                "permalink": "/docs/gameplay/evolution"
+                "title": "Mines",
+                "permalink": "/docs/gameplay/mines"
               },
               "next": {
                 "title": "Technology",
@@ -553,10 +526,6 @@
                   {
                     "type": "doc",
                     "id": "gameplay/mines"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "gameplay/evolution"
                   }
                 ]
               },

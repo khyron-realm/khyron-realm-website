@@ -21,11 +21,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "gameplay/evolution",
-              "path": "/docs/gameplay/evolution",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "gameplay/game",
               "path": "/docs/gameplay/game",
               "sidebar": "tutorialSidebar"

@@ -3,7 +3,7 @@
   "id": "gameplay/mines",
   "isDocsHomePage": false,
   "title": "Mines",
-  "description": "",
+  "description": "Mines are randomly generated with different sizes and resources distributions.",
   "source": "@site/docs/gameplay/mines.md",
   "sourceDirName": "gameplay",
   "slug": "/gameplay/mines",
@@ -21,7 +21,7 @@
     "permalink": "/docs/gameplay/mothership"
   },
   "next": {
-    "title": "Evolution",
-    "permalink": "/docs/gameplay/evolution"
+    "title": "Roadmap",
+    "permalink": "/docs/roadmap"
   }
 }

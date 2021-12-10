@@ -6,6 +6,8 @@ sidebar_position: 3
 
 [Spaceship image]
 
+**Starship** is a two-stage ship designed to transport cargo to another planets ...
+
 ## Spaceship Specifications
 
 | Stage            | Characteristic           | value               |
@@ -120,16 +122,18 @@ Energy wall uses the latest individual battery cells technology to store enormou
 
 ## Robots
 
-| Class           | Name                   | Description                                                                                         | Space | Build time | Image                               |
-|-----------------|------------------------|-----------------------------------------------------------------------------------------------------|-------|------------|-------------------------------------|
-| **Miners**      | **Worker**             | Mines randomly in a given area and needs vision to extract minerals.                                | 1     | 10s        | ![Worker](/img/robots/worker.png)   |
-|                 | **Crusher**            | Moves slowly, simultaneously breaks all blocks in a given radius and collects the resources.        | 4     | 1m         | ![Crusher](/img/robots/crusher.png) |
-|                 | **Reaper**             | Detonates itself after 5 seconds, destroys everything on its radius. 50% of resources are gathered. | 2     | 30s        | *Coming soon ...*                   |
-|                 | **Breaker**            | Has a large lifespan and slow speed and mines 3 blocks at a time.                                   | 8     | 3m         | *Coming soon ...*                   |
-|                 |                        |                                                                                                     |       |            | *Coming soon ...*                   |
-| **Specialists** | **Silicon finder**     | Mine only silicon and can find multiple resources on a block. It blows when destroyed.              | 2     | 45s        | *Coming soon ...*                   |
-|                 | **Lithium discoverer** | Mine only lithium and can find multiple resources on a block. It blows when destroyed.              | 2     | 45s        | *Coming soon ...*                   |
-|                 | **Titanium expert**    | Mine only titanium and can find multiple resources on a block. It blows when destroyed.             | 2     | 45s        | *Coming soon ...*                   |
-|                 |                        |                                                                                                     |       |            | *Coming soon ...*                   |
-| **Support**     | **Probe**              | Does not move and increases the number of resources found by other robots.                          | 2     | 1m         | ![Probe](/img/robots/probe.png)     |
-|                 | **Engineer**           | Repairs all the robots on its radius.                                                               | 4     | 2m         | *Coming soon ...*                   |
+To gather all the resources, multiple robot types were developed to overcome the environment obstacles.
+
+| Class           | Name                   | Description                                                                                                          | Space | Build time | Image                               |
+|-----------------|------------------------|----------------------------------------------------------------------------------------------------------------------|-------|------------|-------------------------------------|
+| **Miners**      | **Worker**             | Mines in a certain radius and extract minerals with low precision. Fast robot with slow gathering speed.             | 1     | 10s        | ![Worker](/img/robots/worker.png)   |
+|                 | **Crusher**            | Moves slowly, simultaneously breaks 3 blocks in front of him, and has an enormous amount of health.                  | 4     | 1m         | ![Crusher](/img/robots/crusher.png) |
+|                 | **Reaper**             | Detonates itself after a fixed time, destroys all blocks on its radius but only 50% of resources are gathered.       | 2     | 30s        | *Coming soon ...*                   |
+|                 | **Breaker**            | Static breaking machine that simultaneously destroys all blocks in its radius. Extract minerals with high precision. | 8     | 3m         | *Coming soon ...*                   |
+|                 |                        |                                                                                                                      |       |            | *Coming soon ...*                   |
+| **Specialists** | **Silicon finder**     | Mines only silicon and can find multiple resources on a block. It blows when destroyed.                              | 2     | 45s        | *Coming soon ...*                   |
+|                 | **Lithium discoverer** | Mines only lithium and can find multiple resources on a block. It blows when destroyed.                              | 2     | 45s        | *Coming soon ...*                   |
+|                 | **Titanium expert**    | Mines only titanium and can find multiple resources on a block. It blows when destroyed.                             | 2     | 45s        | *Coming soon ...*                   |
+|                 |                        |                                                                                                                      |       |            | *Coming soon ...*                   |
+| **Support**     | **Probe**              | Discover resources in the mine and give a boost for minerals extraction to all robots.                               | 2     | 1m         | ![Probe](/img/robots/probe.png)     |
+|                 | **Engineer**           | Repairs all the robots on its radius.                                                                                | 4     | 2m         | *Coming soon ...*                   |

@@ -100,7 +100,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','d7c'),
+    component: ComponentCreator('/docs','a3e'),
     routes: [
       {
         path: '/docs/description',
@@ -111,12 +111,6 @@ export default [
       {
         path: '/docs/disclaimer',
         component: ComponentCreator('/docs/disclaimer','7ad'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/gameplay/evolution',
-        component: ComponentCreator('/docs/gameplay/evolution','874'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

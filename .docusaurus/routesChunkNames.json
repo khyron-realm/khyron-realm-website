@@ -108,7 +108,7 @@
     "component": "component---site-src-pages-play-jsd-01-006",
     "config": "config---about-5-e-9-bcb"
   },
-  "/docs-d7c": {
+  "/docs-a3e": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -119,10 +119,6 @@
   "/docs/disclaimer-7ad": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-disclaimerfe-0-b76"
-  },
-  "/docs/gameplay/evolution-874": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gameplay-evolutiond-54-b68"
   },
   "/docs/gameplay/game-c46": {
     "component": "component---theme-doc-item-178-a40",
