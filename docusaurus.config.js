@@ -83,7 +83,7 @@ module.exports = {
             },
             {
               label: 'Play demo',
-              to: '/play_now',
+              to: '/play',
             },
           ],
         },

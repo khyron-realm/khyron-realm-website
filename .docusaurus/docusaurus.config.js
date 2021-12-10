@@ -264,7 +264,7 @@ export default {
             },
             {
               "label": "Play demo",
-              "to": "/play_now"
+              "to": "/play"
             }
           ]
         },
