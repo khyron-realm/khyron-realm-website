@@ -21,18 +21,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "gameplay/environment",
-              "path": "/docs/gameplay/environment",
+              "id": "gameplay/evolution",
+              "path": "/docs/gameplay/evolution",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "gameplay/game",
               "path": "/docs/gameplay/game",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "gameplay/leveling",
-              "path": "/docs/gameplay/leveling",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -70,30 +70,30 @@
               }
             },
             {
-              "unversionedId": "gameplay/environment",
-              "id": "gameplay/environment",
+              "unversionedId": "gameplay/evolution",
+              "id": "gameplay/evolution",
               "isDocsHomePage": false,
-              "title": "Environment",
+              "title": "Evolution",
               "description": "",
-              "source": "@site/docs/gameplay/environment.md",
+              "source": "@site/docs/gameplay/evolution.md",
               "sourceDirName": "gameplay",
-              "slug": "/gameplay/environment",
-              "permalink": "/docs/gameplay/environment",
-              "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/environment.md",
+              "slug": "/gameplay/evolution",
+              "permalink": "/docs/gameplay/evolution",
+              "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/evolution.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Mothership",
-                "permalink": "/docs/gameplay/mothership"
-              },
-              "next": {
                 "title": "Mines",
                 "permalink": "/docs/gameplay/mines"
+              },
+              "next": {
+                "title": "Roadmap",
+                "permalink": "/docs/roadmap"
               }
             },
             {
@@ -124,33 +124,6 @@
               }
             },
             {
-              "unversionedId": "gameplay/leveling",
-              "id": "gameplay/leveling",
-              "isDocsHomePage": false,
-              "title": "Leveling",
-              "description": "",
-              "source": "@site/docs/gameplay/leveling.md",
-              "sourceDirName": "gameplay",
-              "slug": "/gameplay/leveling",
-              "permalink": "/docs/gameplay/leveling",
-              "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/leveling.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 7,
-              "frontMatter": {
-                "sidebar_position": 7
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Mines",
-                "permalink": "/docs/gameplay/mines"
-              },
-              "next": {
-                "title": "Roadmap",
-                "permalink": "/docs/roadmap"
-              }
-            },
-            {
               "unversionedId": "gameplay/mines",
               "id": "gameplay/mines",
               "isDocsHomePage": false,
@@ -163,18 +136,18 @@
               "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/mines.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Environment",
-                "permalink": "/docs/gameplay/environment"
+                "title": "Mothership",
+                "permalink": "/docs/gameplay/mothership"
               },
               "next": {
-                "title": "Leveling",
-                "permalink": "/docs/gameplay/leveling"
+                "title": "Evolution",
+                "permalink": "/docs/gameplay/evolution"
               }
             },
             {
@@ -200,8 +173,8 @@
                 "permalink": "/docs/gameplay/spaceship"
               },
               "next": {
-                "title": "Environment",
-                "permalink": "/docs/gameplay/environment"
+                "title": "Mines",
+                "permalink": "/docs/gameplay/mines"
               }
             },
             {
@@ -236,7 +209,7 @@
               "id": "gameplay/spaceship",
               "isDocsHomePage": false,
               "title": "Spaceship",
-              "description": "Modules",
+              "description": "[Spaceship image]",
               "source": "@site/docs/gameplay/spaceship.md",
               "sourceDirName": "gameplay",
               "slug": "/gameplay/spaceship",
@@ -300,8 +273,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Leveling",
-                "permalink": "/docs/gameplay/leveling"
+                "title": "Evolution",
+                "permalink": "/docs/gameplay/evolution"
               },
               "next": {
                 "title": "Technology",
@@ -579,15 +552,11 @@
                   },
                   {
                     "type": "doc",
-                    "id": "gameplay/environment"
-                  },
-                  {
-                    "type": "doc",
                     "id": "gameplay/mines"
                   },
                   {
                     "type": "doc",
-                    "id": "gameplay/leveling"
+                    "id": "gameplay/evolution"
                   }
                 ]
               },

@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/mines.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Environment",
-    "permalink": "/docs/gameplay/environment"
+    "title": "Mothership",
+    "permalink": "/docs/gameplay/mothership"
   },
   "next": {
-    "title": "Leveling",
-    "permalink": "/docs/gameplay/leveling"
+    "title": "Evolution",
+    "permalink": "/docs/gameplay/evolution"
   }
 }

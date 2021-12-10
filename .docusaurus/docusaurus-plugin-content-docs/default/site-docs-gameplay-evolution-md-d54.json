@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gameplay/evolution",
+  "id": "gameplay/evolution",
+  "isDocsHomePage": false,
+  "title": "Evolution",
+  "description": "",
+  "source": "@site/docs/gameplay/evolution.md",
+  "sourceDirName": "gameplay",
+  "slug": "/gameplay/evolution",
+  "permalink": "/docs/gameplay/evolution",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/evolution.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mines",
+    "permalink": "/docs/gameplay/mines"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/docs/roadmap"
+  }
+}

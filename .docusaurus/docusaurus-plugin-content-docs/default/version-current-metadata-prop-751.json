@@ -69,18 +69,13 @@
           },
           {
             "type": "link",
-            "label": "Environment",
-            "href": "/docs/gameplay/environment"
-          },
-          {
-            "type": "link",
             "label": "Mines",
             "href": "/docs/gameplay/mines"
           },
           {
             "type": "link",
-            "label": "Leveling",
-            "href": "/docs/gameplay/leveling"
+            "label": "Evolution",
+            "href": "/docs/gameplay/evolution"
           }
         ]
       },

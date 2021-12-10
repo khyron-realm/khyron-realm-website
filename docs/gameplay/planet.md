@@ -27,7 +27,7 @@ sidebar_position: 2
 
 | Name     | Description                                           | Image                                    |
 |----------|-------------------------------------------------------|------------------------------------------|
-| Energy   | Used for building the base and trading at the market. |                                          |
+| Energy   | Used for building the base and trading at the market. | ![Energy](/img/resources/energy.png)     |
 | Silicon  | Extracted from mines and used to produce energy.      | ![Silicon](/img/resources/silicon.png)   |
 | Lithium  | Gathered from mine and converted into energy.         | ![Lithium](/img/resources/lithium.png)   |
 | Titanium | Mined by the robots and used for creating energy.     | ![Titanium](/img/resources/titanium.png) |
