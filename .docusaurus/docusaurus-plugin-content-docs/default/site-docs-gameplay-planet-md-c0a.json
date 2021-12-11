@@ -2,7 +2,7 @@
   "unversionedId": "gameplay/planet",
   "id": "gameplay/planet",
   "title": "Planet",
-  "description": "Technical details",
+  "description": "Khyron planet",
   "source": "@site/docs/gameplay/planet.md",
   "sourceDirName": "gameplay",
   "slug": "/gameplay/planet",

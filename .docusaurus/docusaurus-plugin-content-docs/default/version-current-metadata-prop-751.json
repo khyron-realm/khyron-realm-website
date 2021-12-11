@@ -162,13 +162,13 @@
     "gameplay/planet": {
       "id": "gameplay/planet",
       "title": "Planet",
-      "description": "Technical details",
+      "description": "Khyron planet",
       "sidebar": "tutorialSidebar"
     },
     "gameplay/spaceship": {
       "id": "gameplay/spaceship",
       "title": "Spaceship",
-      "description": "[Spaceship image]",
+      "description": "Starship is a two-stage ship designed to transport cargo to another planets ...",
       "sidebar": "tutorialSidebar"
     },
     "privacy_policy": {

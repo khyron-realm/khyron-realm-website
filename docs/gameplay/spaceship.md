@@ -4,9 +4,9 @@ sidebar_position: 3
 
 # Spaceship
 
-[Spaceship image]
-
 **Starship** is a two-stage ship designed to transport cargo to another planets ...
+
+![Spaceship](/img/wiki/spaceship_exterior.png)
 
 ## Spaceship Specifications
 
@@ -39,6 +39,8 @@ The **Spaceship** has a modular interior with **32 hubs**. Some modules are avai
 Research technology developed by experts from Earth allow to upgrade the software and hardware of the hubs to the **level 10**, offering incremental improvements.
 To upgrade the core of the ship, the user needs to unlock all the available floors for the current level of the core. 
 The process can be done only one at a time, because is dependent on the core.
+
+![Spaceship](/img/wiki/spaceship_interior.png)
 
 ### Inner Core
 

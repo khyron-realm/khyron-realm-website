@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Planet
 
+![Khyron planet](/img/wiki/khyron.png)
+
 ## Technical details
 
 | Characteristic     | Description                                   |
