@@ -85,7 +85,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Supplies",
-                "permalink": "/docs/story/supplyes"
+                "permalink": "/docs/story/supplies"
               },
               "next": {
                 "title": "Planet",
@@ -319,19 +319,19 @@
               },
               "next": {
                 "title": "Supplies",
-                "permalink": "/docs/story/supplyes"
+                "permalink": "/docs/story/supplies"
               }
             },
             {
-              "unversionedId": "story/supplyes",
-              "id": "story/supplyes",
+              "unversionedId": "story/supplies",
+              "id": "story/supplies",
               "title": "Supplies",
               "description": "Great, you purchased your find right to mine a designated zone. There are a few more things to do before you extract resources. You’ll need a few robots that have the necessary tools to perform the operations. Build them first and you are ready to go.",
-              "source": "@site/docs/story/supplyes.md",
+              "source": "@site/docs/story/supplies.md",
               "sourceDirName": "story",
-              "slug": "/story/supplyes",
-              "permalink": "/docs/story/supplyes",
-              "editUrl": "https://github.com/target-software/game-website/wiki/docs/story/supplyes.md",
+              "slug": "/story/supplies",
+              "permalink": "/docs/story/supplies",
+              "editUrl": "https://github.com/target-software/game-website/wiki/docs/story/supplies.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -479,7 +479,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "story/supplyes"
+                    "id": "story/supplies"
                   }
                 ]
               },

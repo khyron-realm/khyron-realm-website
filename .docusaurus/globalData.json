@@ -1,11 +1,4 @@
 {
-  "docusaurus-plugin-google-gtag": {
-    "default": {
-      "trackingID": "G-7M84C2EJB5",
-      "anonymizeIP": true,
-      "id": "default"
-    }
-  },
   "docusaurus-plugin-content-docs": {
     "default": {
       "path": "/docs",
@@ -78,8 +71,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "story/supplyes",
-              "path": "/docs/story/supplyes",
+              "id": "story/supplies",
+              "path": "/docs/story/supplies",
               "sidebar": "tutorialSidebar"
             },
             {

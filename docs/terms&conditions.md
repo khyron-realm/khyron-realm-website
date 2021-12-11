@@ -44,6 +44,6 @@ You acknowledge that you have read this Agreement and agree to all its terms and
 
 If you have any questions, concerns, or complaints regarding this Agreement, we encourage you to contact us using the details below:
 
-robochain.unlimited@gmail.com
+khyron.realm@gmail.com
 
 *This document was last updated on November 30, 2021*

@@ -41,8 +41,8 @@
           {
             "type": "link",
             "label": "Supplies",
-            "href": "/docs/story/supplyes",
-            "docId": "story/supplyes"
+            "href": "/docs/story/supplies",
+            "docId": "story/supplies"
           }
         ]
       },
@@ -201,8 +201,8 @@
       "description": "Collaboration increases the chances of building the equipments on the planet in the designated timeframe.",
       "sidebar": "tutorialSidebar"
     },
-    "story/supplyes": {
-      "id": "story/supplyes",
+    "story/supplies": {
+      "id": "story/supplies",
       "title": "Supplies",
       "description": "Great, you purchased your find right to mine a designated zone. There are a few more things to do before you extract resources. You’ll need a few robots that have the necessary tools to perform the operations. Build them first and you are ready to go.",
       "sidebar": "tutorialSidebar"

@@ -95,37 +95,37 @@ Buy a speed power-up that increases by a factor of 3 the speed of the character.
 
 ### Ships Yard
 
-![Ships Yard](/img/jobs/ships_yard.jpg)
+[Ships Yard]
 
 Assemble carrier ships for quick transportation. Build a ship by touching on the element and positioning it in the correct place.
 
 ### Supply Center
 
-![Supply Center](/img/jobs/supply_center.jpg)
+[Supply Center]
 
 Build batteries and sell them to robots and cyborgs. Select the parts and move them to the assembly line to manufacture a battery cell. The assembly line speed increases with time. The goal is to assemble as many batteries as you can in the given time.
 
 ### Space Mining Agency
 
-![Space Mining Agency](/img/jobs/space_mining_agency.jpg)
+[Space Mining Agency]
 
 Extract minerals from asteroids. Tap on resources that are located on asteroids and wait for the laser extraction. The goal is to get as many resources as you can from the asteroids.
 
 ### Holograms Business
 
-![Holograms Business](/img/jobs/holograms_business.jpg)
+[Holograms Business]
 
 Fix broken holograms by repairing the wiring and choosing the correct one to display. The goal is to solve repair the technology.
 
 ### Maintenance Hub
 
-![Maintenance Hub](/img/jobs/maintenance_hub.jpg)
+[Maintenance Hub]
 
 Fix broken electrical wiring on the ship. The goal is to repair the ship and put it back in production.
 
 ### Repairing Facility
 
-![Repairing Facility](/img/jobs/repairing_facility.jpg)
+[Repairing Facility]
 
 Repair broken robots. Select the broken parts and replace them with new parts. The goal is to repair all the robots.
 
