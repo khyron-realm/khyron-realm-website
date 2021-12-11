@@ -124,10 +124,6 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Khyron Realm. All rights reserved.`,
     },
-    googleAnalytics: {
-      trackingID: "G-7M84C2EJB5",
-      anonymizeIP: true,
-    },
   },
   plugins: ["docusaurus-plugin-sass", "@docusaurus/plugin-ideal-image"],
   presets: [
@@ -145,6 +141,10 @@ module.exports = {
         theme: {
           customCss: require.resolve("./src/css/custom.scss"),
         },
+        gtag: {
+          trackingID: 'G-7M84C2EJB5',
+          anonymizeIP: true,
+        }
       },
     ],
   ],

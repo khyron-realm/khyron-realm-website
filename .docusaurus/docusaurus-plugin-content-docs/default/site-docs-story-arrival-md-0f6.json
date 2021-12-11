@@ -1,7 +1,6 @@
 {
   "unversionedId": "story/arrival",
   "id": "story/arrival",
-  "isDocsHomePage": false,
   "title": "Arrival",
   "description": "Looking at all the ships travelling to their destinations, you’ll se how well the fleets are organised. The main ship, located in the middle, is the Mothership. It is the commander of the fleets and supervises all the operations. On the outside, organised in concentric circles, are the Starships, which are protecting the commander from space debris.",
   "source": "@site/docs/story/arrival.md",

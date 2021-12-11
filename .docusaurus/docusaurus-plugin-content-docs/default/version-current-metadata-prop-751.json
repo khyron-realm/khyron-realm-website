@@ -11,7 +11,8 @@
       {
         "type": "link",
         "label": "Description",
-        "href": "/docs/description"
+        "href": "/docs/description",
+        "docId": "description"
       },
       {
         "type": "category",
@@ -22,22 +23,26 @@
           {
             "type": "link",
             "label": "Beginning",
-            "href": "/docs/story/beginning"
+            "href": "/docs/story/beginning",
+            "docId": "story/beginning"
           },
           {
             "type": "link",
             "label": "Arrival",
-            "href": "/docs/story/arrival"
+            "href": "/docs/story/arrival",
+            "docId": "story/arrival"
           },
           {
             "type": "link",
             "label": "Community",
-            "href": "/docs/story/community"
+            "href": "/docs/story/community",
+            "docId": "story/community"
           },
           {
             "type": "link",
             "label": "Supplies",
-            "href": "/docs/story/supplyes"
+            "href": "/docs/story/supplyes",
+            "docId": "story/supplyes"
           }
         ]
       },
@@ -50,65 +55,181 @@
           {
             "type": "link",
             "label": "Game",
-            "href": "/docs/gameplay/game"
+            "href": "/docs/gameplay/game",
+            "docId": "gameplay/game"
           },
           {
             "type": "link",
             "label": "Planet",
-            "href": "/docs/gameplay/planet"
+            "href": "/docs/gameplay/planet",
+            "docId": "gameplay/planet"
           },
           {
             "type": "link",
             "label": "Spaceship",
-            "href": "/docs/gameplay/spaceship"
+            "href": "/docs/gameplay/spaceship",
+            "docId": "gameplay/spaceship"
           },
           {
             "type": "link",
             "label": "Mothership",
-            "href": "/docs/gameplay/mothership"
+            "href": "/docs/gameplay/mothership",
+            "docId": "gameplay/mothership"
           },
           {
             "type": "link",
             "label": "Mines",
-            "href": "/docs/gameplay/mines"
+            "href": "/docs/gameplay/mines",
+            "docId": "gameplay/mines"
           }
         ]
       },
       {
         "type": "link",
         "label": "Roadmap",
-        "href": "/docs/roadmap"
+        "href": "/docs/roadmap",
+        "docId": "roadmap"
       },
       {
         "type": "link",
         "label": "Technology",
-        "href": "/docs/technology"
+        "href": "/docs/technology",
+        "docId": "technology"
       },
       {
         "type": "link",
         "label": "Tokenomics",
-        "href": "/docs/tokenomics"
+        "href": "/docs/tokenomics",
+        "docId": "tokenomics"
       },
       {
         "type": "link",
         "label": "Team",
-        "href": "/docs/team"
+        "href": "/docs/team",
+        "docId": "team"
       },
       {
         "type": "link",
         "label": "Disclaimer",
-        "href": "/docs/disclaimer"
+        "href": "/docs/disclaimer",
+        "docId": "disclaimer"
       },
       {
         "type": "link",
         "label": "Terms & Conditions",
-        "href": "/docs/terms&conditions"
+        "href": "/docs/terms&conditions",
+        "docId": "terms&conditions"
       },
       {
         "type": "link",
         "label": "Privacy policy",
-        "href": "/docs/privacy_policy"
+        "href": "/docs/privacy_policy",
+        "docId": "privacy_policy"
       }
     ]
+  },
+  "docs": {
+    "description": {
+      "id": "description",
+      "title": "Description",
+      "description": "Environment",
+      "sidebar": "tutorialSidebar"
+    },
+    "disclaimer": {
+      "id": "disclaimer",
+      "title": "Disclaimer",
+      "description": "Investing involves significant level of risk. It's critical to conduct your own research.",
+      "sidebar": "tutorialSidebar"
+    },
+    "gameplay/game": {
+      "id": "gameplay/game",
+      "title": "Game",
+      "description": "Description",
+      "sidebar": "tutorialSidebar"
+    },
+    "gameplay/mines": {
+      "id": "gameplay/mines",
+      "title": "Mines",
+      "description": "Mines are randomly generated with different sizes and resources distributions.",
+      "sidebar": "tutorialSidebar"
+    },
+    "gameplay/mothership": {
+      "id": "gameplay/mothership",
+      "title": "Mothership",
+      "description": "[Mothership image]",
+      "sidebar": "tutorialSidebar"
+    },
+    "gameplay/planet": {
+      "id": "gameplay/planet",
+      "title": "Planet",
+      "description": "Technical details",
+      "sidebar": "tutorialSidebar"
+    },
+    "gameplay/spaceship": {
+      "id": "gameplay/spaceship",
+      "title": "Spaceship",
+      "description": "[Spaceship image]",
+      "sidebar": "tutorialSidebar"
+    },
+    "privacy_policy": {
+      "id": "privacy_policy",
+      "title": "Privacy policy",
+      "description": "We respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Policy”). This Policy describes the types of information we may collect from you or that you may provide (“Personal Information”) in the “RoboChain” mobile application (“Mobile Application” or “Service”) and any of its related products and services (collectively, “Services”), and our practices for collecting, using, maintaining, protecting, and disclosing that Personal Information. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update it.",
+      "sidebar": "tutorialSidebar"
+    },
+    "roadmap": {
+      "id": "roadmap",
+      "title": "Roadmap",
+      "description": "Updated 5 DEC 2021",
+      "sidebar": "tutorialSidebar"
+    },
+    "story/arrival": {
+      "id": "story/arrival",
+      "title": "Arrival",
+      "description": "Looking at all the ships travelling to their destinations, you’ll se how well the fleets are organised. The main ship, located in the middle, is the Mothership. It is the commander of the fleets and supervises all the operations. On the outside, organised in concentric circles, are the Starships, which are protecting the commander from space debris.",
+      "sidebar": "tutorialSidebar"
+    },
+    "story/beginning": {
+      "id": "story/beginning",
+      "title": "Beginning",
+      "description": "Current year",
+      "sidebar": "tutorialSidebar"
+    },
+    "story/community": {
+      "id": "story/community",
+      "title": "Community",
+      "description": "Collaboration increases the chances of building the equipments on the planet in the designated timeframe.",
+      "sidebar": "tutorialSidebar"
+    },
+    "story/supplyes": {
+      "id": "story/supplyes",
+      "title": "Supplies",
+      "description": "Great, you purchased your find right to mine a designated zone. There are a few more things to do before you extract resources. You’ll need a few robots that have the necessary tools to perform the operations. Build them first and you are ready to go.",
+      "sidebar": "tutorialSidebar"
+    },
+    "team": {
+      "id": "team",
+      "title": "Team",
+      "description": "Khyron Realm is being developed by a team of engineers and artist.",
+      "sidebar": "tutorialSidebar"
+    },
+    "technology": {
+      "id": "technology",
+      "title": "Technology",
+      "description": "Technology coming soon ...",
+      "sidebar": "tutorialSidebar"
+    },
+    "terms&conditions": {
+      "id": "terms&conditions",
+      "title": "Terms & Conditions",
+      "description": "These terms and conditions (“Agreement”) set forth the general terms and conditions of your use of the “RoboChain” mobile application (“Mobile Application” or “Service”) and any of its related products and services (collectively, “Services”). This Agreement is legally binding between you (“User”, “you” or “your”) and this Mobile Application developer (“Operator”, “we”, “us” or “our”). If you are entering into this agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this agreement, in which case the terms “User”, “you” or “your” shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this agreement, you must not accept this agreement and may not access and use the Mobile Application and Services. By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Mobile Application and Services.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tokenomics": {
+      "id": "tokenomics",
+      "title": "Tokenomics",
+      "description": "Tokenomics coming soon ...",
+      "sidebar": "tutorialSidebar"
+    }
   }
 }

@@ -1,7 +1,6 @@
 {
   "unversionedId": "gameplay/mines",
   "id": "gameplay/mines",
-  "isDocsHomePage": false,
   "title": "Mines",
   "description": "Mines are randomly generated with different sizes and resources distributions.",
   "source": "@site/docs/gameplay/mines.md",

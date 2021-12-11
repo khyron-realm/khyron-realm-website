@@ -1,7 +1,6 @@
 {
   "unversionedId": "story/beginning",
   "id": "story/beginning",
-  "isDocsHomePage": false,
   "title": "Beginning",
   "description": "Current year",
   "source": "@site/docs/story/beginning.md",

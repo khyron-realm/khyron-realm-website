@@ -1,7 +1,6 @@
 {
   "unversionedId": "disclaimer",
   "id": "disclaimer",
-  "isDocsHomePage": false,
   "title": "Disclaimer",
   "description": "Investing involves significant level of risk. It's critical to conduct your own research.",
   "source": "@site/docs/disclaimer.md",

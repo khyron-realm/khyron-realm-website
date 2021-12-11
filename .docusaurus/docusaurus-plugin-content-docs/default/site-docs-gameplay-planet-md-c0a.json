@@ -1,7 +1,6 @@
 {
   "unversionedId": "gameplay/planet",
   "id": "gameplay/planet",
-  "isDocsHomePage": false,
   "title": "Planet",
   "description": "Technical details",
   "source": "@site/docs/gameplay/planet.md",

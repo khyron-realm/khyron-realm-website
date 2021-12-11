@@ -1,7 +1,6 @@
 {
   "unversionedId": "technology",
   "id": "technology",
-  "isDocsHomePage": false,
   "title": "Technology",
   "description": "Technology coming soon ...",
   "source": "@site/docs/technology.md",

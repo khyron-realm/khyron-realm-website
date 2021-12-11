@@ -306,14 +306,10 @@ export default {
       "copyright": "Copyright © 2021 Khyron Realm. All rights reserved.",
       "style": "light"
     },
-    "googleAnalytics": {
-      "trackingID": "G-7M84C2EJB5",
-      "anonymizeIP": true
-    },
     "docs": {
       "versionPersistence": "localStorage"
     },
-    "metadatas": [],
+    "metadata": [],
     "hideableSidebar": false,
     "tableOfContents": {
       "minHeadingLevel": 2,
@@ -338,6 +334,10 @@ export default {
         },
         "theme": {
           "customCss": "/Users/alex_grigoras/Documents/GitHub/game-website/src/css/custom.scss"
+        },
+        "gtag": {
+          "trackingID": "G-7M84C2EJB5",
+          "anonymizeIP": true
         }
       }
     ]
@@ -351,6 +351,9 @@ export default {
     "localeConfigs": {}
   },
   "onDuplicateRoutes": "warn",
+  "staticDirectories": [
+    "static"
+  ],
   "customFields": {},
   "themes": [],
   "titleDelimiter": "|",

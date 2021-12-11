@@ -1,7 +1,6 @@
 {
   "unversionedId": "gameplay/game",
   "id": "gameplay/game",
-  "isDocsHomePage": false,
   "title": "Game",
   "description": "Description",
   "source": "@site/docs/gameplay/game.mdx",

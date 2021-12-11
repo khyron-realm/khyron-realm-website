@@ -1,7 +1,6 @@
 {
   "unversionedId": "gameplay/mothership",
   "id": "gameplay/mothership",
-  "isDocsHomePage": false,
   "title": "Mothership",
   "description": "[Mothership image]",
   "source": "@site/docs/gameplay/mothership.md",

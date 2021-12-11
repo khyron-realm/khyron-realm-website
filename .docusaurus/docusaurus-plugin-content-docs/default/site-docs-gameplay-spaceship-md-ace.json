@@ -1,7 +1,6 @@
 {
   "unversionedId": "gameplay/spaceship",
   "id": "gameplay/spaceship",
-  "isDocsHomePage": false,
   "title": "Spaceship",
   "description": "[Spaceship image]",
   "source": "@site/docs/gameplay/spaceship.md",

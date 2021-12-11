@@ -1,7 +1,6 @@
 {
   "unversionedId": "tokenomics",
   "id": "tokenomics",
-  "isDocsHomePage": false,
   "title": "Tokenomics",
   "description": "Tokenomics coming soon ...",
   "source": "@site/docs/tokenomics.md",
