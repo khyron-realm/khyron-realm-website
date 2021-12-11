@@ -2,7 +2,7 @@
   "unversionedId": "roadmap",
   "id": "roadmap",
   "title": "Roadmap",
-  "description": "Updated 5 DEC 2021",
+  "description": "| Period                    | Period        | Feature                       | Status |",
   "source": "@site/docs/roadmap.md",
   "sourceDirName": ".",
   "slug": "/roadmap",

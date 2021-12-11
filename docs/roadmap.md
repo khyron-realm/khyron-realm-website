@@ -4,8 +4,6 @@ sidebar_position: 4
 
 # Roadmap
 
-*Updated 5 DEC 2021*
-
 | Period                    | Period        | Feature                       | Status |
 |---------------------------|---------------|-------------------------------|--------|
 | [Phase 1]  **Concept**    | Q4 2021       | Idea                          | ✔️     |
@@ -27,4 +25,13 @@ sidebar_position: 4
 | [Phase 6] **Platform**    | *Coming soon* |                               |        |
 |                           |               |                               |        |
 
-*Roadmap changes may occur due to the development process.* 
+
+:::caution Note
+
+Roadmap changes may occur due to the development process.
+
+:::
+
+---
+
+*Last updated: 11 DEC 2021*

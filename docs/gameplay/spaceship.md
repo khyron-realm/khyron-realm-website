@@ -44,7 +44,7 @@ The process can be done only one at a time, because is dependent on the core.
 
 ### Inner Core
 
-[Inner Core image]
+<!-- [Inner Core image] -->
 
 The inner core of the spaceship powers all the hubs. Fuelled with dark matter, it can sustain the fusion reaction for a million years. Its outer shell is made out of reinforced titanium to be protected from the environment. Due to the Khyron seismic activity, we will need to execute a diagnosis procedure on the inner core once at a few days to repair eventual damages or errors.
 
@@ -52,31 +52,31 @@ The inner core of the spaceship powers all the hubs. Fuelled with dark matter, i
 
 ### Pressing Machine
 
-[Pressing Machine image]
+<!-- [Pressing Machine image] -->
 
 Using its powerful pressing machine, resources are compressed to be converted into pure energy to power anything.
 
 ### Silicon Converter
 
-[Silicon Converter image]
+<!-- [Silicon Converter image] -->
 
 Converts silicon into usable energy using special high-temperature processing that extracts all the electrons from its atoms.
 
 ### Lithium Converter
 
-[Lithium Converter image]
+<!-- [Lithium Converter image] -->
 
 Converts lithium into usable energy using special high-temperature processing that extracts all the electrons from its atoms.
 
 ### Titanium Converter
 
-[Titanium Converter image]
+<!-- [Titanium Converter image] -->
 
 Converts titanium into usable energy using special high-temperature processing that extracts all the electrons from its atoms.
 
 ### Power plant
 
-[Power plant image]
+<!-- [Power plant image] -->
 
 Using nuclear fusion to smash atoms together, the power plant is able to create energy constantly. When the energy generation capacity is full, it needs to be manually collected to be added to the Energy Wall and keep the production constant.
 
@@ -84,19 +84,19 @@ Using nuclear fusion to smash atoms together, the power plant is able to create 
 
 ### Robot Factory
 
-[Robot Factory image]
+<!-- [Robot Factory image] -->
 
 With the state-of-the-art technology from the earth, the production of robots is very fast. The robotic arms are. made out of titanium and have sub-millimeter precision that put together every part in the perfect place. All the robots built have the same quality.
 
 ### Robot Research
 
-[Robot Research image]
+<!-- [Robot Research image] -->
 
 We brought our advanced technology that can enhance the machines even further. Research different upgrades that will make robots more adaptable to Khyron’s environment. The software update process can only be performed one at a time.
 
 ### Scrapyard
 
-[Scrapyard image]
+<!-- [Scrapyard image] -->
 
 Recovers used robot parts from the mine at a fraction of the cost. Initially, the resources are hard to find and this could improve the building rate.
 
@@ -104,19 +104,19 @@ Recovers used robot parts from the mine at a fraction of the cost. Initially, th
 
 ### Robot Storage
 
-[Robot Storage image]
+<!-- [Robot Storage image] -->
 
 Stores freshly built robots in special pods that are earthquake resistant. Pods are specially created to preserve any damage from rust and dangerous atmosphere.
 
 ### Resource Deposit
 
-[Resource Deposit image]
+<!-- [Resource Deposit image] -->
 
 Store all resources collected from mining in special containers for later use.
 
 ### Energy Wall
 
-[Energy Wall image]
+<!-- [Energy Wall image] -->
 
 Energy wall uses the latest individual battery cells technology to store enormous amounts of energy. Its modular design makes it easier to repair and maintain.
 
@@ -139,3 +139,7 @@ To gather all the resources, multiple robot types were developed to overcome the
 |                 |                        |                                                                                                                      |       |            | *Coming soon ...*                   |
 | **Support**     | **Probe**              | Discover resources in the mine and give a boost for minerals extraction to all robots.                               | 2     | 1m         | ![Probe](/img/robots/probe.png)     |
 |                 | **Engineer**           | Repairs all the robots on its radius.                                                                                | 4     | 2m         | *Coming soon ...*                   |
+
+---
+
+*Last updated: 11 DEC 2021*

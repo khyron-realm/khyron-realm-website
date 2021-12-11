@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Tokenomics
 
-:::tip Info
+:::info Info
 
 Tokenomics coming soon ...
 

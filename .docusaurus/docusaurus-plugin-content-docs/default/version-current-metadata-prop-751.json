@@ -156,13 +156,13 @@
     "gameplay/mothership": {
       "id": "gameplay/mothership",
       "title": "Mothership",
-      "description": "[Mothership image]",
+      "description": "Mothership is a two-stage ship designed to transport humans to another planets ...",
       "sidebar": "tutorialSidebar"
     },
     "gameplay/planet": {
       "id": "gameplay/planet",
       "title": "Planet",
-      "description": "Khyron planet",
+      "description": "Khyron",
       "sidebar": "tutorialSidebar"
     },
     "gameplay/spaceship": {
@@ -180,7 +180,7 @@
     "roadmap": {
       "id": "roadmap",
       "title": "Roadmap",
-      "description": "Updated 5 DEC 2021",
+      "description": "| Period                    | Period        | Feature                       | Status |",
       "sidebar": "tutorialSidebar"
     },
     "story/arrival": {

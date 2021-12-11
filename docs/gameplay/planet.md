@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Planet
 
-![Khyron planet](/img/wiki/khyron.png)
+![Khyron](/img/wiki/khyron.png)
 
 ## Technical details
 
@@ -35,3 +35,7 @@ Khyron is rich in materials that can be used for production. To build the base f
 | Silicon  | Easy to find metal, silicon is a common metal that is used in all kinds of applications, especially electronic components, and operations that don't need to resist in tough environments.                                                                                                                                                | ![Silicon](/img/resources/silicon.png)   |
 | Lithium  | It is used primarily to build lithium battery cells and powers almost all the technology in the Spaceship. The lithium cells transfer energy and regulate the voltage on all equipment. It is scattered on the planet and harder to find than Silicon.                                                                                    | ![Lithium](/img/resources/lithium.png)   |
 | Titanium | As one of the toughest metals known to humans, its extraction from the rich mountains of Khyron is a real challenge. Special tools embedded into robots are used to extract it. Plasma cutters and lasers are used to manufacture it and its main use case is in the robot body and spaceship hubs. It is the rarest metal on the planet. | ![Titanium](/img/resources/titanium.png) |
+
+---
+
+*Last updated: 11 DEC 2021*

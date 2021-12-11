@@ -12,4 +12,8 @@ The mine is mapped and split into a grid of blocks. Select the robots and deploy
 Robots are designed to be very effective, but not too durable. This was necessary to have a lower building time and cheap cost. Don’t worry if they get destroyed, its their job and recycling will eventually help to speed up the process. After they mined and extracted the resources, they send the resources back to the base and get destroyed. The mine enters then in an regenerative state and is returned to the Mothership. You do not own the rights anymore.
 What happens after we extracted the resources? You can repeat the process to gather new resources. The strong point of the planet is the very fast resource regeneration. They will recover and you can purchase the right to exploit the mine after a short time, usually a few days.
 
-[Mine slots]
+![Mine](/img/wiki/mine_blocks.png)
+
+---
+
+*Last updated: 11 DEC 2021*

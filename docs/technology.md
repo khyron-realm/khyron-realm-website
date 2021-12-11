@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Technology
 
-:::tip Info
+:::info Info
 
 Technology coming soon ...
 

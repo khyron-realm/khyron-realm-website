@@ -8,7 +8,7 @@ Investing involves significant level of risk. It's critical to conduct your own 
 
 ---
 
-:::tip Info
+:::info Info
 
 Disclaimer coming soon ...
 
