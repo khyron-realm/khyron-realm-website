@@ -10,13 +10,13 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Description",
+        "label": "ℹ️ Description",
         "href": "/docs/description",
         "docId": "description"
       },
       {
         "type": "category",
-        "label": "Story",
+        "label": "🔖 Story",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -48,7 +48,7 @@
       },
       {
         "type": "category",
-        "label": "Gameplay",
+        "label": "🎮 Gameplay",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -86,43 +86,49 @@
       },
       {
         "type": "link",
-        "label": "Roadmap",
+        "label": "🚀 Getting started",
+        "href": "/docs/getting_started",
+        "docId": "getting_started"
+      },
+      {
+        "type": "link",
+        "label": "🗺️ Roadmap",
         "href": "/docs/roadmap",
         "docId": "roadmap"
       },
       {
         "type": "link",
-        "label": "Technology",
+        "label": "💻 Technology",
         "href": "/docs/technology",
         "docId": "technology"
       },
       {
         "type": "link",
-        "label": "Tokenomics",
+        "label": "🪙 Tokenomics",
         "href": "/docs/tokenomics",
         "docId": "tokenomics"
       },
       {
         "type": "link",
-        "label": "Team",
+        "label": "👥 Team",
         "href": "/docs/team",
         "docId": "team"
       },
       {
         "type": "link",
-        "label": "Disclaimer",
+        "label": "⚠️ Disclaimer",
         "href": "/docs/disclaimer",
         "docId": "disclaimer"
       },
       {
         "type": "link",
-        "label": "Terms & Conditions",
+        "label": "✍️ Terms & Conditions",
         "href": "/docs/terms&conditions",
         "docId": "terms&conditions"
       },
       {
         "type": "link",
-        "label": "Privacy policy",
+        "label": "🛡️ Privacy policy",
         "href": "/docs/privacy_policy",
         "docId": "privacy_policy"
       }
@@ -131,13 +137,13 @@
   "docs": {
     "description": {
       "id": "description",
-      "title": "Description",
+      "title": "ℹ️ Description",
       "description": "Environment",
       "sidebar": "tutorialSidebar"
     },
     "disclaimer": {
       "id": "disclaimer",
-      "title": "Disclaimer",
+      "title": "⚠️ Disclaimer",
       "description": "Investing involves significant level of risk. It's critical to conduct your own research.",
       "sidebar": "tutorialSidebar"
     },
@@ -171,15 +177,21 @@
       "description": "Starship is a two-stage ship designed to transport cargo to another planets ...",
       "sidebar": "tutorialSidebar"
     },
+    "getting_started": {
+      "id": "getting_started",
+      "title": "🚀 Getting started",
+      "description": "Roadmap changes may occur due to the development process.",
+      "sidebar": "tutorialSidebar"
+    },
     "privacy_policy": {
       "id": "privacy_policy",
-      "title": "Privacy policy",
+      "title": "🛡️ Privacy policy",
       "description": "We respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Policy”). This Policy describes the types of information we may collect from you or that you may provide (“Personal Information”) in the “RoboChain” mobile application (“Mobile Application” or “Service”) and any of its related products and services (collectively, “Services”), and our practices for collecting, using, maintaining, protecting, and disclosing that Personal Information. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update it.",
       "sidebar": "tutorialSidebar"
     },
     "roadmap": {
       "id": "roadmap",
-      "title": "Roadmap",
+      "title": "🗺️ Roadmap",
       "description": "| Period                    | Period        | Feature                       | Status |",
       "sidebar": "tutorialSidebar"
     },
@@ -209,25 +221,25 @@
     },
     "team": {
       "id": "team",
-      "title": "Team",
+      "title": "👥 Team",
       "description": "Khyron Realm is being developed by a team of engineers and artist.",
       "sidebar": "tutorialSidebar"
     },
     "technology": {
       "id": "technology",
-      "title": "Technology",
+      "title": "💻 Technology",
       "description": "Technology coming soon ...",
       "sidebar": "tutorialSidebar"
     },
     "terms&conditions": {
       "id": "terms&conditions",
-      "title": "Terms & Conditions",
+      "title": "✍️ Terms & Conditions",
       "description": "These terms and conditions (“Agreement”) set forth the general terms and conditions of your use of the “RoboChain” mobile application (“Mobile Application” or “Service”) and any of its related products and services (collectively, “Services”). This Agreement is legally binding between you (“User”, “you” or “your”) and this Mobile Application developer (“Operator”, “we”, “us” or “our”). If you are entering into this agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this agreement, in which case the terms “User”, “you” or “your” shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this agreement, you must not accept this agreement and may not access and use the Mobile Application and Services. By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Mobile Application and Services.",
       "sidebar": "tutorialSidebar"
     },
     "tokenomics": {
       "id": "tokenomics",
-      "title": "Tokenomics",
+      "title": "🪙 Tokenomics",
       "description": "Tokenomics coming soon ...",
       "sidebar": "tutorialSidebar"
     }

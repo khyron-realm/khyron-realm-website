@@ -52,7 +52,7 @@ The inner core of the spaceship powers all the hubs. Fuelled with dark matter, i
 
 ### Pressing Machine
 
-<!-- [Pressing Machine image] -->
+![Spaceship](/img/wiki/pressing_machine.png)
 
 Using its powerful pressing machine, resources are compressed to be converted into pure energy to power anything.
 
@@ -84,7 +84,7 @@ Using nuclear fusion to smash atoms together, the power plant is able to create 
 
 ### Robot Factory
 
-<!-- [Robot Factory image] -->
+![Spaceship](/img/wiki/robot_factory.png)
 
 With the state-of-the-art technology from the earth, the production of robots is very fast. The robotic arms are. made out of titanium and have sub-millimeter precision that put together every part in the perfect place. All the robots built have the same quality.
 
@@ -104,7 +104,7 @@ Recovers used robot parts from the mine at a fraction of the cost. Initially, th
 
 ### Robot Storage
 
-<!-- [Robot Storage image] -->
+![Spaceship](/img/wiki/robot_storage.png)
 
 Stores freshly built robots in special pods that are earthquake resistant. Pods are specially created to preserve any damage from rust and dangerous atmosphere.
 

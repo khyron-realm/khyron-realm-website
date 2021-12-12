@@ -1,7 +1,7 @@
 {
   "unversionedId": "roadmap",
   "id": "roadmap",
-  "title": "Roadmap",
+  "title": "🗺️ Roadmap",
   "description": "| Period                    | Period        | Feature                       | Status |",
   "source": "@site/docs/roadmap.md",
   "sourceDirName": ".",
@@ -10,17 +10,17 @@
   "editUrl": "https://github.com/target-software/game-website/wiki/docs/roadmap.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Mines",
-    "permalink": "/docs/gameplay/mines"
+    "title": "🚀 Getting started",
+    "permalink": "/docs/getting_started"
   },
   "next": {
-    "title": "Technology",
+    "title": "💻 Technology",
     "permalink": "/docs/technology"
   }
 }

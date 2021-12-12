@@ -21,7 +21,7 @@
             {
               "unversionedId": "description",
               "id": "description",
-              "title": "Description",
+              "title": "ℹ️ Description",
               "description": "Environment",
               "source": "@site/docs/description.md",
               "sourceDirName": ".",
@@ -43,7 +43,7 @@
             {
               "unversionedId": "disclaimer",
               "id": "disclaimer",
-              "title": "Disclaimer",
+              "title": "⚠️ Disclaimer",
               "description": "Investing involves significant level of risk. It's critical to conduct your own research.",
               "source": "@site/docs/disclaimer.md",
               "sourceDirName": ".",
@@ -52,17 +52,17 @@
               "editUrl": "https://github.com/target-software/game-website/wiki/docs/disclaimer.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 8,
+              "sidebarPosition": 9,
               "frontMatter": {
-                "sidebar_position": 8
+                "sidebar_position": 9
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Team",
+                "title": "👥 Team",
                 "permalink": "/docs/team"
               },
               "next": {
-                "title": "Terms & Conditions",
+                "title": "✍️ Terms & Conditions",
                 "permalink": "/docs/terms&conditions"
               }
             },
@@ -114,8 +114,8 @@
                 "permalink": "/docs/gameplay/mothership"
               },
               "next": {
-                "title": "Roadmap",
-                "permalink": "/docs/roadmap"
+                "title": "🚀 Getting started",
+                "permalink": "/docs/getting_started"
               }
             },
             {
@@ -197,37 +197,15 @@
               }
             },
             {
-              "unversionedId": "privacy_policy",
-              "id": "privacy_policy",
-              "title": "Privacy policy",
-              "description": "We respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Policy”). This Policy describes the types of information we may collect from you or that you may provide (“Personal Information”) in the “RoboChain” mobile application (“Mobile Application” or “Service”) and any of its related products and services (collectively, “Services”), and our practices for collecting, using, maintaining, protecting, and disclosing that Personal Information. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update it.",
-              "source": "@site/docs/privacy_policy.md",
+              "unversionedId": "getting_started",
+              "id": "getting_started",
+              "title": "🚀 Getting started",
+              "description": "Roadmap changes may occur due to the development process.",
+              "source": "@site/docs/getting_started.md",
               "sourceDirName": ".",
-              "slug": "/privacy_policy",
-              "permalink": "/docs/privacy_policy",
-              "editUrl": "https://github.com/target-software/game-website/wiki/docs/privacy_policy.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 10,
-              "frontMatter": {
-                "sidebar_position": 10
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Terms & Conditions",
-                "permalink": "/docs/terms&conditions"
-              }
-            },
-            {
-              "unversionedId": "roadmap",
-              "id": "roadmap",
-              "title": "Roadmap",
-              "description": "| Period                    | Period        | Feature                       | Status |",
-              "source": "@site/docs/roadmap.md",
-              "sourceDirName": ".",
-              "slug": "/roadmap",
-              "permalink": "/docs/roadmap",
-              "editUrl": "https://github.com/target-software/game-website/wiki/docs/roadmap.md",
+              "slug": "/getting_started",
+              "permalink": "/docs/getting_started",
+              "editUrl": "https://github.com/target-software/game-website/wiki/docs/getting_started.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -240,7 +218,55 @@
                 "permalink": "/docs/gameplay/mines"
               },
               "next": {
-                "title": "Technology",
+                "title": "🗺️ Roadmap",
+                "permalink": "/docs/roadmap"
+              }
+            },
+            {
+              "unversionedId": "privacy_policy",
+              "id": "privacy_policy",
+              "title": "🛡️ Privacy policy",
+              "description": "We respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Policy”). This Policy describes the types of information we may collect from you or that you may provide (“Personal Information”) in the “RoboChain” mobile application (“Mobile Application” or “Service”) and any of its related products and services (collectively, “Services”), and our practices for collecting, using, maintaining, protecting, and disclosing that Personal Information. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update it.",
+              "source": "@site/docs/privacy_policy.md",
+              "sourceDirName": ".",
+              "slug": "/privacy_policy",
+              "permalink": "/docs/privacy_policy",
+              "editUrl": "https://github.com/target-software/game-website/wiki/docs/privacy_policy.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "✍️ Terms & Conditions",
+                "permalink": "/docs/terms&conditions"
+              }
+            },
+            {
+              "unversionedId": "roadmap",
+              "id": "roadmap",
+              "title": "🗺️ Roadmap",
+              "description": "| Period                    | Period        | Feature                       | Status |",
+              "source": "@site/docs/roadmap.md",
+              "sourceDirName": ".",
+              "slug": "/roadmap",
+              "permalink": "/docs/roadmap",
+              "editUrl": "https://github.com/target-software/game-website/wiki/docs/roadmap.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🚀 Getting started",
+                "permalink": "/docs/getting_started"
+              },
+              "next": {
+                "title": "💻 Technology",
                 "permalink": "/docs/technology"
               }
             },
@@ -288,7 +314,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Description",
+                "title": "ℹ️ Description",
                 "permalink": "/docs/description"
               },
               "next": {
@@ -351,7 +377,7 @@
             {
               "unversionedId": "team",
               "id": "team",
-              "title": "Team",
+              "title": "👥 Team",
               "description": "Khyron Realm is being developed by a team of engineers and artist.",
               "source": "@site/docs/team.md",
               "sourceDirName": ".",
@@ -360,24 +386,24 @@
               "editUrl": "https://github.com/target-software/game-website/wiki/docs/team.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 7,
+              "sidebarPosition": 8,
               "frontMatter": {
-                "sidebar_position": 7
+                "sidebar_position": 8
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tokenomics",
+                "title": "🪙 Tokenomics",
                 "permalink": "/docs/tokenomics"
               },
               "next": {
-                "title": "Disclaimer",
+                "title": "⚠️ Disclaimer",
                 "permalink": "/docs/disclaimer"
               }
             },
             {
               "unversionedId": "technology",
               "id": "technology",
-              "title": "Technology",
+              "title": "💻 Technology",
               "description": "Technology coming soon ...",
               "source": "@site/docs/technology.md",
               "sourceDirName": ".",
@@ -386,24 +412,24 @@
               "editUrl": "https://github.com/target-software/game-website/wiki/docs/technology.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Roadmap",
+                "title": "🗺️ Roadmap",
                 "permalink": "/docs/roadmap"
               },
               "next": {
-                "title": "Tokenomics",
+                "title": "🪙 Tokenomics",
                 "permalink": "/docs/tokenomics"
               }
             },
             {
               "unversionedId": "terms&conditions",
               "id": "terms&conditions",
-              "title": "Terms & Conditions",
+              "title": "✍️ Terms & Conditions",
               "description": "These terms and conditions (“Agreement”) set forth the general terms and conditions of your use of the “RoboChain” mobile application (“Mobile Application” or “Service”) and any of its related products and services (collectively, “Services”). This Agreement is legally binding between you (“User”, “you” or “your”) and this Mobile Application developer (“Operator”, “we”, “us” or “our”). If you are entering into this agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this agreement, in which case the terms “User”, “you” or “your” shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this agreement, you must not accept this agreement and may not access and use the Mobile Application and Services. By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Mobile Application and Services.",
               "source": "@site/docs/terms&conditions.md",
               "sourceDirName": ".",
@@ -412,24 +438,24 @@
               "editUrl": "https://github.com/target-software/game-website/wiki/docs/terms&conditions.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 9,
+              "sidebarPosition": 10,
               "frontMatter": {
-                "sidebar_position": 9
+                "sidebar_position": 10
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Disclaimer",
+                "title": "⚠️ Disclaimer",
                 "permalink": "/docs/disclaimer"
               },
               "next": {
-                "title": "Privacy policy",
+                "title": "🛡️ Privacy policy",
                 "permalink": "/docs/privacy_policy"
               }
             },
             {
               "unversionedId": "tokenomics",
               "id": "tokenomics",
-              "title": "Tokenomics",
+              "title": "🪙 Tokenomics",
               "description": "Tokenomics coming soon ...",
               "source": "@site/docs/tokenomics.md",
               "sourceDirName": ".",
@@ -438,17 +464,17 @@
               "editUrl": "https://github.com/target-software/game-website/wiki/docs/tokenomics.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 7,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 7
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Technology",
+                "title": "💻 Technology",
                 "permalink": "/docs/technology"
               },
               "next": {
-                "title": "Team",
+                "title": "👥 Team",
                 "permalink": "/docs/team"
               }
             }
@@ -461,7 +487,7 @@
               },
               {
                 "type": "category",
-                "label": "Story",
+                "label": "🔖 Story",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -485,7 +511,7 @@
               },
               {
                 "type": "category",
-                "label": "Gameplay",
+                "label": "🎮 Gameplay",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -510,6 +536,10 @@
                     "id": "gameplay/mines"
                   }
                 ]
+              },
+              {
+                "type": "doc",
+                "id": "getting_started"
               },
               {
                 "type": "doc",

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 ---
 
-# Team
+# 👥 Team
 
 Khyron Realm is being developed by a team of engineers and artist.
 The team consists of 7 members and is located in Iasi, Romania.

@@ -1,7 +1,7 @@
 {
   "unversionedId": "technology",
   "id": "technology",
-  "title": "Technology",
+  "title": "💻 Technology",
   "description": "Technology coming soon ...",
   "source": "@site/docs/technology.md",
   "sourceDirName": ".",
@@ -10,17 +10,17 @@
   "editUrl": "https://github.com/target-software/game-website/wiki/docs/technology.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
+  "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 5
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Roadmap",
+    "title": "🗺️ Roadmap",
     "permalink": "/docs/roadmap"
   },
   "next": {
-    "title": "Tokenomics",
+    "title": "🪙 Tokenomics",
     "permalink": "/docs/tokenomics"
   }
 }

@@ -1,14 +1,14 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 ---
 
-# Disclaimer
+# ⚠️ Disclaimer
 
 Investing involves significant level of risk. It's critical to conduct your own research.
 
 ---
 
-:::info Info
+:::info Note
 
 Disclaimer coming soon ...
 

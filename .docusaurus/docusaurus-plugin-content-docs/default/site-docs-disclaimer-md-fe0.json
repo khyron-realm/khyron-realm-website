@@ -1,7 +1,7 @@
 {
   "unversionedId": "disclaimer",
   "id": "disclaimer",
-  "title": "Disclaimer",
+  "title": "⚠️ Disclaimer",
   "description": "Investing involves significant level of risk. It's critical to conduct your own research.",
   "source": "@site/docs/disclaimer.md",
   "sourceDirName": ".",
@@ -10,17 +10,17 @@
   "editUrl": "https://github.com/target-software/game-website/wiki/docs/disclaimer.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 8,
+  "sidebarPosition": 9,
   "frontMatter": {
-    "sidebar_position": 8
+    "sidebar_position": 9
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Team",
+    "title": "👥 Team",
     "permalink": "/docs/team"
   },
   "next": {
-    "title": "Terms & Conditions",
+    "title": "✍️ Terms & Conditions",
     "permalink": "/docs/terms&conditions"
   }
 }

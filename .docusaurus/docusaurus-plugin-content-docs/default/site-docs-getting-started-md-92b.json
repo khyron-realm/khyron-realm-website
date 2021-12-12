@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting_started",
+  "id": "getting_started",
+  "title": "🚀 Getting started",
+  "description": "Roadmap changes may occur due to the development process.",
+  "source": "@site/docs/getting_started.md",
+  "sourceDirName": ".",
+  "slug": "/getting_started",
+  "permalink": "/docs/getting_started",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/getting_started.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mines",
+    "permalink": "/docs/gameplay/mines"
+  },
+  "next": {
+    "title": "🗺️ Roadmap",
+    "permalink": "/docs/roadmap"
+  }
+}

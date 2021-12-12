@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Description
+# ℹ️ Description
 
-![Environment](/img/background/background2.png)
+![Environment](/img/background/khyron_bg.jpg)
 
 :::caution Note
 

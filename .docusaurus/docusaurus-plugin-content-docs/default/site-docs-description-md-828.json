@@ -1,7 +1,7 @@
 {
   "unversionedId": "description",
   "id": "description",
-  "title": "Description",
+  "title": "ℹ️ Description",
   "description": "Environment",
   "source": "@site/docs/description.md",
   "sourceDirName": ".",

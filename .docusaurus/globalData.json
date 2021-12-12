@@ -1,11 +1,4 @@
 {
-  "docusaurus-plugin-google-gtag": {
-    "default": {
-      "trackingID": "G-7M84C2EJB5",
-      "anonymizeIP": true,
-      "id": "default"
-    }
-  },
   "docusaurus-plugin-content-docs": {
     "default": {
       "path": "/docs",
@@ -50,6 +43,11 @@
             {
               "id": "gameplay/spaceship",
               "path": "/docs/gameplay/spaceship",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting_started",
+              "path": "/docs/getting_started",
               "sidebar": "tutorialSidebar"
             },
             {

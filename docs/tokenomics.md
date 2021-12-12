@@ -1,10 +1,10 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
 
-# Tokenomics
+# 🪙 Tokenomics
 
-:::info Info
+:::info Note
 
 Tokenomics coming soon ...
 

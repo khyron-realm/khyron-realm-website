@@ -1,7 +1,7 @@
 {
   "unversionedId": "terms&conditions",
   "id": "terms&conditions",
-  "title": "Terms & Conditions",
+  "title": "✍️ Terms & Conditions",
   "description": "These terms and conditions (“Agreement”) set forth the general terms and conditions of your use of the “RoboChain” mobile application (“Mobile Application” or “Service”) and any of its related products and services (collectively, “Services”). This Agreement is legally binding between you (“User”, “you” or “your”) and this Mobile Application developer (“Operator”, “we”, “us” or “our”). If you are entering into this agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this agreement, in which case the terms “User”, “you” or “your” shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this agreement, you must not accept this agreement and may not access and use the Mobile Application and Services. By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Mobile Application and Services.",
   "source": "@site/docs/terms&conditions.md",
   "sourceDirName": ".",
@@ -10,17 +10,17 @@
   "editUrl": "https://github.com/target-software/game-website/wiki/docs/terms&conditions.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 9,
+  "sidebarPosition": 10,
   "frontMatter": {
-    "sidebar_position": 9
+    "sidebar_position": 10
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Disclaimer",
+    "title": "⚠️ Disclaimer",
     "permalink": "/docs/disclaimer"
   },
   "next": {
-    "title": "Privacy policy",
+    "title": "🛡️ Privacy policy",
     "permalink": "/docs/privacy_policy"
   }
 }

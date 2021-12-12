@@ -1,7 +1,7 @@
 {
   "unversionedId": "privacy_policy",
   "id": "privacy_policy",
-  "title": "Privacy policy",
+  "title": "🛡️ Privacy policy",
   "description": "We respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Policy”). This Policy describes the types of information we may collect from you or that you may provide (“Personal Information”) in the “RoboChain” mobile application (“Mobile Application” or “Service”) and any of its related products and services (collectively, “Services”), and our practices for collecting, using, maintaining, protecting, and disclosing that Personal Information. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update it.",
   "source": "@site/docs/privacy_policy.md",
   "sourceDirName": ".",
@@ -10,13 +10,13 @@
   "editUrl": "https://github.com/target-software/game-website/wiki/docs/privacy_policy.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 10,
+  "sidebarPosition": 11,
   "frontMatter": {
-    "sidebar_position": 10
+    "sidebar_position": 11
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Terms & Conditions",
+    "title": "✍️ Terms & Conditions",
     "permalink": "/docs/terms&conditions"
   }
 }
