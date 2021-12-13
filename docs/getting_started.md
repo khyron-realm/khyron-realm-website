@@ -2,15 +2,9 @@
 sidebar_position: 4
 ---
 
-# 🚀 Getting started
+# 🚀 Getting Started
 
-## 
 
-:::caution Note
-
-Roadmap changes may occur due to the development process.
-
-:::
 
 ---
 

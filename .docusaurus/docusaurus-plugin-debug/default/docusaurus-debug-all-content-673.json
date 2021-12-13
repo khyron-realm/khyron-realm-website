@@ -114,7 +114,7 @@
                 "permalink": "/docs/gameplay/mothership"
               },
               "next": {
-                "title": "🚀 Getting started",
+                "title": "🚀 Getting Started",
                 "permalink": "/docs/getting_started"
               }
             },
@@ -199,8 +199,8 @@
             {
               "unversionedId": "getting_started",
               "id": "getting_started",
-              "title": "🚀 Getting started",
-              "description": "Roadmap changes may occur due to the development process.",
+              "title": "🚀 Getting Started",
+              "description": "---",
               "source": "@site/docs/getting_started.md",
               "sourceDirName": ".",
               "slug": "/getting_started",
@@ -262,7 +262,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "🚀 Getting started",
+                "title": "🚀 Getting Started",
                 "permalink": "/docs/getting_started"
               },
               "next": {
@@ -392,7 +392,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "🪙 Tokenomics",
+                "title": "🏦 Tokenomics",
                 "permalink": "/docs/tokenomics"
               },
               "next": {
@@ -422,7 +422,7 @@
                 "permalink": "/docs/roadmap"
               },
               "next": {
-                "title": "🪙 Tokenomics",
+                "title": "🏦 Tokenomics",
                 "permalink": "/docs/tokenomics"
               }
             },
@@ -455,7 +455,7 @@
             {
               "unversionedId": "tokenomics",
               "id": "tokenomics",
-              "title": "🪙 Tokenomics",
+              "title": "🏦 Tokenomics",
               "description": "Tokenomics coming soon ...",
               "source": "@site/docs/tokenomics.md",
               "sourceDirName": ".",

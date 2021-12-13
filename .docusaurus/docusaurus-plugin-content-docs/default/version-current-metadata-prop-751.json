@@ -86,7 +86,7 @@
       },
       {
         "type": "link",
-        "label": "🚀 Getting started",
+        "label": "🚀 Getting Started",
         "href": "/docs/getting_started",
         "docId": "getting_started"
       },
@@ -104,7 +104,7 @@
       },
       {
         "type": "link",
-        "label": "🪙 Tokenomics",
+        "label": "🏦 Tokenomics",
         "href": "/docs/tokenomics",
         "docId": "tokenomics"
       },
@@ -179,8 +179,8 @@
     },
     "getting_started": {
       "id": "getting_started",
-      "title": "🚀 Getting started",
-      "description": "Roadmap changes may occur due to the development process.",
+      "title": "🚀 Getting Started",
+      "description": "---",
       "sidebar": "tutorialSidebar"
     },
     "privacy_policy": {
@@ -239,7 +239,7 @@
     },
     "tokenomics": {
       "id": "tokenomics",
-      "title": "🪙 Tokenomics",
+      "title": "🏦 Tokenomics",
       "description": "Tokenomics coming soon ...",
       "sidebar": "tutorialSidebar"
     }
