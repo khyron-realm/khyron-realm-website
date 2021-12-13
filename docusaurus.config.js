@@ -32,6 +32,7 @@ module.exports = {
     navbar: {
       hideOnScroll: true,
       title: "Khyron Realm",
+      style: "dark",
       logo: {
         alt: "Khyron Realm Logo",
         src: "img/logo/logo.png",
@@ -83,12 +84,12 @@ module.exports = {
             },
             {
               label: 'Play demo',
-              to: '/play',
+              to: '/docs/getting_started',
             },
           ],
         },
         {
-          title: 'Team',
+          title: 'Info',
           items: [
             {
               label: 'Blog',
@@ -122,7 +123,8 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Khyron Realm. All rights reserved.`,
+      copyright: `Copyright ©${new Date().getFullYear()} <b>Khyron Realm</b>. All rights reserved.`,
+      style: "dark"
     },
   },
   plugins: ["docusaurus-plugin-sass", "@docusaurus/plugin-ideal-image"],

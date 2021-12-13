@@ -209,6 +209,7 @@ export default {
     "navbar": {
       "hideOnScroll": true,
       "title": "Khyron Realm",
+      "style": "dark",
       "logo": {
         "alt": "Khyron Realm Logo",
         "src": "img/logo/logo.png",
@@ -264,12 +265,12 @@ export default {
             },
             {
               "label": "Play demo",
-              "to": "/play"
+              "to": "/docs/getting_started"
             }
           ]
         },
         {
-          "title": "Team",
+          "title": "Info",
           "items": [
             {
               "label": "Blog",
@@ -303,8 +304,8 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2021 Khyron Realm. All rights reserved.",
-      "style": "light"
+      "copyright": "Copyright ©2021 <b>Khyron Realm</b>. All rights reserved.",
+      "style": "dark"
     },
     "docs": {
       "versionPersistence": "localStorage"

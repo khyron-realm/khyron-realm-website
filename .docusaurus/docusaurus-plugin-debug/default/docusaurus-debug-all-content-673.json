@@ -200,7 +200,7 @@
               "unversionedId": "getting_started",
               "id": "getting_started",
               "title": "🚀 Getting Started",
-              "description": "---",
+              "description": "Play a demo version on mobile",
               "source": "@site/docs/getting_started.md",
               "sourceDirName": ".",
               "slug": "/getting_started",
@@ -731,11 +731,6 @@
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
-      },
-      {
-        "type": "jsx",
-        "permalink": "/play",
-        "source": "@site/src/pages/play.js"
       }
     ]
   },

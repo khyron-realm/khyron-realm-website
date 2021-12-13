@@ -10,11 +10,7 @@ Due to Khyron seismic activity, robots are forced to excavate a certain time ins
 
 The mining time is usually between 3 and 5 minutes.
 
-#### Environment:
-
-* Big empty holes
-* Explosive blocks
-* Hidden Lava in blocks
+![Mine](/img/wiki/mine_blocks.png)
 
 #### Mine classes:
 
@@ -36,11 +32,32 @@ The mining time is usually between 3 and 5 minutes.
 | T    | 80% Titanium                           |
 | N    | 33% lithium, 33% silicon, 33% titanium |
 
+
 #### Rarity:
 
-* low
-* medium
-* high
+| Rarity | Description                             |
+|--------|-----------------------------------------|
+| low    | There are a few resources               |
+| medium | There is a balanced number of resources |
+| high   | There are a lot resources               |
+
+#### Mine blocks
+
+| Soft blocks                                  | Hard blocks                                  |
+|----------------------------------------------|----------------------------------------------|
+| ![Soft block](/img/resources/soft_block.png) | ![Soft block](/img/resources/hard_block.png) |
+
+#### Environment:
+
+| Rarity    | Description                            |
+|-----------|----------------------------------------|
+| rare      | There are a lot resources              |
+| scattered |                                        |
+| common    | There are resources with no rare items |
+
+* Big empty holes
+* Explosive blocks
+* Hidden Lava in blocks
 
 #### Power-ups: 
 

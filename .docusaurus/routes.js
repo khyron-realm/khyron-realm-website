@@ -94,11 +94,6 @@ export default [
     exact: true
   },
   {
-    path: '/play',
-    component: ComponentCreator('/play','a0e'),
-    exact: true
-  },
-  {
     path: '/docs',
     component: ComponentCreator('/docs','19e'),
     routes: [
