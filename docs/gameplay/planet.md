@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Planet
 
-![Khyron](/img/wiki/khyron.png)
+![Khyron](/img/wiki/khyron_info.png)
 
 ## Technical details
 

@@ -45,7 +45,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog','88f'),
+    component: ComponentCreator('/blog','8f8'),
     exact: true
   },
   {
@@ -55,7 +55,7 @@ export default [
   },
   {
     path: '/blog/khyron-test-version',
-    component: ComponentCreator('/blog/khyron-test-version','6b2'),
+    component: ComponentCreator('/blog/khyron-test-version','339'),
     exact: true
   },
   {
@@ -70,17 +70,17 @@ export default [
   },
   {
     path: '/blog/tags/khyron',
-    component: ComponentCreator('/blog/tags/khyron','757'),
+    component: ComponentCreator('/blog/tags/khyron','1e1'),
     exact: true
   },
   {
     path: '/blog/tags/launch',
-    component: ComponentCreator('/blog/tags/launch','c95'),
+    component: ComponentCreator('/blog/tags/launch','40e'),
     exact: true
   },
   {
     path: '/blog/tags/test',
-    component: ComponentCreator('/blog/tags/test','286'),
+    component: ComponentCreator('/blog/tags/test','bcb'),
     exact: true
   },
   {

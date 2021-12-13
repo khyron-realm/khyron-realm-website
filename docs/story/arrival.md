@@ -22,7 +22,7 @@ On the way to their target, our fleets were hit by a solar storm that damaged th
 High speeds, a lot of heat and barely surviving. The fleets are goings through the maximum pressure allowed. Counting seconds until the touchdown. A clever solution for landing uses backup engines. Multiple landing burns will be used for slowing the entry speed.
 Crash. A lot of crashes and sounds you’ll only hear if you are present on a battle field. This is not a war. More like a controlled crash. All the onboard computers are resetting to recover from the crash. The Mothership arrived almost undamaged on the inside, but the exterior has seen better days. One at a time, it receives confirmation messages from all its fleets with their status. Almost all the ship are stable, but have damage to their modules. The core hubs on the ships are active, but the other ones need repairs.
 
-![Khyron planet](/img/wiki/khyron_info.png)
+![Khyron planet](/img/wiki/khyron_crash_zone.png)
 
 ### Mission
 

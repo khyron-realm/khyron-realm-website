@@ -26,17 +26,15 @@ ___
 ### Andrei PECHEANU
 *Blockchain developer*
 
-
 ### Ioan SUFLET
 *Web developer*
-
 
 ___
 
 ## Design
 
 ### Tudor STOIAN
-*Concept artist*
+*Game artist*
 
 ### Ana POPESCU
 *Concept artist*

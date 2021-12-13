@@ -192,7 +192,7 @@
     "roadmap": {
       "id": "roadmap",
       "title": "🗺️ Roadmap",
-      "description": "| Period                    | Period        | Feature                       | Status |",
+      "description": "Roadmap changes may occur due to the development process.",
       "sidebar": "tutorialSidebar"
     },
     "story/arrival": {
@@ -228,7 +228,7 @@
     "technology": {
       "id": "technology",
       "title": "💻 Technology",
-      "description": "Technology coming soon ...",
+      "description": "Game Engine",
       "sidebar": "tutorialSidebar"
     },
     "terms&conditions": {

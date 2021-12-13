@@ -4,6 +4,12 @@ sidebar_position: 5
 
 # 🗺️ Roadmap
 
+:::caution Note
+
+Roadmap changes may occur due to the development process.
+
+:::
+
 | Period                    | Period        | Feature                       | Status |
 |---------------------------|---------------|-------------------------------|--------|
 | [Phase 1]  **Concept**    | Q4 2021       | Idea                          | ✔️     |
@@ -24,13 +30,6 @@ sidebar_position: 5
 |                           |               |                               |        |
 | [Phase 6] **Platform**    | *Coming soon* |                               |        |
 |                           |               |                               |        |
-
-
-:::caution Note
-
-Roadmap changes may occur due to the development process.
-
-:::
 
 ---
 
