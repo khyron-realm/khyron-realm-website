@@ -337,7 +337,7 @@ export default {
           "customCss": "/Users/alex_grigoras/Documents/GitHub/game-website/src/css/custom.scss"
         },
         "gtag": {
-          "trackingID": "G-7M84C2EJB5",
+          "trackingID": "G-FPP6QP6WWS",
           "anonymizeIP": true
         }
       }

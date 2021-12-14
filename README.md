@@ -21,7 +21,6 @@
 </p>
 
 
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -53,9 +52,10 @@ Khyron Realm presentation website
 
 ### Built With
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using:
 
-* [Unity](https://unity.com/)
+* [Docusaurus 2](https://docusaurus.io/): a modern static website generator.
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
