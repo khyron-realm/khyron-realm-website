@@ -1,0 +1,26 @@
+{
+  "unversionedId": "credits",
+  "id": "credits",
+  "title": "💡 Credits",
+  "description": "Credits coming soon ...",
+  "source": "@site/docs/credits.md",
+  "sourceDirName": ".",
+  "slug": "/credits",
+  "permalink": "/docs/credits",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/credits.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👥 Team",
+    "permalink": "/docs/team"
+  },
+  "next": {
+    "title": "⚠️ Disclaimer",
+    "permalink": "/docs/disclaimer"
+  }
+}

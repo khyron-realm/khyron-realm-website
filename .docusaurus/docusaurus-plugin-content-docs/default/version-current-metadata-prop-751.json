@@ -116,6 +116,12 @@
       },
       {
         "type": "link",
+        "label": "💡 Credits",
+        "href": "/docs/credits",
+        "docId": "credits"
+      },
+      {
+        "type": "link",
         "label": "⚠️ Disclaimer",
         "href": "/docs/disclaimer",
         "docId": "disclaimer"
@@ -135,6 +141,12 @@
     ]
   },
   "docs": {
+    "credits": {
+      "id": "credits",
+      "title": "💡 Credits",
+      "description": "Credits coming soon ...",
+      "sidebar": "tutorialSidebar"
+    },
     "description": {
       "id": "description",
       "title": "ℹ️ Description",

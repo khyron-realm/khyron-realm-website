@@ -14,7 +14,7 @@ Please keep in mind that the game is still in production, thus all details are s
 
 ---
 
-## Khyron Realm
+## Introduction
 
 Welcome to the *Khyron Realm*, a beautiful Earth-like planet that has the possibility of becoming the next home for humanity. 
 

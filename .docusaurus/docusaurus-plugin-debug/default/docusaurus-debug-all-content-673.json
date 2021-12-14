@@ -19,6 +19,32 @@
           "contentPathLocalized": "/Users/alex_grigoras/Documents/GitHub/game-website/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "credits",
+              "id": "credits",
+              "title": "💡 Credits",
+              "description": "Credits coming soon ...",
+              "source": "@site/docs/credits.md",
+              "sourceDirName": ".",
+              "slug": "/credits",
+              "permalink": "/docs/credits",
+              "editUrl": "https://github.com/target-software/game-website/wiki/docs/credits.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "👥 Team",
+                "permalink": "/docs/team"
+              },
+              "next": {
+                "title": "⚠️ Disclaimer",
+                "permalink": "/docs/disclaimer"
+              }
+            },
+            {
               "unversionedId": "description",
               "id": "description",
               "title": "ℹ️ Description",
@@ -58,8 +84,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "👥 Team",
-                "permalink": "/docs/team"
+                "title": "💡 Credits",
+                "permalink": "/docs/credits"
               },
               "next": {
                 "title": "✍️ Terms & Conditions",
@@ -396,8 +422,8 @@
                 "permalink": "/docs/tokenomics"
               },
               "next": {
-                "title": "⚠️ Disclaimer",
-                "permalink": "/docs/disclaimer"
+                "title": "💡 Credits",
+                "permalink": "/docs/credits"
               }
             },
             {
@@ -556,6 +582,10 @@
               {
                 "type": "doc",
                 "id": "team"
+              },
+              {
+                "type": "doc",
+                "id": "credits"
               },
               {
                 "type": "doc",
