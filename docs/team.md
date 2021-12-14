@@ -11,12 +11,12 @@ ___
 ## Development
 
 ### Alexandru GRIGORAS
-*Game producer*
+*Co-founder, Game producer*
 
 [Website](https://alexgrigoras.github.io/portfolio/) | [Linkedin](https://www.linkedin.com/in/alexandrugrigoras/) | [Twitter](https://twitter.com/alexandru_grigo) | [GitHub](https://github.com/alexgrigoras)
 
 ### Serban CHISCA
-*Game designer*
+*Co-founder, Game designer*
 
 [Reddit](https://www.reddit.com/user/serban1313) | [GitHub](https://github.com/sergane13)
 
@@ -34,7 +34,7 @@ ___
 ## Design
 
 ### Tudor STOIAN
-*Game artist*
+*Co-founder, Game artist*
 
 ### Ana POPESCU
 *Concept artist*

@@ -32,13 +32,13 @@ The mining time is usually between 3 and 5 minutes.
 | T    | 80% Titanium                           |
 | N    | 33% lithium, 33% silicon, 33% titanium |
 
-#### Rarity
+#### Resource distribution
 
 | Rarity    | Description                             |
 |-----------|-----------------------------------------|
-| common    | There are a few resources               |
+| rare      | There are a few resources               |
 | scattered | There is a balanced number of resources |
-| rare      | There are a lot resources               |
+| common    | There are a lot resources               |
 
 #### Mine blocks
 
