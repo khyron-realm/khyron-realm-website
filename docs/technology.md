@@ -4,6 +4,10 @@ sidebar_position: 6
 
 # 💻 Technology
 
+## Graphics
+
+We used 2d flat style graphics for the game. The theme is colorful and is suitable for everyone.
+
 ## Game Engine
 
 The game is built using the Unity Engine. It is written in C# programming language. 
