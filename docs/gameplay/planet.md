@@ -27,7 +27,7 @@ sidebar_position: 2
 
 ## Resources
 
-Khyron is rich in materials that can be used for production. To build the base for the humans, we selected three main materials that will be used in all the operations. 
+**Khyron** is rich in materials that can be used for production. To build the base for the humans, we selected three main materials that will be used in all the operations. 
 
 | Name     | Description                                                                                                                                                                                                                                                                                                                               | Image                                    |
 |----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|

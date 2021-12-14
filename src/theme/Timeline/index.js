@@ -39,7 +39,7 @@ function TimelineData() {
                 <h3 className="vertical-timeline-element-title">2 - Development</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
-
+                    <i>Coming soon ...</i>
                 </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
@@ -53,7 +53,7 @@ function TimelineData() {
                 <h3 className="vertical-timeline-element-title">3 - Testing</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
-
+                    <i>Coming soon ...</i>
                 </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
@@ -67,6 +67,7 @@ function TimelineData() {
                 <h3 className="vertical-timeline-element-title">4 - Launch</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
+                    <i>Coming soon ...</i>
                 </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
@@ -80,6 +81,7 @@ function TimelineData() {
                 <h3 className="vertical-timeline-element-title">5 - Expansion</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
+                    <i>Coming soon ...</i>
                 </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
@@ -93,6 +95,7 @@ function TimelineData() {
                 <h3 className="vertical-timeline-element-title">6 - Platform</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
+                    <i>Coming soon ...</i>
                 </p>
             </VerticalTimelineElement>
         </VerticalTimeline>
