@@ -17,12 +17,15 @@ function TimelineData() {
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)', badge: 'rgb(48, 56, 70)' }}
                 icon={<img src="/img/icons/concept_icon.png"  alt="img"/>}
             >
-                <h3 className="vertical-timeline-element-title">Phase 1</h3>
+                <h3 className="vertical-timeline-element-title">1 - Concept</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <ul>
-                    <li>Creating the initial concept of the game</li>
-                    <li>Launching a first test version to gather feedback</li>
+                    <li>Idea</li>
+                    <li>Initial concept</li>
+                    <li>Test App Development</li>
+                    <li>Alpha Test Version Mobile App</li>
                     <li>Creating the community</li>
+                    <li>Finishing the game concept</li>
                 </ul>
             </VerticalTimelineElement>
             <VerticalTimelineElement
@@ -33,7 +36,7 @@ function TimelineData() {
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
                 icon={<img src="/img/icons/testing_icon.png"  alt="img"/>}
             >
-                <h3 className="vertical-timeline-element-title">Phase 2</h3>
+                <h3 className="vertical-timeline-element-title">2 - Development</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
 
@@ -45,9 +48,9 @@ function TimelineData() {
                 contentArrowStyle={isDarkTheme ? { borderRight: '7px solid rgb(48, 56, 70)' } : { borderRight: '7px solid rgb(242, 246, 250)' }}
                 date="Q2 - 2022"
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
-                icon={<img src="/img/icons/crypto_icon.png"  alt="img"/>}
+                icon={<img src="/img/icons/development_icon.png"  alt="img"/>}
             >
-                <h3 className="vertical-timeline-element-title">Phase 3</h3>
+                <h3 className="vertical-timeline-element-title">3 - Testing</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
 
@@ -59,9 +62,9 @@ function TimelineData() {
                 contentArrowStyle={isDarkTheme ? { borderRight: '7px solid rgb(48, 56, 70)' } : { borderRight: '7px solid rgb(242, 246, 250)' }}
                 date="Q3 - 2022"
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
-                icon={<img src="/img/icons/crypto_icon.png"  alt="img"/>}
+                icon={<img src="/img/icons/launch_icon.png"  alt="img"/>}
             >
-                <h3 className="vertical-timeline-element-title">Phase 4</h3>
+                <h3 className="vertical-timeline-element-title">4 - Launch</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
                 </p>
@@ -72,9 +75,22 @@ function TimelineData() {
                 contentArrowStyle={isDarkTheme ? { borderRight: '7px solid rgb(48, 56, 70)' } : { borderRight: '7px solid rgb(242, 246, 250)' }}
                 date="Q4 - 2022"
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
-                icon={<img src="/img/icons/crypto_icon.png"  alt="img"/>}
+                icon={<img src="/img/icons/expansion_icon.png"  alt="img"/>}
             >
-                <h3 className="vertical-timeline-element-title">Phase 5</h3>
+                <h3 className="vertical-timeline-element-title">5 - Expansion</h3>
+                <h4 className="vertical-timeline-element-subtitle"> </h4>
+                <p>
+                </p>
+            </VerticalTimelineElement>
+            <VerticalTimelineElement
+                className="vertical-timeline-element--work"
+                contentStyle={isDarkTheme ? { background: 'rgb(48, 56, 70)', color: 'white' } : { background: 'rgb(242, 246, 250)', color: 'rgb(28, 30, 33)' }}
+                contentArrowStyle={isDarkTheme ? { borderRight: '7px solid rgb(48, 56, 70)' } : { borderRight: '7px solid rgb(242, 246, 250)' }}
+                date="Q4 - 2022"
+                iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
+                icon={<img src="/img/icons/platform_icon.png"  alt="img"/>}
+            >
+                <h3 className="vertical-timeline-element-title">6 - Platform</h3>
                 <h4 className="vertical-timeline-element-subtitle"> </h4>
                 <p>
                 </p>

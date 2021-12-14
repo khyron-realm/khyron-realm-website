@@ -64,3 +64,7 @@ Hidden chests in the mine are located behind the blocks and the user has to doub
 #### Assigned mine
 
 Have a default assigned mine that generates a few resources every 24h.
+
+---
+
+*Last updated: 14 DEC 2021*

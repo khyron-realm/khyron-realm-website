@@ -9,6 +9,7 @@ sidebar_position: 1
 :::caution Note
 
 Please keep in mind that the game is still in production, thus all details are subject to change.
+More details will be added soon.
 
 :::
 
@@ -47,4 +48,4 @@ We need to simplify the process for users to get rewarded financially for their 
 
 ---
 
-*Last updated: 11 DEC 2021*
+*Last updated: 14 DEC 2021*

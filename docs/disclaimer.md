@@ -10,6 +10,10 @@ Investing involves significant level of risk. It's critical to conduct your own 
 
 :::info Note
 
-Disclaimer coming soon ...
+More details coming soon ...
 
 :::
+
+---
+
+*Last updated: 14 DEC 2021*

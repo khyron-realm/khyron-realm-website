@@ -291,11 +291,11 @@ export default {
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/robo_chain"
+              "href": "https://twitter.com/khyronrealm"
             },
             {
               "label": "LinkedIn",
-              "href": "https://linkedin.com/"
+              "href": "https://www.linkedin.com/company/khyron-realm"
             },
             {
               "label": "YouTube",

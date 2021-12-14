@@ -25,4 +25,4 @@ The Android game is in *Internal testing* and needs a Gmail Account. Join Discor
 
 ---
 
-*Last updated: 11 DEC 2021*
+*Last updated: 14 DEC 2021*

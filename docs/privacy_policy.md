@@ -95,4 +95,6 @@ khyron.realm@gmail.com
 
 We will attempt to resolve complaints and disputes and make every reasonable effort to honor your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by applicable data protection laws.
 
-*This document was last updated on November 30, 2021*
+---
+
+*Last updated: 14 DEC 2021*

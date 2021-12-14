@@ -27,3 +27,7 @@ The backend is hosted on Google Cloud. It uses Virtual Machines for running mult
 Blockchain integration coming soon ...
 
 :::
+
+---
+
+*Last updated: 14 DEC 2021*

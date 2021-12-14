@@ -38,3 +38,8 @@ ___
 
 ### Ana POPESCU
 *Concept artist*
+
+
+---
+
+*Last updated: 14 DEC 2021*

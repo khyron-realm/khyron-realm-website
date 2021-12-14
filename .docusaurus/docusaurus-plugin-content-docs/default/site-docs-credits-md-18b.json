@@ -2,7 +2,7 @@
   "unversionedId": "credits",
   "id": "credits",
   "title": "💡 Credits",
-  "description": "Credits coming soon ...",
+  "description": "A great inspiration for the graphics came from Kurzgesagt and other YouTube creators.",
   "source": "@site/docs/credits.md",
   "sourceDirName": ".",
   "slug": "/credits",

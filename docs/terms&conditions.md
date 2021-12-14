@@ -46,4 +46,6 @@ If you have any questions, concerns, or complaints regarding this Agreement, we 
 
 khyron.realm@gmail.com
 
-*This document was last updated on November 30, 2021*
+---
+
+*Last updated: 14 DEC 2021*

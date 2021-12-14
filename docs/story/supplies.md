@@ -16,4 +16,4 @@ What happens after we extracted the resources? You can repeat the process to gat
 
 ---
 
-*Last updated: 11 DEC 2021*
+*Last updated: 14 DEC 2021*
