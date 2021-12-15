@@ -16,5 +16,5 @@ The game is in early development and data persistence is not guaranteed.
 
 #### iOS: https://testflight.apple.com/join/K4Yyhzjk
 
-#### Android: https://play.google.com/apps/internaltest/4700888865694045512
+#### Android: https://play.google.com/store/apps/details?id=com.UnlimitedStudios.RoboChain
 (GMail needed for approval)
