@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # ⚠️ Disclaimer
 
-Investing involves significant level of risk. It's critical to conduct your own research.
+Investing involves a significant level of risk. It's critical to conduct your research.
 
 ---
 

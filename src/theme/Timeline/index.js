@@ -88,7 +88,7 @@ function TimelineData() {
                 className="vertical-timeline-element--work"
                 contentStyle={isDarkTheme ? { background: 'rgb(48, 56, 70)', color: 'white' } : { background: 'rgb(242, 246, 250)', color: 'rgb(28, 30, 33)' }}
                 contentArrowStyle={isDarkTheme ? { borderRight: '7px solid rgb(48, 56, 70)' } : { borderRight: '7px solid rgb(242, 246, 250)' }}
-                date="Q4 - 2022"
+                date="Q1 - 2023"
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
                 icon={<img src="/img/icons/platform_icon.png"  alt="img"/>}
             >

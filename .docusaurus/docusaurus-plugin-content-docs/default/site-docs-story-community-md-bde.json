@@ -2,7 +2,7 @@
   "unversionedId": "story/community",
   "id": "story/community",
   "title": "Community",
-  "description": "Collaboration increases the chances of building the equipments on the planet in the designated timeframe.",
+  "description": "Collaboration increases the chances of building the equipment on the planet in the designated timeframe.",
   "source": "@site/docs/story/community.md",
   "sourceDirName": "story",
   "slug": "/story/community",

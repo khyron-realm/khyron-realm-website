@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Spaceship
 
-**Starship** is a two-stage ship designed to transport cargo to another planets ...
+**Starship** is a two-stage ship designed to transport cargo to another planet.
 
 ![Spaceship](/img/wiki/spaceship_exterior.png)
 
@@ -35,10 +35,10 @@ sidebar_position: 3
 
 ## Core Modules
 
-The **Spaceship** has a modular interior with **32 hubs**. Some modules are available initially, while the others are damages and need to be repaired to be functional. 
-Research technology developed by experts from Earth allow to upgrade the software and hardware of the hubs to the **level 10**, offering incremental improvements.
+The **Spaceship** has a modular interior with **32 hubs**. Some modules are available initially, while the others are damaged and need to be repaired to be functional. 
+Research technology developed by experts from Earth allows upgrading the software and hardware of the hubs to the maximum **level 10**, offering incremental improvements.
 To upgrade the core of the ship, the user needs to unlock all the available floors for the current level of the core. 
-The process can be done only one at a time, because is dependent on the core.
+The process can be done only one at a time because is dependent on the core.
 
 ![Spaceship](/img/wiki/spaceship_interior.png)
 
@@ -46,7 +46,10 @@ The process can be done only one at a time, because is dependent on the core.
 
 <!-- [Inner Core image] -->
 
-The inner core of the spaceship powers all the hubs. Fuelled with dark matter, it can sustain the fusion reaction for a million years. Its outer shell is made out of reinforced titanium to be protected from the environment. Due to the Khyron seismic activity, we will need to execute a diagnosis procedure on the inner core once at a few days to repair eventual damages or errors.
+The inner core of the spaceship powers all the hubs. 
+Fuelled with dark matter, it can sustain the fusion reaction for a million years. 
+Its outer shell is made out of reinforced titanium to be protected from the environment. 
+Due to the Khyron seismic activity, we will need to execute a diagnosis procedure on the inner core once in a few days to repair eventual damages or errors.
 
 ## Generator Modules
 
@@ -78,7 +81,7 @@ Converts titanium into usable energy using special high-temperature processing t
 
 <!-- [Power plant image] -->
 
-Using nuclear fusion to smash atoms together, the power plant is able to create energy constantly. When the energy generation capacity is full, it needs to be manually collected to be added to the Energy Wall and keep the production constant.
+Using nuclear fusion to smash atoms together, the power plant can create energy constantly. When the energy generation capacity is full, it needs to be manually collected to be added to the Energy Wall and keep the production constant.
 
 ## Machine Modules
 
@@ -124,7 +127,7 @@ Energy wall uses the latest individual battery cells technology to store enormou
 
 ## Robots
 
-To gather all the resources, multiple robot types were developed to overcome the environment obstacles.
+To gather all the resources, multiple robot types were developed to overcome the environmental obstacles.
 
 | Class           | Name                   | Description                                                                                                          | Space | Build time | Image                               |
 |-----------------|------------------------|----------------------------------------------------------------------------------------------------------------------|-------|------------|-------------------------------------|

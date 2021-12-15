@@ -21,7 +21,7 @@ const data = [
     title: <>Earn</>,
     image: "/img/description/earn.png",
     description: (
-      <>Receive rewards in crypto tokens for the in-game progress and invest into collectibles</>
+      <>Receive rewards in crypto tokens for the in-game progress and invest in collectibles</>
     ),
   },
 ];

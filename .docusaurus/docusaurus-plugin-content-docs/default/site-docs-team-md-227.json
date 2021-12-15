@@ -2,7 +2,7 @@
   "unversionedId": "team",
   "id": "team",
   "title": "👥 Team",
-  "description": "Khyron Realm is being developed by a team of engineers and artist.",
+  "description": "Khyron Realm is being developed by a team of engineers and artists.",
   "source": "@site/docs/team.md",
   "sourceDirName": ".",
   "slug": "/team",

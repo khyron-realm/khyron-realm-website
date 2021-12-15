@@ -38,7 +38,7 @@ The mining time is usually between 3 and 5 minutes.
 |-----------|-----------------------------------------|
 | rare      | There are a few resources               |
 | scattered | There is a balanced number of resources |
-| common    | There are a lot resources               |
+| common    | There are a lot of resources            |
 
 #### Mine blocks
 

@@ -2,7 +2,7 @@
   "unversionedId": "gameplay/spaceship",
   "id": "gameplay/spaceship",
   "title": "Spaceship",
-  "description": "Starship is a two-stage ship designed to transport cargo to another planets ...",
+  "description": "Starship is a two-stage ship designed to transport cargo to another planet.",
   "source": "@site/docs/gameplay/spaceship.md",
   "sourceDirName": "gameplay",
   "slug": "/gameplay/spaceship",

@@ -10,7 +10,7 @@ We used 2d flat style graphics for the game. The theme is colorful and is suitab
 
 ## Game Engine
 
-The game is built using the Unity Engine. It is written in C# programming language. 
+The game is built using the Unity Engine. It is written in the C# programming language. 
 
 ![Unity logo](/img/icons/unity.png)
 

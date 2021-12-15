@@ -4,12 +4,12 @@ sidebar_position: 2
 
 # Arrival
 
-Looking at all the ships travelling to their destinations, you’ll se how well the fleets are organised. The main ship, located in the middle, is the **Mothership**. It is the commander of the fleets and supervises all the operations. On the outside, organised in concentric circles, are the **Starships**, which are protecting the commander from space debris.
+Looking at all the ships traveling to their destinations, you’ll see how well the fleets are organized. The main ship, located in the middle, is the **Mothership**. It is the commander of the fleets and supervises all the operations. On the outside, organized in concentric circles, are the **Starships**, which are protecting the commander from space debris.
 
 <!-- [Fleets travelling through the Universe image] -->
 
-Each fleet has a designated landing zone and contains multiple **Starships**. They are two stage ships designed for intergalactic travel. The construction was possible with the rise of the rocket companies and the investments from people that believed in a better future. With modular interiors, there are multiple hubs for each manufacturing process needed.
-**Mothership** is made tougher to ensure the safe arrival on the planet. Contains more corridors and a few hubs to allow the meeting of the fleets on the planet. With special communication modules, it will send report messages to Earth, which will be analysed to determine the status of the planet.
+Each fleet has a designated landing zone and contains multiple **Starships**. They are two-stage ships designed for intergalactic travel. The construction was possible with the rise of the rocket companies and the investments from people that believed in a better future. With modular interiors, there are multiple hubs for each manufacturing process needed.
+**Mothership** is made tougher to ensure a safe arrival on the planet. Contains more corridors and a few hubs to allow the meeting of the fleets on the planet. With special communication modules, it will send report messages to Earth, which will be analyzed to determine the status of the planet.
 
 ### The unexpected
 
@@ -19,8 +19,8 @@ On the way to their target, our fleets were hit by a solar storm that damaged th
 
 ### The confirmation
 
-High speeds, a lot of heat and barely surviving. The fleets are goings through the maximum pressure allowed. Counting seconds until the touchdown. A clever solution for landing uses backup engines. Multiple landing burns will be used for slowing the entry speed.
-Crash. A lot of crashes and sounds you’ll only hear if you are present on a battle field. This is not a war. More like a controlled crash. All the onboard computers are resetting to recover from the crash. The Mothership arrived almost undamaged on the inside, but the exterior has seen better days. One at a time, it receives confirmation messages from all its fleets with their status. Almost all the ship are stable, but have damage to their modules. The core hubs on the ships are active, but the other ones need repairs.
+High speeds, a lot of heat, and barely surviving. The fleets are goings through the maximum pressure allowed. Counting seconds until the touchdown. A clever solution for landing uses backup engines. Multiple landing burns will be used for slowing the entry speed.
+Crash. A lot of crashes and sounds you’ll only hear if you are present on a battlefield. This is not a war. More like a controlled crash. All the onboard computers are resetting to recover from the crash. The Mothership arrived almost undamaged on the inside, but the exterior has seen better days. One at a time, it receives confirmation messages from all its fleets with their status. Almost all the ships are stable but have damage to their modules. The core hubs on the ships are active, but the other ones need repairs.
 
 ![Khyron planet](/img/wiki/khyron_crash_zone.png)
 

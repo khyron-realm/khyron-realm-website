@@ -2,7 +2,7 @@
   "unversionedId": "disclaimer",
   "id": "disclaimer",
   "title": "⚠️ Disclaimer",
-  "description": "Investing involves significant level of risk. It's critical to conduct your own research.",
+  "description": "Investing involves a significant level of risk. It's critical to conduct your research.",
   "source": "@site/docs/disclaimer.md",
   "sourceDirName": ".",
   "slug": "/disclaimer",

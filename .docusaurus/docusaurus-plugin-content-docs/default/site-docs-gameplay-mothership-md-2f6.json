@@ -2,7 +2,7 @@
   "unversionedId": "gameplay/mothership",
   "id": "gameplay/mothership",
   "title": "Mothership",
-  "description": "Mothership is a two-stage ship designed to transport humans to another planets ...",
+  "description": "Mothership is a two-stage ship designed to transport humans to another planet.",
   "source": "@site/docs/gameplay/mothership.md",
   "sourceDirName": "gameplay",
   "slug": "/gameplay/mothership",
