@@ -1,169 +1,191 @@
 {
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
   "/about-239": {
-    "component": "7792a21f",
-    "config": "5e9f5e1a"
+    "component": "component---site-src-pages-about-js-779-319",
+    "config": "config---about-5-e-9-bcb"
   },
   "/blog-8f8": {
-    "component": "a6aa9e1f",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "577847e2"
+        "content": "content---blog-577-4a6"
       },
       {
-        "content": "2c44f060"
+        "content": "content---blog-2-c-4-80a"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "metadata---blogb-2-b-df1"
   },
   "/blog/archive-f4c": {
-    "component": "9e4087bc",
-    "archive": "b2f554cd"
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---blog-archiveb-2-f-393"
   },
   "/blog/khyron-test-version-339": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "273abc0c"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-khyron-test-version-273-e0d"
   },
   "/blog/tags-e13": {
-    "component": "01a85c17",
-    "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
   },
   "/blog/tags/hello-c54": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "2c44f060"
+        "content": "content---blog-2-c-4-80a"
       }
     ],
-    "metadata": "30a24c52"
+    "metadata": "metadata---blog-tags-hello-30-a-bed"
   },
   "/blog/tags/khyron-1e1": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "577847e2"
+        "content": "content---blog-577-4a6"
       },
       {
-        "content": "2c44f060"
+        "content": "content---blog-2-c-4-80a"
       }
     ],
-    "metadata": "b150d78e"
+    "metadata": "metadata---blog-tags-khyronb-15-d0b"
   },
   "/blog/tags/launch-40e": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "577847e2"
+        "content": "content---blog-577-4a6"
       }
     ],
-    "metadata": "022d1785"
+    "metadata": "metadata---blog-tags-launch-022-c4a"
   },
   "/blog/tags/test-bcb": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "577847e2"
+        "content": "content---blog-577-4a6"
       }
     ],
-    "metadata": "36a290cd"
+    "metadata": "metadata---blog-tags-test-36-a-30f"
   },
   "/blog/welcome-3cb": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "420ab454"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcome-420-458"
   },
   "/contact-244": {
-    "component": "83e9e333",
-    "config": "5e9f5e1a"
+    "component": "component---site-src-pages-contact-js-83-e-320",
+    "config": "config---about-5-e-9-bcb"
   },
   "/docs-9ee": {
-    "component": "1be78505",
-    "versionMetadata": "935f2afb"
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
   },
   "/docs/credits-01c": {
-    "component": "17896441",
-    "content": "18ba09e8"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-credits-18-b-aaf"
   },
   "/docs/description-352": {
-    "component": "17896441",
-    "content": "82827712"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-description-828-19e"
   },
   "/docs/disclaimer-7ad": {
-    "component": "17896441",
-    "content": "fe0242b1"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-disclaimerfe-0-b76"
   },
   "/docs/gameplay/game-c46": {
-    "component": "17896441",
-    "content": "e5319af5"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-gamee-53-1b9"
   },
   "/docs/gameplay/mines-4f4": {
-    "component": "17896441",
-    "content": "6d5f1251"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-mines-6-d-5-726"
   },
   "/docs/gameplay/mothership-2ad": {
-    "component": "17896441",
-    "content": "2f643be4"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-mothership-2-f-6-9ce"
   },
   "/docs/gameplay/planet-58a": {
-    "component": "17896441",
-    "content": "c0a9d37e"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-planetc-0-a-921"
   },
   "/docs/gameplay/spaceship-b25": {
-    "component": "17896441",
-    "content": "aceeefcc"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-spaceshipace-aca"
   },
   "/docs/getting_started-fdc": {
-    "component": "17896441",
-    "content": "92bb876c"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-92-b-042"
   },
   "/docs/privacy_policy-039": {
-    "component": "17896441",
-    "content": "cfc63492"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-privacy-policycfc-f1b"
   },
   "/docs/roadmap-7ea": {
-    "component": "17896441",
-    "content": "0dffb83e"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-roadmap-0-df-a69"
   },
   "/docs/story/arrival-12c": {
-    "component": "17896441",
-    "content": "0f62993d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-story-arrival-0-f-6-4b2"
   },
   "/docs/story/beginning-e67": {
-    "component": "17896441",
-    "content": "1a97d4ef"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-story-beginning-1-a-9-19e"
   },
   "/docs/story/community-24a": {
-    "component": "17896441",
-    "content": "bde4859d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-story-communitybde-45d"
   },
   "/docs/story/supplies-a1a": {
-    "component": "17896441",
-    "content": "fac333ad"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-story-suppliesfac-aad"
   },
   "/docs/team-e04": {
-    "component": "17896441",
-    "content": "2275ea3b"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-team-227-738"
   },
   "/docs/technology-57f": {
-    "component": "17896441",
-    "content": "75e96fb0"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-technology-75-e-b87"
   },
   "/docs/terms&conditions-f5f": {
-    "component": "17896441",
-    "content": "f4596580"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-terms-conditionsf-45-c09"
   },
   "/docs/tokenomics-110": {
-    "component": "17896441",
-    "content": "5ae84af0"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tokenomics-5-ae-0fd"
   },
   "/-deb": {
-    "component": "c4f5d8e4",
-    "config": "5e9f5e1a"
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---about-5-e-9-bcb"
   }
 }
