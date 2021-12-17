@@ -1,4 +1,11 @@
 {
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": "G-FPP6QP6WWS",
+      "anonymizeIP": true,
+      "id": "default"
+    }
+  },
   "docusaurus-plugin-content-docs": {
     "default": {
       "path": "/docs",
@@ -10,11 +17,6 @@
           "path": "/docs",
           "mainDocId": "description",
           "docs": [
-            {
-              "id": "credits",
-              "path": "/docs/credits",
-              "sidebar": "tutorialSidebar"
-            },
             {
               "id": "description",
               "path": "/docs/description",
