@@ -104,7 +104,7 @@
     "component": "component---site-src-pages-contact-js-83-e-320",
     "config": "config---about-5-e-9-bcb"
   },
-  "/docs-9a9": {
+  "/docs-62c": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -115,6 +115,26 @@
   "/docs/disclaimer-7ad": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-disclaimerfe-0-b76"
+  },
+  "/docs/gamefi/events-59b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gamefi-eventscc-0-8f7"
+  },
+  "/docs/gamefi/nft_accounts-ad6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gamefi-nft-accountsd-81-7c9"
+  },
+  "/docs/gamefi/nft_characters-7ab": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gamefi-nft-characters-464-56d"
+  },
+  "/docs/gamefi/nft_renting-97a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gamefi-nft-renting-2-bb-b26"
+  },
+  "/docs/gamefi/voting_system-0d7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gamefi-voting-system-432-aec"
   },
   "/docs/gameplay/game-c46": {
     "component": "component---theme-doc-item-178-a40",
@@ -139,10 +159,6 @@
   "/docs/getting_started-fdc": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-getting-started-92-b-042"
-  },
-  "/docs/nfts-ca8": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-nftsaf-9-446"
   },
   "/docs/privacy_policy-039": {
     "component": "component---theme-doc-item-178-a40",

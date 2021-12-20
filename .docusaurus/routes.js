@@ -95,7 +95,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','9a9'),
+    component: ComponentCreator('/docs','62c'),
     routes: [
       {
         path: '/docs/description',
@@ -106,6 +106,36 @@ export default [
       {
         path: '/docs/disclaimer',
         component: ComponentCreator('/docs/disclaimer','7ad'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gamefi/events',
+        component: ComponentCreator('/docs/gamefi/events','59b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gamefi/nft_accounts',
+        component: ComponentCreator('/docs/gamefi/nft_accounts','ad6'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gamefi/nft_characters',
+        component: ComponentCreator('/docs/gamefi/nft_characters','7ab'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gamefi/nft_renting',
+        component: ComponentCreator('/docs/gamefi/nft_renting','97a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gamefi/voting_system',
+        component: ComponentCreator('/docs/gamefi/voting_system','0d7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -142,12 +172,6 @@ export default [
       {
         path: '/docs/getting_started',
         component: ComponentCreator('/docs/getting_started','fdc'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/nfts',
-        component: ComponentCreator('/docs/nfts','ca8'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

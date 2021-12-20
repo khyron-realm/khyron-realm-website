@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gamefi/nft_renting",
+  "id": "gamefi/nft_renting",
+  "title": "Renting items",
+  "description": "Renting items details coming soon ...",
+  "source": "@site/docs/gamefi/nft_renting.md",
+  "sourceDirName": "gamefi",
+  "slug": "/gamefi/nft_renting",
+  "permalink": "/docs/gamefi/nft_renting",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gamefi/nft_renting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Voting system",
+    "permalink": "/docs/gamefi/voting_system"
+  },
+  "next": {
+    "title": "Events",
+    "permalink": "/docs/gamefi/events"
+  }
+}

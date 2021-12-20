@@ -103,10 +103,42 @@
         "docId": "technology"
       },
       {
-        "type": "link",
-        "label": "🖼️ NFTs",
-        "href": "/docs/nfts",
-        "docId": "nfts"
+        "type": "category",
+        "label": "🖼️ GameFi",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "NFT accounts",
+            "href": "/docs/gamefi/nft_accounts",
+            "docId": "gamefi/nft_accounts"
+          },
+          {
+            "type": "link",
+            "label": "NFT characters",
+            "href": "/docs/gamefi/nft_characters",
+            "docId": "gamefi/nft_characters"
+          },
+          {
+            "type": "link",
+            "label": "Voting system",
+            "href": "/docs/gamefi/voting_system",
+            "docId": "gamefi/voting_system"
+          },
+          {
+            "type": "link",
+            "label": "Renting items",
+            "href": "/docs/gamefi/nft_renting",
+            "docId": "gamefi/nft_renting"
+          },
+          {
+            "type": "link",
+            "label": "Events",
+            "href": "/docs/gamefi/events",
+            "docId": "gamefi/events"
+          }
+        ]
       },
       {
         "type": "link",
@@ -153,6 +185,36 @@
       "description": "Investing involves a significant level of risk. It's critical to conduct your research.",
       "sidebar": "tutorialSidebar"
     },
+    "gamefi/events": {
+      "id": "gamefi/events",
+      "title": "Events",
+      "description": "Events for gathering interest and funding.",
+      "sidebar": "tutorialSidebar"
+    },
+    "gamefi/nft_accounts": {
+      "id": "gamefi/nft_accounts",
+      "title": "NFT accounts",
+      "description": "Metadata of the NFT will be linked with progress in our database. We will check user’s wallet to see what NFT account he has.",
+      "sidebar": "tutorialSidebar"
+    },
+    "gamefi/nft_characters": {
+      "id": "gamefi/nft_characters",
+      "title": "NFT characters",
+      "description": "- Customize the character as you want with different effects and styles that you chose.",
+      "sidebar": "tutorialSidebar"
+    },
+    "gamefi/nft_renting": {
+      "id": "gamefi/nft_renting",
+      "title": "Renting items",
+      "description": "Renting items details coming soon ...",
+      "sidebar": "tutorialSidebar"
+    },
+    "gamefi/voting_system": {
+      "id": "gamefi/voting_system",
+      "title": "Voting system",
+      "description": "Used for different game events:",
+      "sidebar": "tutorialSidebar"
+    },
     "gameplay/game": {
       "id": "gameplay/game",
       "title": "Game",
@@ -187,12 +249,6 @@
       "id": "getting_started",
       "title": "🚀 Getting Started",
       "description": "Play a demo version on mobile",
-      "sidebar": "tutorialSidebar"
-    },
-    "nfts": {
-      "id": "nfts",
-      "title": "🖼️ NFTs",
-      "description": "Multiple NFT implementations will be used in the game:",
       "sidebar": "tutorialSidebar"
     },
     "privacy_policy": {
@@ -252,7 +308,7 @@
     "tokenomics": {
       "id": "tokenomics",
       "title": "🏦 Tokenomics",
-      "description": "More details coming soon ...",
+      "description": "Economy token",
       "sidebar": "tutorialSidebar"
     }
   }

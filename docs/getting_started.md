@@ -23,6 +23,21 @@ The Android game is in *Internal testing* and needs a Gmail Account. Join Discor
 
 :::
 
+## In-game item acquisition
+
+### Requirements
+
+A valid address for Polygon's Mainnet.
+
+### Description
+
+There will exist a classic hard currency that has no real connection with the blockchain (NO token or coin).
+It will be a number stored on our database.
+
+All NFT’s will be listed in the denomination of this hard currency.
+
+Users pay hard currency and we (the developers) will mint the NFT.
+
 ---
 
-*Last updated: 14 DEC 2021*
+*Last updated: 20 DEC 2021*

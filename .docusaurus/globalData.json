@@ -21,6 +21,31 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "gamefi/events",
+              "path": "/docs/gamefi/events",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gamefi/nft_accounts",
+              "path": "/docs/gamefi/nft_accounts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gamefi/nft_characters",
+              "path": "/docs/gamefi/nft_characters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gamefi/nft_renting",
+              "path": "/docs/gamefi/nft_renting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gamefi/voting_system",
+              "path": "/docs/gamefi/voting_system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "gameplay/game",
               "path": "/docs/gameplay/game",
               "sidebar": "tutorialSidebar"
@@ -48,11 +73,6 @@
             {
               "id": "getting_started",
               "path": "/docs/getting_started",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "nfts",
-              "path": "/docs/nfts",
               "sidebar": "tutorialSidebar"
             },
             {

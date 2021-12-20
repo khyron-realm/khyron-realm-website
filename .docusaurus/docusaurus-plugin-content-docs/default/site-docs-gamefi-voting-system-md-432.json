@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gamefi/voting_system",
+  "id": "gamefi/voting_system",
+  "title": "Voting system",
+  "description": "Used for different game events:",
+  "source": "@site/docs/gamefi/voting_system.md",
+  "sourceDirName": "gamefi",
+  "slug": "/gamefi/voting_system",
+  "permalink": "/docs/gamefi/voting_system",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gamefi/voting_system.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NFT characters",
+    "permalink": "/docs/gamefi/nft_characters"
+  },
+  "next": {
+    "title": "Renting items",
+    "permalink": "/docs/gamefi/nft_renting"
+  }
+}

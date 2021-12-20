@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gamefi/events",
+  "id": "gamefi/events",
+  "title": "Events",
+  "description": "Events for gathering interest and funding.",
+  "source": "@site/docs/gamefi/events.md",
+  "sourceDirName": "gamefi",
+  "slug": "/gamefi/events",
+  "permalink": "/docs/gamefi/events",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gamefi/events.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Renting items",
+    "permalink": "/docs/gamefi/nft_renting"
+  },
+  "next": {
+    "title": "🏦 Tokenomics",
+    "permalink": "/docs/tokenomics"
+  }
+}

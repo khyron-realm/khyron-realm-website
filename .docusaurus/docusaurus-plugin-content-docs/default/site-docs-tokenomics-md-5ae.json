@@ -2,7 +2,7 @@
   "unversionedId": "tokenomics",
   "id": "tokenomics",
   "title": "🏦 Tokenomics",
-  "description": "More details coming soon ...",
+  "description": "Economy token",
   "source": "@site/docs/tokenomics.md",
   "sourceDirName": ".",
   "slug": "/tokenomics",
@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🖼️ NFTs",
-    "permalink": "/docs/nfts"
+    "title": "Events",
+    "permalink": "/docs/gamefi/events"
   },
   "next": {
     "title": "⚠️ Disclaimer",

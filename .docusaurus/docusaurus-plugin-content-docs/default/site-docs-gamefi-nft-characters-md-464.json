@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gamefi/nft_characters",
+  "id": "gamefi/nft_characters",
+  "title": "NFT characters",
+  "description": "- Customize the character as you want with different effects and styles that you chose.",
+  "source": "@site/docs/gamefi/nft_characters.md",
+  "sourceDirName": "gamefi",
+  "slug": "/gamefi/nft_characters",
+  "permalink": "/docs/gamefi/nft_characters",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gamefi/nft_characters.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NFT accounts",
+    "permalink": "/docs/gamefi/nft_accounts"
+  },
+  "next": {
+    "title": "Voting system",
+    "permalink": "/docs/gamefi/voting_system"
+  }
+}

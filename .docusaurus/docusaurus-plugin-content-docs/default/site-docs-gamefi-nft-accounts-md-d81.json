@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gamefi/nft_accounts",
+  "id": "gamefi/nft_accounts",
+  "title": "NFT accounts",
+  "description": "Metadata of the NFT will be linked with progress in our database. We will check user’s wallet to see what NFT account he has.",
+  "source": "@site/docs/gamefi/nft_accounts.md",
+  "sourceDirName": "gamefi",
+  "slug": "/gamefi/nft_accounts",
+  "permalink": "/docs/gamefi/nft_accounts",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gamefi/nft_accounts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💻 Technology",
+    "permalink": "/docs/technology"
+  },
+  "next": {
+    "title": "NFT characters",
+    "permalink": "/docs/gamefi/nft_characters"
+  }
+}
