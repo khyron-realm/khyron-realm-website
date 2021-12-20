@@ -10,14 +10,14 @@
   "editUrl": "https://github.com/target-software/game-website/wiki/docs/terms&conditions.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 9,
+  "sidebarPosition": 10,
   "frontMatter": {
-    "sidebar_position": 9
+    "sidebar_position": 10
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "⚠️ Disclaimer",
-    "permalink": "/docs/disclaimer"
+    "title": "👥 Team",
+    "permalink": "/docs/team"
   },
   "next": {
     "title": "🛡️ Privacy policy",

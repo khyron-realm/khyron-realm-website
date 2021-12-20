@@ -220,7 +220,7 @@ export default {
           "type": "doc",
           "docId": "description",
           "position": "left",
-          "label": "Wiki"
+          "label": "Whitepaper"
         },
         {
           "to": "/blog",
@@ -260,7 +260,7 @@ export default {
           "title": "Getting started",
           "items": [
             {
-              "label": "Wiki",
+              "label": "Whitepaper",
               "to": "/docs/description"
             },
             {

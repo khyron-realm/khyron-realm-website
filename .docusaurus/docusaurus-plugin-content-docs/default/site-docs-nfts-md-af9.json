@@ -1,0 +1,26 @@
+{
+  "unversionedId": "nfts",
+  "id": "nfts",
+  "title": "🖼️ NFTs",
+  "description": "Multiple NFT implementations will be used in the game:",
+  "source": "@site/docs/nfts.md",
+  "sourceDirName": ".",
+  "slug": "/nfts",
+  "permalink": "/docs/nfts",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/nfts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💻 Technology",
+    "permalink": "/docs/technology"
+  },
+  "next": {
+    "title": "🏦 Tokenomics",
+    "permalink": "/docs/tokenomics"
+  }
+}

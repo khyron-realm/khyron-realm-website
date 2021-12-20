@@ -32,7 +32,10 @@ The game model is **Free-to-Play-to-Earn**, which allows both gamers and crypto 
 
 ## Problem
 
-The world of games and entertainment grows continuously with the development of technology. More and more people are playing games and are spending money to have more satisfaction. The problem is that people are not owning the assets that they buy, or are not earning money for their game sessions.
+The world of games and entertainment grows continuously with the development of technology.
+More and more people are playing games and are spending money to have more satisfaction. 
+The problem is that people are not owning the assets that they buy, or are not earning money for their game sessions.
+We need to simplify the process for users to get rewarded financially for their time spent in the game.
 
 ---
 
@@ -44,7 +47,11 @@ Using the NFTs to allow users to own their digital assets and cryptocurrencies t
 
 ## Vision
 
-We need to simplify the process for users to get rewarded financially for their time spent in the game.
+We create a bridge between casual mobile gamers and the crypto world, introducing convenient methods of interaction with the blockchain.
+We believe in community voice and we want to amplify it using this technology. 
+Our vision is user-centric, where all the players are the holders of their items and in-game progress that will be forever stored on the blockchain. 
+The community power shall not be underestimated, so we want to offer them the possibility to decide in-game events using a decentralized voting system, 100% transparent.
+At the moment, we are in the early days of a revolution, and we have a long road ahead of us. We will try to make our ecosystem as fair and democratic as possible without promises of unbelievable returns or shady stories.
 
 ---
 

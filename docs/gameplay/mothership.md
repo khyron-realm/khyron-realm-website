@@ -4,9 +4,9 @@ sidebar_position: 4
 
 # Mothership
 
-<!-- [Mothership outside] -->
-
 **Mothership** is a two-stage ship designed to transport humans to another planet.
+
+![Mothership exterior](/img/wiki/mothership_exterior.png)
 
 The main area is the **Commonplace** for all users to meet and socialize.
 The other areas are:
@@ -16,7 +16,7 @@ The other areas are:
 * Life Support Systems
 * Storage
 
-<!-- [Mothership inside] -->
+![Mothership interior](/img/wiki/mothership_interior.png)
 
 ## Specifications
 

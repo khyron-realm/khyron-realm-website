@@ -1,11 +1,4 @@
 {
-  "docusaurus-plugin-google-gtag": {
-    "default": {
-      "trackingID": "G-FPP6QP6WWS",
-      "anonymizeIP": true,
-      "id": "default"
-    }
-  },
   "docusaurus-plugin-content-docs": {
     "default": {
       "path": "/docs",
@@ -55,6 +48,11 @@
             {
               "id": "getting_started",
               "path": "/docs/getting_started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nfts",
+              "path": "/docs/nfts",
               "sidebar": "tutorialSidebar"
             },
             {

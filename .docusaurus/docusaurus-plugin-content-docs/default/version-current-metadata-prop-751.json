@@ -104,21 +104,27 @@
       },
       {
         "type": "link",
+        "label": "🖼️ NFTs",
+        "href": "/docs/nfts",
+        "docId": "nfts"
+      },
+      {
+        "type": "link",
         "label": "🏦 Tokenomics",
         "href": "/docs/tokenomics",
         "docId": "tokenomics"
       },
       {
         "type": "link",
-        "label": "👥 Team",
-        "href": "/docs/team",
-        "docId": "team"
-      },
-      {
-        "type": "link",
         "label": "⚠️ Disclaimer",
         "href": "/docs/disclaimer",
         "docId": "disclaimer"
+      },
+      {
+        "type": "link",
+        "label": "👥 Team",
+        "href": "/docs/team",
+        "docId": "team"
       },
       {
         "type": "link",
@@ -183,6 +189,12 @@
       "description": "Play a demo version on mobile",
       "sidebar": "tutorialSidebar"
     },
+    "nfts": {
+      "id": "nfts",
+      "title": "🖼️ NFTs",
+      "description": "Multiple NFT implementations will be used in the game:",
+      "sidebar": "tutorialSidebar"
+    },
     "privacy_policy": {
       "id": "privacy_policy",
       "title": "🛡️ Privacy policy",
@@ -228,7 +240,7 @@
     "technology": {
       "id": "technology",
       "title": "💻 Technology",
-      "description": "Graphics",
+      "description": "Blockchain",
       "sidebar": "tutorialSidebar"
     },
     "terms&conditions": {

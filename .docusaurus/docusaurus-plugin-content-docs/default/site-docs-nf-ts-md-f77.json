@@ -1,0 +1,26 @@
+{
+  "unversionedId": "NFTs",
+  "id": "NFTs",
+  "title": "🏦 Tokenomics",
+  "description": "More details coming soon ...",
+  "source": "@site/docs/NFTs.md",
+  "sourceDirName": ".",
+  "slug": "/NFTs",
+  "permalink": "/docs/NFTs",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/NFTs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💻 Technology",
+    "permalink": "/docs/technology"
+  },
+  "next": {
+    "title": "👥 Team",
+    "permalink": "/docs/team"
+  }
+}

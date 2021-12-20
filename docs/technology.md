@@ -4,6 +4,12 @@ sidebar_position: 6
 
 # 💻 Technology
 
+## Blockchain
+
+**Blockchain:** Ethereum *(L1)*
+
+**Protocol of development:** Polygon *(L2)*
+
 ## Graphics
 
 We used 2d flat style graphics for the game. The theme is colorful and is suitable for everyone.
@@ -14,17 +20,17 @@ The game is built using the Unity Engine. It is written in the C# programming la
 
 ![Unity logo](/img/icons/unity.png)
 
-## Backend
+## Game Server
 
 The backend is hosted on Google Cloud. It uses Virtual Machines for running multiple web game instances and a scalable database.
 
 ![Google cloud](/img/icons/google_cloud.png)
 
-## Blockchain
+## Website 
 
 :::info Note
 
-Blockchain integration coming soon ...
+Website technology coming soon ...
 
 :::
 

@@ -2,7 +2,7 @@
   "unversionedId": "technology",
   "id": "technology",
   "title": "💻 Technology",
-  "description": "Graphics",
+  "description": "Blockchain",
   "source": "@site/docs/technology.md",
   "sourceDirName": ".",
   "slug": "/technology",
@@ -20,7 +20,7 @@
     "permalink": "/docs/roadmap"
   },
   "next": {
-    "title": "🏦 Tokenomics",
-    "permalink": "/docs/tokenomics"
+    "title": "🖼️ NFTs",
+    "permalink": "/docs/nfts"
   }
 }

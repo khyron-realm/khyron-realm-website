@@ -6,7 +6,7 @@ sidebar_position: 3
 
 **Starship** is a two-stage ship designed to transport cargo to another planet.
 
-![Spaceship](/img/wiki/spaceship_exterior.png)
+![Spaceship exterior](/img/wiki/spaceship_exterior.png)
 
 ## Spaceship Specifications
 
@@ -40,7 +40,7 @@ Research technology developed by experts from Earth allows upgrading the softwar
 To upgrade the core of the ship, the user needs to unlock all the available floors for the current level of the core. 
 The process can be done only one at a time because is dependent on the core.
 
-![Spaceship](/img/wiki/spaceship_interior.png)
+![Spaceship interior](/img/wiki/spaceship_interior.png)
 
 ### Inner Core
 

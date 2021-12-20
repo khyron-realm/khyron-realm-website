@@ -43,7 +43,7 @@ module.exports = {
           type: 'doc',
           docId: 'description',
           position: 'left',
-          label: 'Wiki',
+          label: 'Whitepaper',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -79,7 +79,7 @@ module.exports = {
           title: 'Getting started',
           items: [
             {
-              label: 'Wiki',
+              label: 'Whitepaper',
               to: '/docs/description',
             },
             {

@@ -10,17 +10,17 @@
   "editUrl": "https://github.com/target-software/game-website/wiki/docs/tokenomics.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 7,
+  "sidebarPosition": 8,
   "frontMatter": {
-    "sidebar_position": 7
+    "sidebar_position": 8
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "💻 Technology",
-    "permalink": "/docs/technology"
+    "title": "🖼️ NFTs",
+    "permalink": "/docs/nfts"
   },
   "next": {
-    "title": "👥 Team",
-    "permalink": "/docs/team"
+    "title": "⚠️ Disclaimer",
+    "permalink": "/docs/disclaimer"
   }
 }

@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "👥 Team",
-    "permalink": "/docs/team"
+    "title": "🏦 Tokenomics",
+    "permalink": "/docs/tokenomics"
   },
   "next": {
-    "title": "✍️ Terms & Conditions",
-    "permalink": "/docs/terms&conditions"
+    "title": "👥 Team",
+    "permalink": "/docs/team"
   }
 }

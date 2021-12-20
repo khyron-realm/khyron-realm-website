@@ -10,17 +10,17 @@
   "editUrl": "https://github.com/target-software/game-website/wiki/docs/team.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 8,
+  "sidebarPosition": 9,
   "frontMatter": {
-    "sidebar_position": 8
+    "sidebar_position": 9
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🏦 Tokenomics",
-    "permalink": "/docs/tokenomics"
-  },
-  "next": {
     "title": "⚠️ Disclaimer",
     "permalink": "/docs/disclaimer"
+  },
+  "next": {
+    "title": "✍️ Terms & Conditions",
+    "permalink": "/docs/terms&conditions"
   }
 }
