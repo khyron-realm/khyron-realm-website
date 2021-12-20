@@ -6,8 +6,6 @@ sidebar_position: 6
 
 ## Blockchain
 
-**Blockchain:** Ethereum *(L1)*
-
 **Protocol of development:** Polygon *(L2)*
 
 ## Graphics
