@@ -1,7 +1,7 @@
 {
   "unversionedId": "gamefi/nft_characters",
   "id": "gamefi/nft_characters",
-  "title": "NFT characters",
+  "title": "NFT Characters",
   "description": "- Customize the character as you want with different effects and styles that you chose.",
   "source": "@site/docs/gamefi/nft_characters.md",
   "sourceDirName": "gamefi",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "NFT accounts",
+    "title": "NFT Accounts",
     "permalink": "/docs/gamefi/nft_accounts"
   },
   "next": {
-    "title": "Voting system",
+    "title": "Voting System",
     "permalink": "/docs/gamefi/voting_system"
   }
 }

@@ -110,25 +110,25 @@
         "items": [
           {
             "type": "link",
-            "label": "NFT accounts",
+            "label": "NFT Accounts",
             "href": "/docs/gamefi/nft_accounts",
             "docId": "gamefi/nft_accounts"
           },
           {
             "type": "link",
-            "label": "NFT characters",
+            "label": "NFT Characters",
             "href": "/docs/gamefi/nft_characters",
             "docId": "gamefi/nft_characters"
           },
           {
             "type": "link",
-            "label": "Voting system",
+            "label": "Voting System",
             "href": "/docs/gamefi/voting_system",
             "docId": "gamefi/voting_system"
           },
           {
             "type": "link",
-            "label": "Renting items",
+            "label": "NFTs Renting",
             "href": "/docs/gamefi/nft_renting",
             "docId": "gamefi/nft_renting"
           },
@@ -193,25 +193,25 @@
     },
     "gamefi/nft_accounts": {
       "id": "gamefi/nft_accounts",
-      "title": "NFT accounts",
+      "title": "NFT Accounts",
       "description": "Metadata of the NFT will be linked with progress in our database. We will check user’s wallet to see what NFT account he has.",
       "sidebar": "tutorialSidebar"
     },
     "gamefi/nft_characters": {
       "id": "gamefi/nft_characters",
-      "title": "NFT characters",
+      "title": "NFT Characters",
       "description": "- Customize the character as you want with different effects and styles that you chose.",
       "sidebar": "tutorialSidebar"
     },
     "gamefi/nft_renting": {
       "id": "gamefi/nft_renting",
-      "title": "Renting items",
+      "title": "NFTs Renting",
       "description": "Renting items details coming soon ...",
       "sidebar": "tutorialSidebar"
     },
     "gamefi/voting_system": {
       "id": "gamefi/voting_system",
-      "title": "Voting system",
+      "title": "Voting System",
       "description": "Used for different game events:",
       "sidebar": "tutorialSidebar"
     },

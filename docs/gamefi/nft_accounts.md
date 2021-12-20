@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# NFT accounts
+# NFT Accounts
 
 Metadata of the NFT will be linked with progress in our database. We will check user’s wallet to see what NFT account he has.
 

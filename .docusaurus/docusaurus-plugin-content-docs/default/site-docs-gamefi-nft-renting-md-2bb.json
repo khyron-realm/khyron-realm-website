@@ -1,7 +1,7 @@
 {
   "unversionedId": "gamefi/nft_renting",
   "id": "gamefi/nft_renting",
-  "title": "Renting items",
+  "title": "NFTs Renting",
   "description": "Renting items details coming soon ...",
   "source": "@site/docs/gamefi/nft_renting.md",
   "sourceDirName": "gamefi",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Voting system",
+    "title": "Voting System",
     "permalink": "/docs/gamefi/voting_system"
   },
   "next": {

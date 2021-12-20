@@ -1,7 +1,7 @@
 {
   "unversionedId": "gamefi/nft_accounts",
   "id": "gamefi/nft_accounts",
-  "title": "NFT accounts",
+  "title": "NFT Accounts",
   "description": "Metadata of the NFT will be linked with progress in our database. We will check user’s wallet to see what NFT account he has.",
   "source": "@site/docs/gamefi/nft_accounts.md",
   "sourceDirName": "gamefi",
@@ -20,7 +20,7 @@
     "permalink": "/docs/technology"
   },
   "next": {
-    "title": "NFT characters",
+    "title": "NFT Characters",
     "permalink": "/docs/gamefi/nft_characters"
   }
 }

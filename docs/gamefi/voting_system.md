@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Voting system 
+# Voting System 
 
 Used for different game events:
 

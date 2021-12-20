@@ -1,7 +1,7 @@
 {
   "unversionedId": "gamefi/voting_system",
   "id": "gamefi/voting_system",
-  "title": "Voting system",
+  "title": "Voting System",
   "description": "Used for different game events:",
   "source": "@site/docs/gamefi/voting_system.md",
   "sourceDirName": "gamefi",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "NFT characters",
+    "title": "NFT Characters",
     "permalink": "/docs/gamefi/nft_characters"
   },
   "next": {
-    "title": "Renting items",
+    "title": "NFTs Renting",
     "permalink": "/docs/gamefi/nft_renting"
   }
 }

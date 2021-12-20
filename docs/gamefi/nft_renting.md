@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Renting items
+# NFTs Renting
 
 :::info Note
 
