@@ -104,7 +104,7 @@
     "component": "component---site-src-pages-contact-js-83-e-320",
     "config": "config---about-5-e-9-bcb"
   },
-  "/docs-62c": {
+  "/docs-410": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -144,17 +144,53 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-gameplay-mines-6-d-5-726"
   },
-  "/docs/gameplay/mothership-2ad": {
+  "/docs/gameplay/mothership/description-696": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gameplay-mothership-2-f-6-9ce"
+    "content": "content---docs-gameplay-mothership-description-776-e3c"
+  },
+  "/docs/gameplay/mothership/jobs-9e1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-mothership-jobs-9-dd-7f6"
+  },
+  "/docs/gameplay/mothership/main_hubs-665": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-mothership-main-hubs-2-d-0-260"
+  },
+  "/docs/gameplay/mothership/specifications-d79": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-mothership-specifications-033-ecd"
   },
   "/docs/gameplay/planet-58a": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-gameplay-planetc-0-a-921"
   },
-  "/docs/gameplay/spaceship-b25": {
+  "/docs/gameplay/robots-1e7": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gameplay-spaceshipace-aca"
+    "content": "content---docs-gameplay-robots-2-d-8-80b"
+  },
+  "/docs/gameplay/spaceship/core_module-05c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-spaceship-core-modulede-6-6a0"
+  },
+  "/docs/gameplay/spaceship/deposit_modules-a53": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-spaceship-deposit-modulesdab-138"
+  },
+  "/docs/gameplay/spaceship/description-f3e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-spaceship-description-2-c-5-584"
+  },
+  "/docs/gameplay/spaceship/generator_modules-5de": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-spaceship-generator-modules-216-b94"
+  },
+  "/docs/gameplay/spaceship/machine_modules-795": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-spaceship-machine-modules-0-b-3-7ec"
+  },
+  "/docs/gameplay/spaceship/specifications-ede": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-gameplay-spaceship-specifications-7-f-7-e45"
   },
   "/docs/getting_started-fdc": {
     "component": "component---theme-doc-item-178-a40",

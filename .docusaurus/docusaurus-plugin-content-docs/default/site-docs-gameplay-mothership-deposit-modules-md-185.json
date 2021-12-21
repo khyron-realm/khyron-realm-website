@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/mothership/deposit_modules",
+  "id": "gameplay/mothership/deposit_modules",
+  "title": "Deposit Modules",
+  "description": "Robot Storage",
+  "source": "@site/docs/gameplay/mothership/deposit_modules.md",
+  "sourceDirName": "gameplay/mothership",
+  "slug": "/gameplay/mothership/deposit_modules",
+  "permalink": "/docs/gameplay/mothership/deposit_modules",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/mothership/deposit_modules.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generator Modules",
+    "permalink": "/docs/gameplay/mothership/generator_modules"
+  },
+  "next": {
+    "title": "Mines",
+    "permalink": "/docs/gameplay/mines"
+  }
+}

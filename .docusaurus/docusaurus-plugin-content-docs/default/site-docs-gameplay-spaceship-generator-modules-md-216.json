@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/spaceship/generator_modules",
+  "id": "gameplay/spaceship/generator_modules",
+  "title": "Generator Modules",
+  "description": "Pressing Machine",
+  "source": "@site/docs/gameplay/spaceship/generator_modules.md",
+  "sourceDirName": "gameplay/spaceship",
+  "slug": "/gameplay/spaceship/generator_modules",
+  "permalink": "/docs/gameplay/spaceship/generator_modules",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/spaceship/generator_modules.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Core Module",
+    "permalink": "/docs/gameplay/spaceship/core_module"
+  },
+  "next": {
+    "title": "Machine Modules",
+    "permalink": "/docs/gameplay/spaceship/machine_modules"
+  }
+}

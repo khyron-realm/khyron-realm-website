@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/mothership/generator_modules",
+  "id": "gameplay/mothership/generator_modules",
+  "title": "Generator Modules",
+  "description": "Pressing Machine",
+  "source": "@site/docs/gameplay/mothership/generator_modules.md",
+  "sourceDirName": "gameplay/mothership",
+  "slug": "/gameplay/mothership/generator_modules",
+  "permalink": "/docs/gameplay/mothership/generator_modules",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/mothership/generator_modules.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Main Hubs",
+    "permalink": "/docs/gameplay/mothership/main_hubs"
+  },
+  "next": {
+    "title": "Mines",
+    "permalink": "/docs/gameplay/mines"
+  }
+}

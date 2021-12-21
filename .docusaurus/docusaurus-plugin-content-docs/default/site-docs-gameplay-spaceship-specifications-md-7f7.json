@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/spaceship/specifications",
+  "id": "gameplay/spaceship/specifications",
+  "title": "Specifications",
+  "description": "| Stage            | Characteristic           | value               |",
+  "source": "@site/docs/gameplay/spaceship/specifications.md",
+  "sourceDirName": "gameplay/spaceship",
+  "slug": "/gameplay/spaceship/specifications",
+  "permalink": "/docs/gameplay/spaceship/specifications",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/spaceship/specifications.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Description",
+    "permalink": "/docs/gameplay/spaceship/description"
+  },
+  "next": {
+    "title": "Core Module",
+    "permalink": "/docs/gameplay/spaceship/core_module"
+  }
+}

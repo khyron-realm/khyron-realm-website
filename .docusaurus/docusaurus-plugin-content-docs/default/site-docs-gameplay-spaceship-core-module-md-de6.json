@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/spaceship/core_module",
+  "id": "gameplay/spaceship/core_module",
+  "title": "Core Module",
+  "description": "The Spaceship has a modular interior with 32 hubs. Some modules are available initially, while the others are damaged and need to be repaired to be functional.",
+  "source": "@site/docs/gameplay/spaceship/core_module.md",
+  "sourceDirName": "gameplay/spaceship",
+  "slug": "/gameplay/spaceship/core_module",
+  "permalink": "/docs/gameplay/spaceship/core_module",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/spaceship/core_module.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Specifications",
+    "permalink": "/docs/gameplay/spaceship/specifications"
+  },
+  "next": {
+    "title": "Generator Modules",
+    "permalink": "/docs/gameplay/spaceship/generator_modules"
+  }
+}

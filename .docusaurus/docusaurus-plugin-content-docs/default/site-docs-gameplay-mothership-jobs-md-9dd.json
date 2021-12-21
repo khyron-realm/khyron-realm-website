@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/mothership/jobs",
+  "id": "gameplay/mothership/jobs",
+  "title": "Jobs",
+  "description": "Ships Yard",
+  "source": "@site/docs/gameplay/mothership/jobs.md",
+  "sourceDirName": "gameplay/mothership",
+  "slug": "/gameplay/mothership/jobs",
+  "permalink": "/docs/gameplay/mothership/jobs",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/mothership/jobs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Main Hubs",
+    "permalink": "/docs/gameplay/mothership/main_hubs"
+  },
+  "next": {
+    "title": "Mines",
+    "permalink": "/docs/gameplay/mines"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/mothership/specifications",
+  "id": "gameplay/mothership/specifications",
+  "title": "Specifications",
+  "description": "The technical specifications of the ship are shown below:",
+  "source": "@site/docs/gameplay/mothership/specifications.md",
+  "sourceDirName": "gameplay/mothership",
+  "slug": "/gameplay/mothership/specifications",
+  "permalink": "/docs/gameplay/mothership/specifications",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/mothership/specifications.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Description",
+    "permalink": "/docs/gameplay/mothership/description"
+  },
+  "next": {
+    "title": "Main Hubs",
+    "permalink": "/docs/gameplay/mothership/main_hubs"
+  }
+}

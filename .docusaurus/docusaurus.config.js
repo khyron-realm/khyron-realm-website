@@ -228,16 +228,6 @@ export default {
           "position": "left"
         },
         {
-          "href": "/about",
-          "label": "About",
-          "position": "left"
-        },
-        {
-          "href": "/contact",
-          "label": "Contact",
-          "position": "left"
-        },
-        {
           "href": "/docs/getting_started",
           "label": "Play Demo",
           "position": "right"

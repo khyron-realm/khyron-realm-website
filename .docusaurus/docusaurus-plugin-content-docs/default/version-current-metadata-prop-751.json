@@ -65,22 +65,92 @@
             "docId": "gameplay/planet"
           },
           {
-            "type": "link",
+            "type": "category",
             "label": "Spaceship",
-            "href": "/docs/gameplay/spaceship",
-            "docId": "gameplay/spaceship"
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Description",
+                "href": "/docs/gameplay/spaceship/description",
+                "docId": "gameplay/spaceship/description"
+              },
+              {
+                "type": "link",
+                "label": "Specifications",
+                "href": "/docs/gameplay/spaceship/specifications",
+                "docId": "gameplay/spaceship/specifications"
+              },
+              {
+                "type": "link",
+                "label": "Core Module",
+                "href": "/docs/gameplay/spaceship/core_module",
+                "docId": "gameplay/spaceship/core_module"
+              },
+              {
+                "type": "link",
+                "label": "Generator Modules",
+                "href": "/docs/gameplay/spaceship/generator_modules",
+                "docId": "gameplay/spaceship/generator_modules"
+              },
+              {
+                "type": "link",
+                "label": "Machine Modules",
+                "href": "/docs/gameplay/spaceship/machine_modules",
+                "docId": "gameplay/spaceship/machine_modules"
+              },
+              {
+                "type": "link",
+                "label": "Deposit Modules",
+                "href": "/docs/gameplay/spaceship/deposit_modules",
+                "docId": "gameplay/spaceship/deposit_modules"
+              }
+            ]
           },
           {
-            "type": "link",
+            "type": "category",
             "label": "Mothership",
-            "href": "/docs/gameplay/mothership",
-            "docId": "gameplay/mothership"
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Description",
+                "href": "/docs/gameplay/mothership/description",
+                "docId": "gameplay/mothership/description"
+              },
+              {
+                "type": "link",
+                "label": "Specifications",
+                "href": "/docs/gameplay/mothership/specifications",
+                "docId": "gameplay/mothership/specifications"
+              },
+              {
+                "type": "link",
+                "label": "Main Hubs",
+                "href": "/docs/gameplay/mothership/main_hubs",
+                "docId": "gameplay/mothership/main_hubs"
+              },
+              {
+                "type": "link",
+                "label": "Jobs",
+                "href": "/docs/gameplay/mothership/jobs",
+                "docId": "gameplay/mothership/jobs"
+              }
+            ]
           },
           {
             "type": "link",
             "label": "Mines",
             "href": "/docs/gameplay/mines",
             "docId": "gameplay/mines"
+          },
+          {
+            "type": "link",
+            "label": "Robots",
+            "href": "/docs/gameplay/robots",
+            "docId": "gameplay/robots"
           }
         ]
       },
@@ -227,10 +297,28 @@
       "description": "Mines are randomly generated with different sizes and resources distributions.",
       "sidebar": "tutorialSidebar"
     },
-    "gameplay/mothership": {
-      "id": "gameplay/mothership",
-      "title": "Mothership",
+    "gameplay/mothership/description": {
+      "id": "gameplay/mothership/description",
+      "title": "Description",
       "description": "Mothership is a two-stage ship designed to transport humans to another planet.",
+      "sidebar": "tutorialSidebar"
+    },
+    "gameplay/mothership/jobs": {
+      "id": "gameplay/mothership/jobs",
+      "title": "Jobs",
+      "description": "Ships Yard",
+      "sidebar": "tutorialSidebar"
+    },
+    "gameplay/mothership/main_hubs": {
+      "id": "gameplay/mothership/main_hubs",
+      "title": "Main Hubs",
+      "description": "Commonplace",
+      "sidebar": "tutorialSidebar"
+    },
+    "gameplay/mothership/specifications": {
+      "id": "gameplay/mothership/specifications",
+      "title": "Specifications",
+      "description": "The technical specifications of the ship are shown below:",
       "sidebar": "tutorialSidebar"
     },
     "gameplay/planet": {
@@ -239,10 +327,46 @@
       "description": "Khyron",
       "sidebar": "tutorialSidebar"
     },
-    "gameplay/spaceship": {
-      "id": "gameplay/spaceship",
-      "title": "Spaceship",
+    "gameplay/robots": {
+      "id": "gameplay/robots",
+      "title": "Robots",
+      "description": "To gather all the resources, multiple robot types were developed to overcome the environmental obstacles.",
+      "sidebar": "tutorialSidebar"
+    },
+    "gameplay/spaceship/core_module": {
+      "id": "gameplay/spaceship/core_module",
+      "title": "Core Module",
+      "description": "The Spaceship has a modular interior with 32 hubs. Some modules are available initially, while the others are damaged and need to be repaired to be functional.",
+      "sidebar": "tutorialSidebar"
+    },
+    "gameplay/spaceship/deposit_modules": {
+      "id": "gameplay/spaceship/deposit_modules",
+      "title": "Deposit Modules",
+      "description": "Robot Storage",
+      "sidebar": "tutorialSidebar"
+    },
+    "gameplay/spaceship/description": {
+      "id": "gameplay/spaceship/description",
+      "title": "Description",
       "description": "Starship is a two-stage ship designed to transport cargo to another planet.",
+      "sidebar": "tutorialSidebar"
+    },
+    "gameplay/spaceship/generator_modules": {
+      "id": "gameplay/spaceship/generator_modules",
+      "title": "Generator Modules",
+      "description": "Pressing Machine",
+      "sidebar": "tutorialSidebar"
+    },
+    "gameplay/spaceship/machine_modules": {
+      "id": "gameplay/spaceship/machine_modules",
+      "title": "Machine Modules",
+      "description": "Robot Factory",
+      "sidebar": "tutorialSidebar"
+    },
+    "gameplay/spaceship/specifications": {
+      "id": "gameplay/spaceship/specifications",
+      "title": "Specifications",
+      "description": "| Stage            | Characteristic           | value               |",
       "sidebar": "tutorialSidebar"
     },
     "getting_started": {

@@ -2,7 +2,7 @@
   "unversionedId": "gameplay/mothership",
   "id": "gameplay/mothership",
   "title": "Mothership",
-  "description": "Mothership is a two-stage ship designed to transport humans to another planet.",
+  "description": "---",
   "source": "@site/docs/gameplay/mothership.md",
   "sourceDirName": "gameplay",
   "slug": "/gameplay/mothership",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Spaceship",
-    "permalink": "/docs/gameplay/spaceship"
+    "title": "Deposit Modules",
+    "permalink": "/docs/gameplay/spaceship/deposit_modules"
   },
   "next": {
-    "title": "Mines",
-    "permalink": "/docs/gameplay/mines"
+    "title": "Description",
+    "permalink": "/docs/gameplay/mothership/description"
   }
 }

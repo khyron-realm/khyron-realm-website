@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Mothership",
-    "permalink": "/docs/gameplay/mothership"
+    "title": "Jobs",
+    "permalink": "/docs/gameplay/mothership/jobs"
   },
   "next": {
-    "title": "🚀 Getting Started",
-    "permalink": "/docs/getting_started"
+    "title": "Robots",
+    "permalink": "/docs/gameplay/robots"
   }
 }

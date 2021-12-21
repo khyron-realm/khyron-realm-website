@@ -14,14 +14,9 @@ The mining time is usually between 3 and 5 minutes.
 
 #### Mine classes
 
-| Class | Size   |
-|-------|--------|
-| A     | 5 x 4  |
-| B     | 6 x 5  |
-| C     | 7 x 5  |
-| D     | 8 x 6  |
-| E     | 9 x 6  |
-| F     | 10 x 7 |
+| Class | A     | B     | C     | D     | E     | F      |
+|-------|-------|-------|-------|-------|-------|--------|
+| Size  | 5 x 4 | 6 x 5 | 7 x 5 | 8 x 6 | 9 x 6 | 10 x 7 |
 
 #### Mine types
 

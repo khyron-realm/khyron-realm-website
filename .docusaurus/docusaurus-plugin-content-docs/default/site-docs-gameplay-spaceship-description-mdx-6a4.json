@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/spaceship/description",
+  "id": "gameplay/spaceship/description",
+  "title": "Description",
+  "description": "Starship is a two-stage ship designed to transport cargo to another planet.",
+  "source": "@site/docs/gameplay/spaceship/description.mdx",
+  "sourceDirName": "gameplay/spaceship",
+  "slug": "/gameplay/spaceship/description",
+  "permalink": "/docs/gameplay/spaceship/description",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/spaceship/description.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spaceship",
+    "permalink": "/docs/gameplay/spaceship"
+  },
+  "next": {
+    "title": "Mothership",
+    "permalink": "/docs/gameplay/mothership"
+  }
+}

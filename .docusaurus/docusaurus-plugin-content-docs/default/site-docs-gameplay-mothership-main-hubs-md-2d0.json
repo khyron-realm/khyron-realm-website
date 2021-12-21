@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/mothership/main_hubs",
+  "id": "gameplay/mothership/main_hubs",
+  "title": "Main Hubs",
+  "description": "Commonplace",
+  "source": "@site/docs/gameplay/mothership/main_hubs.md",
+  "sourceDirName": "gameplay/mothership",
+  "slug": "/gameplay/mothership/main_hubs",
+  "permalink": "/docs/gameplay/mothership/main_hubs",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/mothership/main_hubs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Specifications",
+    "permalink": "/docs/gameplay/mothership/specifications"
+  },
+  "next": {
+    "title": "Jobs",
+    "permalink": "/docs/gameplay/mothership/jobs"
+  }
+}

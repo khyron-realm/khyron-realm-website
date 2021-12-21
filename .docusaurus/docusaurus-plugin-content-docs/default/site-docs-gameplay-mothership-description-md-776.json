@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/mothership/description",
+  "id": "gameplay/mothership/description",
+  "title": "Description",
+  "description": "Mothership is a two-stage ship designed to transport humans to another planet.",
+  "source": "@site/docs/gameplay/mothership/description.md",
+  "sourceDirName": "gameplay/mothership",
+  "slug": "/gameplay/mothership/description",
+  "permalink": "/docs/gameplay/mothership/description",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/mothership/description.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deposit Modules",
+    "permalink": "/docs/gameplay/spaceship/deposit_modules"
+  },
+  "next": {
+    "title": "Specifications",
+    "permalink": "/docs/gameplay/mothership/specifications"
+  }
+}

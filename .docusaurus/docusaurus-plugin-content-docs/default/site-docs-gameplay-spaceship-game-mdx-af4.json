@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/spaceship/game",
+  "id": "gameplay/spaceship/game",
+  "title": "Game",
+  "description": "Description",
+  "source": "@site/docs/gameplay/spaceship/game.mdx",
+  "sourceDirName": "gameplay/spaceship",
+  "slug": "/gameplay/spaceship/game",
+  "permalink": "/docs/gameplay/spaceship/game",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/spaceship/game.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spaceship",
+    "permalink": "/docs/gameplay/spaceship"
+  },
+  "next": {
+    "title": "Mothership",
+    "permalink": "/docs/gameplay/mothership"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/mothership/core_module",
+  "id": "gameplay/mothership/core_module",
+  "title": "Core Module",
+  "description": "The Spaceship has a modular interior with 32 hubs. Some modules are available initially, while the others are damaged and need to be repaired to be functional.",
+  "source": "@site/docs/gameplay/mothership/core_module.md",
+  "sourceDirName": "gameplay/mothership",
+  "slug": "/gameplay/mothership/core_module",
+  "permalink": "/docs/gameplay/mothership/core_module",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/mothership/core_module.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spaceship Specifications",
+    "permalink": "/docs/gameplay/mothership/specifications"
+  },
+  "next": {
+    "title": "Generator Modules",
+    "permalink": "/docs/gameplay/mothership/generator_modules"
+  }
+}

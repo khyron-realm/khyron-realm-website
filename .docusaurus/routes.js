@@ -95,7 +95,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','62c'),
+    component: ComponentCreator('/docs','410'),
     routes: [
       {
         path: '/docs/description',
@@ -152,8 +152,26 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/gameplay/mothership',
-        component: ComponentCreator('/docs/gameplay/mothership','2ad'),
+        path: '/docs/gameplay/mothership/description',
+        component: ComponentCreator('/docs/gameplay/mothership/description','696'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gameplay/mothership/jobs',
+        component: ComponentCreator('/docs/gameplay/mothership/jobs','9e1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gameplay/mothership/main_hubs',
+        component: ComponentCreator('/docs/gameplay/mothership/main_hubs','665'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gameplay/mothership/specifications',
+        component: ComponentCreator('/docs/gameplay/mothership/specifications','d79'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -164,8 +182,44 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/gameplay/spaceship',
-        component: ComponentCreator('/docs/gameplay/spaceship','b25'),
+        path: '/docs/gameplay/robots',
+        component: ComponentCreator('/docs/gameplay/robots','1e7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gameplay/spaceship/core_module',
+        component: ComponentCreator('/docs/gameplay/spaceship/core_module','05c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gameplay/spaceship/deposit_modules',
+        component: ComponentCreator('/docs/gameplay/spaceship/deposit_modules','a53'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gameplay/spaceship/description',
+        component: ComponentCreator('/docs/gameplay/spaceship/description','f3e'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gameplay/spaceship/generator_modules',
+        component: ComponentCreator('/docs/gameplay/spaceship/generator_modules','5de'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gameplay/spaceship/machine_modules',
+        component: ComponentCreator('/docs/gameplay/spaceship/machine_modules','795'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/gameplay/spaceship/specifications',
+        component: ComponentCreator('/docs/gameplay/spaceship/specifications','ede'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/spaceship/robots",
+  "id": "gameplay/spaceship/robots",
+  "title": "Deposit Modules",
+  "description": "Robot Storage",
+  "source": "@site/docs/gameplay/spaceship/robots.md",
+  "sourceDirName": "gameplay/spaceship",
+  "slug": "/gameplay/spaceship/robots",
+  "permalink": "/docs/gameplay/spaceship/robots",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/spaceship/robots.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deposit Modules",
+    "permalink": "/docs/gameplay/spaceship/deposit_modules"
+  },
+  "next": {
+    "title": "Mothership",
+    "permalink": "/docs/gameplay/mothership"
+  }
+}

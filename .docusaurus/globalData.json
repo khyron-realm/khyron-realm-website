@@ -56,8 +56,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "gameplay/mothership",
-              "path": "/docs/gameplay/mothership",
+              "id": "gameplay/mothership/description",
+              "path": "/docs/gameplay/mothership/description",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/mothership/jobs",
+              "path": "/docs/gameplay/mothership/jobs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/mothership/main_hubs",
+              "path": "/docs/gameplay/mothership/main_hubs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/mothership/specifications",
+              "path": "/docs/gameplay/mothership/specifications",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -66,8 +81,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "gameplay/spaceship",
-              "path": "/docs/gameplay/spaceship",
+              "id": "gameplay/robots",
+              "path": "/docs/gameplay/robots",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/spaceship/core_module",
+              "path": "/docs/gameplay/spaceship/core_module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/spaceship/deposit_modules",
+              "path": "/docs/gameplay/spaceship/deposit_modules",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/spaceship/description",
+              "path": "/docs/gameplay/spaceship/description",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/spaceship/generator_modules",
+              "path": "/docs/gameplay/spaceship/generator_modules",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/spaceship/machine_modules",
+              "path": "/docs/gameplay/spaceship/machine_modules",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gameplay/spaceship/specifications",
+              "path": "/docs/gameplay/spaceship/specifications",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/robots",
+  "id": "gameplay/robots",
+  "title": "Robots",
+  "description": "To gather all the resources, multiple robot types were developed to overcome the environmental obstacles.",
+  "source": "@site/docs/gameplay/robots.md",
+  "sourceDirName": "gameplay",
+  "slug": "/gameplay/robots",
+  "permalink": "/docs/gameplay/robots",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/robots.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mines",
+    "permalink": "/docs/gameplay/mines"
+  },
+  "next": {
+    "title": "🚀 Getting Started",
+    "permalink": "/docs/getting_started"
+  }
+}

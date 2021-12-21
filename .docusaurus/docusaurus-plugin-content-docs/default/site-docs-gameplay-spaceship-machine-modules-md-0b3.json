@@ -1,0 +1,26 @@
+{
+  "unversionedId": "gameplay/spaceship/machine_modules",
+  "id": "gameplay/spaceship/machine_modules",
+  "title": "Machine Modules",
+  "description": "Robot Factory",
+  "source": "@site/docs/gameplay/spaceship/machine_modules.md",
+  "sourceDirName": "gameplay/spaceship",
+  "slug": "/gameplay/spaceship/machine_modules",
+  "permalink": "/docs/gameplay/spaceship/machine_modules",
+  "editUrl": "https://github.com/target-software/game-website/wiki/docs/gameplay/spaceship/machine_modules.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generator Modules",
+    "permalink": "/docs/gameplay/spaceship/generator_modules"
+  },
+  "next": {
+    "title": "Deposit Modules",
+    "permalink": "/docs/gameplay/spaceship/deposit_modules"
+  }
+}
