@@ -26,9 +26,6 @@ ___
 ### Andrei PECHEANU
 *Blockchain developer*
 
-### Ioan SUFLET
-*Web developer*
-
 ___
 
 ## Design

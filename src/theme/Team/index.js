@@ -42,12 +42,6 @@ const data = [
     name: <>Ana POPESCU</>,
     role: <>Concept<br />artist</>,
   },
-  {
-    link: "/docs/team#ioan-suflet",
-    image: "/img/robots/worker.png",
-    name: <>Ioan SUFLET</>,
-    role: <>Web developer</>,
-  },
 ];
 
 function Resource({ link, image, name, role }) {

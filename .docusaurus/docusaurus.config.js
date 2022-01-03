@@ -294,7 +294,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright ©2021 <b>Khyron Realm</b>. All rights reserved.",
+      "copyright": "Copyright ©2022 <b>Khyron Realm</b>. All rights reserved.",
       "style": "dark"
     },
     "docs": {
