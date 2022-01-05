@@ -21,10 +21,6 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/about-239": {
-    "component": "component---site-src-pages-about-js-779-319",
-    "config": "config---about-5-e-9-bcb"
-  },
   "/blog-8f8": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---blog-814-8ac",
@@ -100,41 +96,13 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcome-420-458"
   },
-  "/contact-244": {
-    "component": "component---site-src-pages-contact-js-83-e-320",
-    "config": "config---about-5-e-9-bcb"
-  },
-  "/docs-410": {
+  "/docs-cb8": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
   "/docs/description-352": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-description-828-19e"
-  },
-  "/docs/disclaimer-7ad": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-disclaimerfe-0-b76"
-  },
-  "/docs/gamefi/events-59b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gamefi-eventscc-0-8f7"
-  },
-  "/docs/gamefi/nft_accounts-ad6": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gamefi-nft-accountsd-81-7c9"
-  },
-  "/docs/gamefi/nft_characters-7ab": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gamefi-nft-characters-464-56d"
-  },
-  "/docs/gamefi/nft_renting-97a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gamefi-nft-renting-2-bb-b26"
-  },
-  "/docs/gamefi/voting_system-0d7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-gamefi-voting-system-432-aec"
   },
   "/docs/gameplay/game-c46": {
     "component": "component---theme-doc-item-178-a40",
@@ -232,12 +200,8 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-terms-conditionsf-45-c09"
   },
-  "/docs/tokenomics-110": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tokenomics-5-ae-0fd"
-  },
   "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---about-5-e-9-bcb"
+    "config": "config---5-e-9-4f3"
   }
 }

@@ -173,56 +173,6 @@
         "docId": "technology"
       },
       {
-        "type": "category",
-        "label": "🖼️ GameFi",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "NFT Accounts",
-            "href": "/docs/gamefi/nft_accounts",
-            "docId": "gamefi/nft_accounts"
-          },
-          {
-            "type": "link",
-            "label": "NFT Characters",
-            "href": "/docs/gamefi/nft_characters",
-            "docId": "gamefi/nft_characters"
-          },
-          {
-            "type": "link",
-            "label": "Voting System",
-            "href": "/docs/gamefi/voting_system",
-            "docId": "gamefi/voting_system"
-          },
-          {
-            "type": "link",
-            "label": "NFTs Renting",
-            "href": "/docs/gamefi/nft_renting",
-            "docId": "gamefi/nft_renting"
-          },
-          {
-            "type": "link",
-            "label": "Events",
-            "href": "/docs/gamefi/events",
-            "docId": "gamefi/events"
-          }
-        ]
-      },
-      {
-        "type": "link",
-        "label": "🏦 Tokenomics",
-        "href": "/docs/tokenomics",
-        "docId": "tokenomics"
-      },
-      {
-        "type": "link",
-        "label": "⚠️ Disclaimer",
-        "href": "/docs/disclaimer",
-        "docId": "disclaimer"
-      },
-      {
         "type": "link",
         "label": "👥 Team",
         "href": "/docs/team",
@@ -247,42 +197,6 @@
       "id": "description",
       "title": "ℹ️ Description",
       "description": "Environment",
-      "sidebar": "tutorialSidebar"
-    },
-    "disclaimer": {
-      "id": "disclaimer",
-      "title": "⚠️ Disclaimer",
-      "description": "Investing involves a significant level of risk. It's critical to conduct your research.",
-      "sidebar": "tutorialSidebar"
-    },
-    "gamefi/events": {
-      "id": "gamefi/events",
-      "title": "Events",
-      "description": "Events for gathering interest and funding.",
-      "sidebar": "tutorialSidebar"
-    },
-    "gamefi/nft_accounts": {
-      "id": "gamefi/nft_accounts",
-      "title": "NFT Accounts",
-      "description": "Metadata of the NFT will be linked with progress in our database. We will check user’s wallet to see what NFT account he has.",
-      "sidebar": "tutorialSidebar"
-    },
-    "gamefi/nft_characters": {
-      "id": "gamefi/nft_characters",
-      "title": "NFT Characters",
-      "description": "- Customize the character as you want with different effects and styles that you chose.",
-      "sidebar": "tutorialSidebar"
-    },
-    "gamefi/nft_renting": {
-      "id": "gamefi/nft_renting",
-      "title": "NFTs Renting",
-      "description": "Renting items details coming soon ...",
-      "sidebar": "tutorialSidebar"
-    },
-    "gamefi/voting_system": {
-      "id": "gamefi/voting_system",
-      "title": "Voting System",
-      "description": "Used for different game events:",
       "sidebar": "tutorialSidebar"
     },
     "gameplay/game": {
@@ -427,12 +341,6 @@
       "id": "terms&conditions",
       "title": "✍️ Terms & Conditions",
       "description": "These terms and conditions (“Agreement”) set forth the general terms and conditions of your use of the “RoboChain” mobile application (“Mobile Application” or “Service”) and any of its related products and services (collectively, “Services”). This Agreement is legally binding between you (“User”, “you” or “your”) and this Mobile Application developer (“Operator”, “we”, “us” or “our”). If you are entering into this agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this agreement, in which case the terms “User”, “you” or “your” shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this agreement, you must not accept this agreement and may not access and use the Mobile Application and Services. By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Mobile Application and Services.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tokenomics": {
-      "id": "tokenomics",
-      "title": "🏦 Tokenomics",
-      "description": "Economy token",
       "sidebar": "tutorialSidebar"
     }
   }

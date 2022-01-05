@@ -1,4 +1,5 @@
 .resources {
+  background-color: var(--ifm-background-surface-color);
 }
 
 .resource {
@@ -25,9 +26,21 @@
 .card {
   flex-grow: 1;
   justify-content: center;
-  background: var(--ifm-background-surface-color);
+  background: var(--ifm-background-color);
 
   &:hover {
     border-color: var(--ifm-color-primary-light) !important;
+  }
+}
+
+.team_title {
+  font-size: 2.5rem;
+  text-align: center;
+  color: white;
+}
+
+@media screen and (min-width: 992px) {
+  .team_title {
+    font-size: 3rem;
   }
 }

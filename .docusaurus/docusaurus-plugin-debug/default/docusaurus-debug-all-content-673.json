@@ -41,162 +41,6 @@
               }
             },
             {
-              "unversionedId": "disclaimer",
-              "id": "disclaimer",
-              "title": "⚠️ Disclaimer",
-              "description": "Investing involves a significant level of risk. It's critical to conduct your research.",
-              "source": "@site/docs/disclaimer.md",
-              "sourceDirName": ".",
-              "slug": "/disclaimer",
-              "permalink": "/docs/disclaimer",
-              "editUrl": "https://github.com/target-software/game-website/wiki/docs/disclaimer.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 9,
-              "frontMatter": {
-                "sidebar_position": 9
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "🏦 Tokenomics",
-                "permalink": "/docs/tokenomics"
-              },
-              "next": {
-                "title": "👥 Team",
-                "permalink": "/docs/team"
-              }
-            },
-            {
-              "unversionedId": "gamefi/events",
-              "id": "gamefi/events",
-              "title": "Events",
-              "description": "Events for gathering interest and funding.",
-              "source": "@site/docs/gamefi/events.md",
-              "sourceDirName": "gamefi",
-              "slug": "/gamefi/events",
-              "permalink": "/docs/gamefi/events",
-              "editUrl": "https://github.com/target-software/game-website/wiki/docs/gamefi/events.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "NFTs Renting",
-                "permalink": "/docs/gamefi/nft_renting"
-              },
-              "next": {
-                "title": "🏦 Tokenomics",
-                "permalink": "/docs/tokenomics"
-              }
-            },
-            {
-              "unversionedId": "gamefi/nft_accounts",
-              "id": "gamefi/nft_accounts",
-              "title": "NFT Accounts",
-              "description": "Metadata of the NFT will be linked with progress in our database. We will check user’s wallet to see what NFT account he has.",
-              "source": "@site/docs/gamefi/nft_accounts.md",
-              "sourceDirName": "gamefi",
-              "slug": "/gamefi/nft_accounts",
-              "permalink": "/docs/gamefi/nft_accounts",
-              "editUrl": "https://github.com/target-software/game-website/wiki/docs/gamefi/nft_accounts.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "💻 Technology",
-                "permalink": "/docs/technology"
-              },
-              "next": {
-                "title": "NFT Characters",
-                "permalink": "/docs/gamefi/nft_characters"
-              }
-            },
-            {
-              "unversionedId": "gamefi/nft_characters",
-              "id": "gamefi/nft_characters",
-              "title": "NFT Characters",
-              "description": "- Customize the character as you want with different effects and styles that you chose.",
-              "source": "@site/docs/gamefi/nft_characters.md",
-              "sourceDirName": "gamefi",
-              "slug": "/gamefi/nft_characters",
-              "permalink": "/docs/gamefi/nft_characters",
-              "editUrl": "https://github.com/target-software/game-website/wiki/docs/gamefi/nft_characters.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "NFT Accounts",
-                "permalink": "/docs/gamefi/nft_accounts"
-              },
-              "next": {
-                "title": "Voting System",
-                "permalink": "/docs/gamefi/voting_system"
-              }
-            },
-            {
-              "unversionedId": "gamefi/nft_renting",
-              "id": "gamefi/nft_renting",
-              "title": "NFTs Renting",
-              "description": "Renting items details coming soon ...",
-              "source": "@site/docs/gamefi/nft_renting.md",
-              "sourceDirName": "gamefi",
-              "slug": "/gamefi/nft_renting",
-              "permalink": "/docs/gamefi/nft_renting",
-              "editUrl": "https://github.com/target-software/game-website/wiki/docs/gamefi/nft_renting.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Voting System",
-                "permalink": "/docs/gamefi/voting_system"
-              },
-              "next": {
-                "title": "Events",
-                "permalink": "/docs/gamefi/events"
-              }
-            },
-            {
-              "unversionedId": "gamefi/voting_system",
-              "id": "gamefi/voting_system",
-              "title": "Voting System",
-              "description": "Used for different game events:",
-              "source": "@site/docs/gamefi/voting_system.md",
-              "sourceDirName": "gamefi",
-              "slug": "/gamefi/voting_system",
-              "permalink": "/docs/gamefi/voting_system",
-              "editUrl": "https://github.com/target-software/game-website/wiki/docs/gamefi/voting_system.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "NFT Characters",
-                "permalink": "/docs/gamefi/nft_characters"
-              },
-              "next": {
-                "title": "NFTs Renting",
-                "permalink": "/docs/gamefi/nft_renting"
-              }
-            },
-            {
               "unversionedId": "gameplay/game",
               "id": "gameplay/game",
               "title": "Game",
@@ -598,9 +442,9 @@
               "editUrl": "https://github.com/target-software/game-website/wiki/docs/privacy_policy.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 11,
+              "sidebarPosition": 10,
               "frontMatter": {
-                "sidebar_position": 11
+                "sidebar_position": 10
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -750,14 +594,14 @@
               "editUrl": "https://github.com/target-software/game-website/wiki/docs/team.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 9,
+              "sidebarPosition": 8,
               "frontMatter": {
-                "sidebar_position": 9
+                "sidebar_position": 8
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "⚠️ Disclaimer",
-                "permalink": "/docs/disclaimer"
+                "title": "💻 Technology",
+                "permalink": "/docs/technology"
               },
               "next": {
                 "title": "✍️ Terms & Conditions",
@@ -786,8 +630,8 @@
                 "permalink": "/docs/roadmap"
               },
               "next": {
-                "title": "NFT Accounts",
-                "permalink": "/docs/gamefi/nft_accounts"
+                "title": "👥 Team",
+                "permalink": "/docs/team"
               }
             },
             {
@@ -802,9 +646,9 @@
               "editUrl": "https://github.com/target-software/game-website/wiki/docs/terms&conditions.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 10,
+              "sidebarPosition": 9,
               "frontMatter": {
-                "sidebar_position": 10
+                "sidebar_position": 9
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -814,32 +658,6 @@
               "next": {
                 "title": "🛡️ Privacy policy",
                 "permalink": "/docs/privacy_policy"
-              }
-            },
-            {
-              "unversionedId": "tokenomics",
-              "id": "tokenomics",
-              "title": "🏦 Tokenomics",
-              "description": "Economy token",
-              "source": "@site/docs/tokenomics.md",
-              "sourceDirName": ".",
-              "slug": "/tokenomics",
-              "permalink": "/docs/tokenomics",
-              "editUrl": "https://github.com/target-software/game-website/wiki/docs/tokenomics.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 8,
-              "frontMatter": {
-                "sidebar_position": 8
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Events",
-                "permalink": "/docs/gamefi/events"
-              },
-              "next": {
-                "title": "⚠️ Disclaimer",
-                "permalink": "/docs/disclaimer"
               }
             }
           ],
@@ -964,42 +782,6 @@
               {
                 "type": "doc",
                 "id": "technology"
-              },
-              {
-                "type": "category",
-                "label": "🖼️ GameFi",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "gamefi/nft_accounts"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "gamefi/nft_characters"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "gamefi/voting_system"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "gamefi/nft_renting"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "gamefi/events"
-                  }
-                ]
-              },
-              {
-                "type": "doc",
-                "id": "tokenomics"
-              },
-              {
-                "type": "doc",
-                "id": "disclaimer"
               },
               {
                 "type": "doc",
@@ -1161,16 +943,6 @@
   },
   "docusaurus-plugin-content-pages": {
     "default": [
-      {
-        "type": "jsx",
-        "permalink": "/about",
-        "source": "@site/src/pages/about.js"
-      },
-      {
-        "type": "jsx",
-        "permalink": "/contact",
-        "source": "@site/src/pages/contact.js"
-      },
       {
         "type": "jsx",
         "permalink": "/",

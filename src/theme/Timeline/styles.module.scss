@@ -3,9 +3,22 @@
     align-items: center;
     padding: 2rem 0;
     width: 100%;
+    background-color: var(--ifm-background-surface-color);
 }
 
 .roadmap-element {
     background: white;
     color: grey;
+}
+
+.roadmap_title {
+    font-size: 2.5rem;
+    text-align: center;
+    color: white;
+}
+
+@media screen and (min-width: 992px) {
+    .roadmap_title {
+        font-size: 3rem;
+    }
 }

@@ -1,45 +1,43 @@
 import React from "react";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
-
-import Headline from "@theme/Headline";
 import styles from "./styles.module.scss";
 
 const data = [
   {
-    link: "/docs/team#serban-chisca",
-    image: "/img/robots/crusher.png",
-    name: <>Serban CHISCA</>,
-    role: <>Game designer</>,
-  },
-  {
     link: "/docs/team#alexandru-grigoras",
     image: "/img/robots/probe.png",
-    name: <>Alexandru GRIGORAS</>,
-    role: <>Game producer</>,
+    name: <>Alexandru<br />GRIGORAS</>,
+    role: <>Game<br />producer</>,
+  },
+  {
+    link: "/docs/team#serban-chisca",
+    image: "/img/robots/probe.png",
+    name: <>Serban<br />CHISCA</>,
+    role: <>Game<br />designer</>,
   },
   {
     link: "/docs/team#tudor-stoian",
     image: "/img/robots/crusher.png",
-    name: <>Tudor STOIAN</>,
+    name: <>Tudor<br />STOIAN</>,
     role: <>Game<br />Artist</>,
   },
   {
     link: "/docs/team#codrin-burlacu",
     image: "/img/robots/worker.png",
-    name: <>Codrin BURLACU</>,
-    role: <>Game developer</>,
+    name: <>Codrin<br />BURLACU</>,
+    role: <>Game<br />developer</>,
   },
   {
     link: "/docs/team#andrei-pecheanu",
-    image: "/img/robots/worker.png",
-    name: <>Andrei PECHEANU</>,
-    role: <>Blockchain developer</>,
+    image: "/img/robots/crusher.png",
+    name: <>Andrei<br />PECHEANU</>,
+    role: <>Sound<br />producer</>,
   },
   {
     link: "/docs/team#ana-popescu",
     image: "/img/robots/worker.png",
-    name: <>Ana POPESCU</>,
+    name: <>Ana<br />POPESCU</>,
     role: <>Concept<br />artist</>,
   },
 ];
@@ -47,12 +45,12 @@ const data = [
 function Resource({ link, image, name, role }) {
   return (
     <Link className={clsx("card", styles.card)} to={link}>
-      <div className="card__header">
+      <div className="card__header" align={'center'}>
         {image && <img src={image} alt={name + "image"}/>}
         {name && <h3>{name}</h3>}
       </div>
       {role && (
-        <div className="card__body">
+        <div className="card__body" align={'center'}>
           <p>{role}</p>
         </div>
       )}
@@ -64,12 +62,10 @@ function Team() {
   return (
     <>
       {data && data.length > 0 && (
-        <section id="resouces" className={styles.resources}>
+        <section id="resources" className={styles.resources}>
           <div className="container">
-            <Headline
-              title="Team"
-              offset={1}
-            />
+            <h1 className={styles.team_title}>Team</h1>
+            <div className="underline"></div>
 
             <div className="row">
               {data[3] && (

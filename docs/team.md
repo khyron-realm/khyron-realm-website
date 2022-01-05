@@ -1,11 +1,11 @@
 ---
-sidebar_position: 9
+sidebar_position: 8
 ---
 
 # 👥 Team
 
 Khyron Realm is being developed by a team of engineers and artists.
-The team consists of 7 members and is located in Iasi, Romania.
+The team consists of 6 members and is located in Iasi, Romania.
 ___
 
 ## Development
@@ -24,7 +24,7 @@ ___
 *Game developer*
 
 ### Andrei PECHEANU
-*Blockchain developer*
+*Sound producer*
 
 ___
 

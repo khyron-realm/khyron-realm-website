@@ -6,22 +6,22 @@ import styles from "./styles.module.scss";
 
 const data = [
   {
-    title: <>Build</>,
-    image: "/img/description/build.png",
+    title: <>Create</>,
+    image: "/img/description/create.png",
     description: (
       <>Rebuild your base from the crash and help to establish a colony on the planet Khyron</>
     ),
   },
   {
-    title: <>Collaborate</>,
-    image: "/img/description/collaborate.png",
-    description: <>Meet with other fleets and collaborate to gather resources and complete tasks</>,
+    title: <>Compete</>,
+    image: "/img/description/compete.png",
+    description: <>Meet with other fleets and compete to gather resources and complete tasks</>,
   },
   {
-    title: <>Earn</>,
-    image: "/img/description/earn.png",
+    title: <>Collect</>,
+    image: "/img/description/collect.png",
     description: (
-      <>Receive rewards in crypto tokens for the in-game progress and invest in collectibles</>
+      <>Gather resources by using the robots to mine for silicon, lithium and titanium</>
     ),
   },
 ];
@@ -48,10 +48,8 @@ function Features() {
       {data && data.length > 0 && (
         <section id="features" className={styles.features}>
           <div className="container">
-            <Headline
-              title="Description"
-              offset={1}
-            />
+            <h1 className={styles.features_title}>Description</h1>
+            <div className="underline"></div>
 
             <div className="row">
               {data.map((props, idx) => (

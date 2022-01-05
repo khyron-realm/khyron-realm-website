@@ -39,11 +39,6 @@ export default [
     exact: true
   },
   {
-    path: '/about',
-    component: ComponentCreator('/about','239'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog','8f8'),
     exact: true
@@ -89,53 +84,12 @@ export default [
     exact: true
   },
   {
-    path: '/contact',
-    component: ComponentCreator('/contact','244'),
-    exact: true
-  },
-  {
     path: '/docs',
-    component: ComponentCreator('/docs','410'),
+    component: ComponentCreator('/docs','cb8'),
     routes: [
       {
         path: '/docs/description',
         component: ComponentCreator('/docs/description','352'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/disclaimer',
-        component: ComponentCreator('/docs/disclaimer','7ad'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/gamefi/events',
-        component: ComponentCreator('/docs/gamefi/events','59b'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/gamefi/nft_accounts',
-        component: ComponentCreator('/docs/gamefi/nft_accounts','ad6'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/gamefi/nft_characters',
-        component: ComponentCreator('/docs/gamefi/nft_characters','7ab'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/gamefi/nft_renting',
-        component: ComponentCreator('/docs/gamefi/nft_renting','97a'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/gamefi/voting_system',
-        component: ComponentCreator('/docs/gamefi/voting_system','0d7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -280,12 +234,6 @@ export default [
       {
         path: '/docs/terms&conditions',
         component: ComponentCreator('/docs/terms&conditions','f5f'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/tokenomics',
-        component: ComponentCreator('/docs/tokenomics','110'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

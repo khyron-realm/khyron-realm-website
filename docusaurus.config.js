@@ -1,6 +1,6 @@
 module.exports = {
   title: "KHYRON REALM",
-  tagline: "Free to Play to Earn MMO",
+  tagline: "Free to Play MMO game",
   url: "https://khyron-realm.netlify.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -42,10 +42,10 @@ module.exports = {
         {
           type: 'doc',
           docId: 'description',
-          position: 'left',
-          label: 'Whitepaper',
+          position: 'right',
+          label: 'Wiki',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Blog', position: 'right'},
         {
           href: '/docs/getting_started',
           label: 'Play Demo',
@@ -56,11 +56,6 @@ module.exports = {
           label: 'Discord',
           position: 'right',
         },
-        {
-          href: '#',
-          label: 'Donate',
-          position: 'right',
-        },
       ],
     },
     footer: {
@@ -69,25 +64,12 @@ module.exports = {
           title: 'Getting started',
           items: [
             {
-              label: 'Whitepaper',
+              label: 'Wiki',
               to: '/docs/description',
             },
             {
               label: 'Play demo',
               to: '/docs/getting_started',
-            },
-          ],
-        },
-        {
-          title: 'Info',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'Docusaurus',
-              href: 'https://github.com/facebook/docusaurus',
             },
           ],
         },
@@ -109,6 +91,19 @@ module.exports = {
             {
               label: 'YouTube',
               href: 'https://www.youtube.com/channel/UC6f6rpDLnvDvEFDiB3t6-Jw',
+            },
+          ],
+        },
+        {
+          title: 'Info',
+          items: [
+            {
+              label: 'Blog',
+              to: '/blog',
+            },
+            {
+              label: 'Docusaurus',
+              href: 'https://github.com/facebook/docusaurus',
             },
           ],
         },

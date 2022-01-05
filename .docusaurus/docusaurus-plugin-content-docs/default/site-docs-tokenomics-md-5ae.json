@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Events",
-    "permalink": "/docs/gamefi/events"
-  },
-  "next": {
     "title": "⚠️ Disclaimer",
     "permalink": "/docs/disclaimer"
+  },
+  "next": {
+    "title": "👥 Team",
+    "permalink": "/docs/team"
   }
 }

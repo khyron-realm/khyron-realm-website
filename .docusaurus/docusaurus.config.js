@@ -1,6 +1,6 @@
 export default {
   "title": "KHYRON REALM",
-  "tagline": "Free to Play to Earn MMO",
+  "tagline": "Free to Play MMO game",
   "url": "https://khyron-realm.netlify.app",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -219,13 +219,13 @@ export default {
         {
           "type": "doc",
           "docId": "description",
-          "position": "left",
-          "label": "Whitepaper"
+          "position": "right",
+          "label": "Wiki"
         },
         {
           "to": "/blog",
           "label": "Blog",
-          "position": "left"
+          "position": "right"
         },
         {
           "href": "/docs/getting_started",
@@ -236,11 +236,6 @@ export default {
           "href": "https://discord.gg/JpgFgxvqSK",
           "label": "Discord",
           "position": "right"
-        },
-        {
-          "href": "#",
-          "label": "Donate",
-          "position": "right"
         }
       ]
     },
@@ -250,25 +245,12 @@ export default {
           "title": "Getting started",
           "items": [
             {
-              "label": "Whitepaper",
+              "label": "Wiki",
               "to": "/docs/description"
             },
             {
               "label": "Play demo",
               "to": "/docs/getting_started"
-            }
-          ]
-        },
-        {
-          "title": "Info",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "Docusaurus",
-              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         },
@@ -290,6 +272,19 @@ export default {
             {
               "label": "YouTube",
               "href": "https://www.youtube.com/channel/UC6f6rpDLnvDvEFDiB3t6-Jw"
+            }
+          ]
+        },
+        {
+          "title": "Info",
+          "items": [
+            {
+              "label": "Blog",
+              "to": "/blog"
+            },
+            {
+              "label": "Docusaurus",
+              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }

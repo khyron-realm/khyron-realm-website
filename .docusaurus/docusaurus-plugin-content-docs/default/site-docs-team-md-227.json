@@ -10,14 +10,14 @@
   "editUrl": "https://github.com/target-software/game-website/wiki/docs/team.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 9,
+  "sidebarPosition": 8,
   "frontMatter": {
-    "sidebar_position": 9
+    "sidebar_position": 8
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "⚠️ Disclaimer",
-    "permalink": "/docs/disclaimer"
+    "title": "💻 Technology",
+    "permalink": "/docs/technology"
   },
   "next": {
     "title": "✍️ Terms & Conditions",
