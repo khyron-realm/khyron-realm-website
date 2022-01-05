@@ -442,9 +442,9 @@
               "editUrl": "https://github.com/target-software/game-website/wiki/docs/privacy_policy.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 10,
+              "sidebarPosition": 9,
               "frontMatter": {
-                "sidebar_position": 10
+                "sidebar_position": 9
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -594,9 +594,9 @@
               "editUrl": "https://github.com/target-software/game-website/wiki/docs/team.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 8,
+              "sidebarPosition": 7,
               "frontMatter": {
-                "sidebar_position": 8
+                "sidebar_position": 7
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -612,7 +612,7 @@
               "unversionedId": "technology",
               "id": "technology",
               "title": "💻 Technology",
-              "description": "Blockchain",
+              "description": "Graphics",
               "source": "@site/docs/technology.md",
               "sourceDirName": ".",
               "slug": "/technology",
@@ -646,9 +646,9 @@
               "editUrl": "https://github.com/target-software/game-website/wiki/docs/terms&conditions.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 9,
+              "sidebarPosition": 8,
               "frontMatter": {
-                "sidebar_position": 9
+                "sidebar_position": 8
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -831,7 +831,7 @@
                 "permalink": "/blog/tags/khyron"
               }
             ],
-            "readingTime": 0.345,
+            "readingTime": 0.315,
             "truncated": false,
             "authors": [
               {
@@ -847,7 +847,7 @@
               "permalink": "/blog/welcome"
             }
           },
-          "content": "## About The Game\nJoin the early release of Khyron Realm *(initially RoboChain)*, a MMO mobile game which combines the strategic thinking by creating robots and mining for resources with quick decisions for competing to win auctions.\n\nThe game is in early development and data persistence is not guaranteed.\n\n#### P.S. Crypto coming soon ...\n\n## Join Beta Testing\n\n#### iOS: https://testflight.apple.com/join/K4Yyhzjk\n\n#### Android: https://play.google.com/store/apps/details?id=com.UnlimitedStudios.RoboChain\n(GMail needed for approval)"
+          "content": "## About The Game\nJoin the early release of Khyron Realm *(initially RoboChain)*, a MMO mobile game which combines the strategic thinking by creating robots and mining for resources with quick decisions for competing to win auctions.\n\nThe game is in early development and data persistence is not guaranteed.\n\n## Join Beta Testing\n\n#### iOS: https://testflight.apple.com/join/K4Yyhzjk\n\n#### Android: https://play.google.com/store/apps/details?id=com.UnlimitedStudios.RoboChain\n(GMail needed for approval)"
         },
         {
           "id": "welcome",

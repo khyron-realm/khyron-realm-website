@@ -10,8 +10,6 @@ Join the early release of Khyron Realm *(initially RoboChain)*, a MMO mobile gam
 
 The game is in early development and data persistence is not guaranteed.
 
-#### P.S. Crypto coming soon ...
-
 ## Join Beta Testing
 
 #### iOS: https://testflight.apple.com/join/K4Yyhzjk

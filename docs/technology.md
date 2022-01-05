@@ -4,10 +4,6 @@ sidebar_position: 6
 
 # 💻 Technology
 
-## Blockchain
-
-**Protocol of development:** Polygon *(L2)*
-
 ## Graphics
 
 We used 2d flat style graphics for the game. The theme is colorful and is suitable for everyone.
@@ -34,4 +30,4 @@ Website technology coming soon ...
 
 ---
 
-*Last updated: 20 DEC 2021*
+*Last updated: 5 JAN 2022*

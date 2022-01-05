@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkhyron_realm_website=self.webpackChunkkhyron_realm_website||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Khyron Realm Test Version","permalink":"/blog/khyron-test-version"},{"title":"Welcome","permalink":"/blog/welcome"}]}')}}]);

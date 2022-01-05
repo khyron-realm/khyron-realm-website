@@ -10,9 +10,9 @@
   "editUrl": "https://github.com/target-software/game-website/wiki/docs/privacy_policy.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 10,
+  "sidebarPosition": 9,
   "frontMatter": {
-    "sidebar_position": 10
+    "sidebar_position": 9
   },
   "sidebar": "tutorialSidebar",
   "previous": {

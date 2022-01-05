@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 7
 ---
 
 # 👥 Team
@@ -39,4 +39,4 @@ ___
 
 ---
 
-*Last updated: 14 DEC 2021*
+*Last updated: 5 JAN 2022*

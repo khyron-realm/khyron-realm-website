@@ -2,7 +2,7 @@
   "unversionedId": "technology",
   "id": "technology",
   "title": "💻 Technology",
-  "description": "Blockchain",
+  "description": "Graphics",
   "source": "@site/docs/technology.md",
   "sourceDirName": ".",
   "slug": "/technology",

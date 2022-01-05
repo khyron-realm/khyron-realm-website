@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkhyron_realm_website=self.webpackChunkkhyron_realm_website||[]).push([[528],{6355:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/test","name":"test","count":1,"permalink":"/blog/tags/test"}')}}]);
