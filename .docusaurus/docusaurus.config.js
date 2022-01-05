@@ -207,7 +207,7 @@ export default {
     },
     "image": "img/logo/logo.png",
     "navbar": {
-      "hideOnScroll": true,
+      "hideOnScroll": false,
       "title": "Khyron Realm",
       "style": "dark",
       "logo": {

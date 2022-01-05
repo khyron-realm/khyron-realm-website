@@ -10,7 +10,7 @@ const Project = ({ description, title, github, stack, url, image, index }) => {
       <div className="work-info">
         <span className="work-number">0{index + 1}.</span>
         <h3>{title || "default title"}</h3>
-        <p className="work-desc">{description}</p>
+        <p>{description}</p>
         <div className="work-stack">
           {stack.map((item, index) => {
             return <span key={index}>{item}</span>;

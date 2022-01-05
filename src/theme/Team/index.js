@@ -24,13 +24,13 @@ const data = [
   },
   {
     link: "/docs/team#codrin-burlacu",
-    image: "/img/robots/worker.png",
+    image: "/img/robots/crusher.png",
     name: <>Codrin<br />BURLACU</>,
     role: <>Game<br />developer</>,
   },
   {
     link: "/docs/team#andrei-pecheanu",
-    image: "/img/robots/crusher.png",
+    image: "/img/robots/worker.png",
     name: <>Andrei<br />PECHEANU</>,
     role: <>Sound<br />producer</>,
   },
@@ -68,15 +68,15 @@ function Team() {
             <div className="underline"></div>
 
             <div className="row">
-              {data[3] && (
-                  <div className={clsx("col", styles.resource)}>
-                    <Resource {...data[3]} />
-                  </div>
-              )}
-
               {data[4] && (
                   <div className={clsx("col", styles.resource)}>
                     <Resource {...data[4]} />
+                  </div>
+              )}
+
+              {data[3] && (
+                  <div className={clsx("col", styles.resource)}>
+                    <Resource {...data[3]} />
                   </div>
               )}
 

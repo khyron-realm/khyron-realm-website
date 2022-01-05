@@ -20,7 +20,7 @@
   --ifm-color-primary-darker: #06508d;
   --ifm-color-primary-darkest: #013966;
   --ifm-color-primary-light: #20232a;
-  --ifm-color-primary-lighter: #c6ebfc;
+  --ifm-color-primary-lighter: #150040;
   --ifm-color-primary-lightest: #f3fcff;
   --ifm-code-font-size: 95%;
 
@@ -185,13 +185,13 @@ html[data-theme="dark"] .projects {
   right: 0;
   height: 100%;
   width: 100%;
-  opacity: 0.7;
+  opacity: 0;
   transition: var(--transition);
   background-image: linear-gradient(to top, #4481eb 0%, #04befe 100%);
 }
 .work:hover .img-mask {
   cursor: pointer;
-  opacity: 0.05;
+  opacity: 0.1;
   /* width: 0; */
 }
 .work:hover .image {
@@ -205,7 +205,7 @@ html[data-theme="dark"] .projects {
   border-bottom-right-radius: var(--radius);
 }
 html[data-theme="dark"] .work-info {
-  background: var(--ifm-color-grey-8);
+  background: var(--ifm-background-color);
 }
 .work-number {
   display: inline-block;

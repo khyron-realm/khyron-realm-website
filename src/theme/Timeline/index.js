@@ -10,8 +10,8 @@ function TimelineData() {
         <VerticalTimeline lineColor={isDarkTheme ? '#20232a' : 'white'} className={"container"}>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work roadmap-element"
-                contentStyle={isDarkTheme ? { background: 'rgb(48, 56, 70)', color: 'white' } : { background: 'rgb(255, 255, 255)', color: 'rgb(28, 30, 33)' }}
-                contentArrowStyle={isDarkTheme ? { borderRight: '7px solid rgb(48, 56, 70)' } : { borderRight: '7px solid rgb(255, 255, 255)' }}
+                contentStyle={isDarkTheme ? { background: '#20232a', color: 'white' } : { background: 'rgb(255, 255, 255)', color: 'rgb(28, 30, 33)' }}
+                contentArrowStyle={isDarkTheme ? { borderRight: '7px solid #20232a' } : { borderRight: '7px solid rgb(255, 255, 255)' }}
                 date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)', badge: 'rgb(48, 56, 70)' }}
                 icon={<img src="/img/icons/concept_icon.png"  alt="img"/>}
@@ -24,8 +24,8 @@ function TimelineData() {
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
-                contentStyle={isDarkTheme ? { background: 'rgb(48, 56, 70)', color: 'white' } : { background: 'rgb(242, 246, 250)', color: 'rgb(28, 30, 33)' }}
-                contentArrowStyle={isDarkTheme ? { borderRight: '7px solid rgb(48, 56, 70)' } : { borderRight: '7px solid rgb(242, 246, 250)' }}
+                contentStyle={isDarkTheme ? { background: '#20232a', color: 'white' } : { background: 'rgb(255, 255, 255)', color: 'rgb(28, 30, 33)' }}
+                contentArrowStyle={isDarkTheme ? { borderRight: '7px solid #20232a' } : { borderRight: '7px solid rgb(255, 255, 255)' }}
                 date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
                 icon={<img src="/img/icons/testing_icon.png"  alt="img"/>}
@@ -38,8 +38,8 @@ function TimelineData() {
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
-                contentStyle={isDarkTheme ? { background: 'rgb(48, 56, 70)', color: 'white' } : { background: 'rgb(242, 246, 250)', color: 'rgb(28, 30, 33)' }}
-                contentArrowStyle={isDarkTheme ? { borderRight: '7px solid rgb(48, 56, 70)' } : { borderRight: '7px solid rgb(242, 246, 250)' }}
+                contentStyle={isDarkTheme ? { background: '#20232a', color: 'white' } : { background: 'rgb(255, 255, 255)', color: 'rgb(28, 30, 33)' }}
+                contentArrowStyle={isDarkTheme ? { borderRight: '7px solid #20232a' } : { borderRight: '7px solid rgb(255, 255, 255)' }}
                 date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
                 icon={<img src="/img/icons/launch_icon.png"  alt="img"/>}
@@ -52,8 +52,8 @@ function TimelineData() {
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
-                contentStyle={isDarkTheme ? { background: 'rgb(48, 56, 70)', color: 'white' } : { background: 'rgb(242, 246, 250)', color: 'rgb(28, 30, 33)' }}
-                contentArrowStyle={isDarkTheme ? { borderRight: '7px solid rgb(48, 56, 70)' } : { borderRight: '7px solid rgb(242, 246, 250)' }}
+                contentStyle={isDarkTheme ? { background: '#20232a', color: 'white' } : { background: 'rgb(255, 255, 255)', color: 'rgb(28, 30, 33)' }}
+                contentArrowStyle={isDarkTheme ? { borderRight: '7px solid #20232a' } : { borderRight: '7px solid rgb(255, 255, 255)' }}
                 date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
                 icon={<img src="/img/icons/expansion_icon.png"  alt="img"/>}
@@ -66,8 +66,8 @@ function TimelineData() {
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
-                contentStyle={isDarkTheme ? { background: 'rgb(48, 56, 70)', color: 'white' } : { background: 'rgb(242, 246, 250)', color: 'rgb(28, 30, 33)' }}
-                contentArrowStyle={isDarkTheme ? { borderRight: '7px solid rgb(48, 56, 70)' } : { borderRight: '7px solid rgb(242, 246, 250)' }}
+                contentStyle={isDarkTheme ? { background: '#20232a', color: 'white' } : { background: 'rgb(255, 255, 255)', color: 'rgb(28, 30, 33)' }}
+                contentArrowStyle={isDarkTheme ? { borderRight: '7px solid #20232a' } : { borderRight: '7px solid rgb(255, 255, 255)' }}
                 date=""
                 iconStyle={{ background: 'white', color: 'rgb(48, 56, 70)' }}
                 icon={<img src="/img/icons/development_icon.png"  alt="img"/>}
