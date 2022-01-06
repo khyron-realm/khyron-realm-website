@@ -266,10 +266,6 @@ export default {
               "href": "https://twitter.com/khyronrealm"
             },
             {
-              "label": "LinkedIn",
-              "href": "https://www.linkedin.com/company/khyron-realm"
-            },
-            {
               "label": "YouTube",
               "href": "https://www.youtube.com/channel/UC6f6rpDLnvDvEFDiB3t6-Jw"
             }
@@ -289,7 +285,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright ©2022 <b>Khyron Realm</b>. All rights reserved.",
+      "copyright": "Copyright ©2022 <b>Khyron Realm</b>. Website made with Docusaurus.",
       "style": "dark"
     },
     "docs": {

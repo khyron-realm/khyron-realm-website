@@ -12,7 +12,7 @@
     <a href="https://github.com/target-software/game-website"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/target-software/game-website">View Demo</a>
+    <a href="https://khyron-realm.com">View Demo</a>
     ·
     <a href="https://github.com/target-software/game-website/issues">Report Bug</a>
     ·
@@ -37,7 +37,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#references">References</a></li>
   </ol>
@@ -77,33 +76,10 @@ $ yarn build
 ```
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-More detailes can be found on [Google Drive](https://docs.google.com/document/d/1CHdDfEm5BDM8vAbeubNgLF-Et8YwMgCbreD4CC6dSfo/edit)
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/target-software/game-website/issues) for a list of proposed features (and known issues).
-
-
-<!-- CONTRIBUTING -->
-## Project structure
-
-```bash
-< PROJECT ROOT >
-    |
-    |-- ...
-    |                               
-    |-- ************************************************************************
-```
-
-## Used Plugins and Software
-
-...
 
 
 <!-- REFERENCES -->
@@ -111,4 +87,4 @@ See the [open issues](https://github.com/target-software/game-website/issues) fo
 
 1. [Docusaurus](https://github.com/facebook/docusaurus)
 1. [RunletApp](https://github.com/runletapp/website)
-
+1. [HaochenQ](https://github.com/HaochenQ/Haochen-Blog)

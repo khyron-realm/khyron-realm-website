@@ -85,10 +85,6 @@ module.exports = {
               href: 'https://twitter.com/khyronrealm',
             },
             {
-              label: 'LinkedIn',
-              href: 'https://www.linkedin.com/company/khyron-realm',
-            },
-            {
               label: 'YouTube',
               href: 'https://www.youtube.com/channel/UC6f6rpDLnvDvEFDiB3t6-Jw',
             },
@@ -108,7 +104,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright ©${new Date().getFullYear()} <b>Khyron Realm</b>. All rights reserved.`,
+      copyright: `Copyright ©${new Date().getFullYear()} <b>Khyron Realm</b>. Website made with Docusaurus.`,
       style: "dark"
     },
   },
