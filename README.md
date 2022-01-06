@@ -20,6 +20,7 @@
   </p>
 </p>
 
+![image](screenshot.png)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
