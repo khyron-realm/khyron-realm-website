@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/khyron-realm/game-website">
+  <a href="https://github.com/khyron-realm/khyron-realm-website">
   </a>
 
   <h3 align="center">KHYRON REALM</h3>
@@ -9,14 +9,14 @@
   <p align="center">
     README for the Khyron Realm Game Website
     <br />
-    <a href="https://github.com/khyron-realm/game-website"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/khyron-realm/khyron-realm-website"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://khyron-realm.com">View Demo</a>
     ·
-    <a href="https://github.com/khyron-realm/game-website/issues">Report Bug</a>
+    <a href="https://github.com/khyron-realm/khyron-realm-website/issues">Report Bug</a>
     ·
-    <a href="https://github.com/khyron-realm/game-website/issues">Request Feature</a>
+    <a href="https://github.com/khyron-realm/khyron-realm-website/issues">Request Feature</a>
   </p>
 </p>
 
@@ -80,7 +80,7 @@ This command generates static content into the `build` directory and can be serv
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/khyron-realm/game-website/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/khyron-realm/khyron-realm-website/issues) for a list of proposed features (and known issues).
 
 
 <!-- REFERENCES -->
