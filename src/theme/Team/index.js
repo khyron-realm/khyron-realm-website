@@ -14,7 +14,7 @@ const data = [
     link: "/docs/team#serban-chisca",
     image: "/img/robots/probe.png",
     name: <>Serban<br />CHISCA</>,
-    role: <>Game<br />designer</>,
+    role: <>Game<br />Developer</>,
   },
   {
     link: "/docs/team#tudor-stoian",
