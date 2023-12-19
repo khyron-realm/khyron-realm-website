@@ -16,7 +16,7 @@ ___
 [Website](https://alexgrigoras.github.io/portfolio/) | [Linkedin](https://www.linkedin.com/in/alexandrugrigoras/) | [Twitter](https://twitter.com/alexandru_grigo) | [GitHub](https://github.com/alexgrigoras)
 
 ### Serban CHISCA
-*Co-founder, Game designer*
+*Co-founder, Game developer*
 
 [Reddit](https://www.reddit.com/user/serban1313) | [GitHub](https://github.com/sergane13)
 
